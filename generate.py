@@ -56,18 +56,6 @@ def does_object_exists(repo: Repository, object_path: str) -> bool:
     except github.UnknownObjectException:
         return False
 
-def parse_props(repo: Repository, object_path: str):
-    prop = repo.get_contents(object_path).decoded_content.decode("UTF-8")
-    properties = {}
-    for line in prop.splitlines():
-        if "=" not in line:
-            continue
-        lhs, rhs = line.split("=", 1)
-        properties.update({
-            lhs: convert_value(rhs)
-        })
-    return properties
-
 # Iterate over all public repositories
 for repo in repos:
     # It is possible that module.prop does not exist (meta repo)
@@ -78,7 +66,19 @@ for repo in repos:
         if not does_object_exists(repo, "module.prop"):
             continue
 
-        properties = parse_props(repo, "module.prop")
+        def getprop(name: str):
+            try:
+                properties = {}
+                for line in moduleprop_raw.splitlines():
+                    if "=" not in line:
+                        continue
+                    lhs, rhs = line.split("=", 1)
+                    properties.update({
+                        lhs: convert_value(rhs)
+                    })
+                return properties.get(name)
+            except:
+                return None
 
         # Get the last update timestamp of the module.prop file
         last_update_timestamp = moduleprop.last_modified
@@ -90,12 +90,12 @@ for repo in repos:
         last_update_timestamp = datetime.timestamp(last_update_datetime)
 
         module = {
-            "id": properties.get("id"),
-            "name": properties.get("name"),
-            "version": properties.get("version"),
-            "versionCode": properties.get("versionCode"),
-            "author": properties.get("author"),
-            "description": properties.get("description"),
+            "id": getprop("id"),
+            "name": getprop("name"),
+            "version": getprop("version"),
+            "versionCode": getprop("versionCode"),
+            "author": getprop("author"),
+            "description": getprop("description"),
             # Check if META-INF folder exists, which is required to install modules
             "valid": does_object_exists(repo, "META-INF"),
             "download": f"https://github.com/{repo.full_name}/archive/{repo.default_branch}.zip",
@@ -103,10 +103,10 @@ for repo in repos:
             "readme": f"https://raw.githubusercontent.com/{repo.full_name}/{repo.default_branch}/README.md",
             "stars": int(repo.stargazers_count),
             "mmrl": {
-                "cover": properties.get("mmrlCover"),
-                "logo":properties.get("mmrlLogo"),
-                "screenshots":properties.get("mmrlScreenshots").split(","),
-                "categories":properties.get("mmrlCategories").split(","),
+                "cover": getprop("mmrlCover"),
+                "logo":getprop("mmrlLogo"),
+                "screenshots":getprop("mmrlScreenshots").split(","),
+                "categories":getprop("mmrlCategories").split(","),
             },
         }
 
