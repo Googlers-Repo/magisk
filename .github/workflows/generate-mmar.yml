@@ -39,7 +39,7 @@ jobs:
           export REPO_TITLE="Magisk Modules Alt Repo"
           export REPO_SUBMIT_MODULE="https://github.com/Magisk-Modules-Alt-Repo/submission"
           export REPO_SCOPE="mmar"
-          export GIT_TOKEN="${{ secrets.AUTH_KEY }}"
+          export GIT_TOKEN="${{ TOKEN }}"
           python generate.py "${{ secrets.TOKEN }}"
 
       - name: Setup Git
