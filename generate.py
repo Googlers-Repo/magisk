@@ -103,10 +103,10 @@ for repo in repos:
             "readme": f"https://raw.githubusercontent.com/{repo.full_name}/{repo.default_branch}/README.md",
             "stars": int(repo.stargazers_count),
             "mmrl": {
-                "cover": properties.get("mmrlCover")
-                "logo":properties.get("mmrlLogo")
-                "screenshots":properties.get("mmrlScreenshots").split(",")
-                "categories":properties.get("mmrlCategories").split(",")
+                "cover": properties.get("mmrlCover"),
+                "logo":properties.get("mmrlLogo"),
+                "screenshots":properties.get("mmrlScreenshots").split(","),
+                "categories":properties.get("mmrlCategories").split(","),
             },
         }
 
