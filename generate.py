@@ -103,6 +103,8 @@ for repo in repos:
             repo_dir = f"modules/{REPO_SCOPE}/{repo.name}"
             Repo.clone_from(repo.clone_url, repo_dir)
 
+            shutil.rmtree(f"{repo_dir}/.git")
+
             package = {
               "name": properties.get("id"),
               "version": properties.get("versionCode"),
