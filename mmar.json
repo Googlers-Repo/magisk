@@ -23,6 +23,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -42,6 +53,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": "https://forum.xda-developers.com/t/module-cloudflaredns4magisk.3772375/",
+                "donate": "https://www.paypal.com/paypalme/romfr",
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -61,6 +83,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": "https://forum.xda-developers.com/t/module-cloudflaredns4magisk.3772375/",
+                "donate": "https://www.paypal.com/paypalme/romfr",
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -80,6 +113,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -99,6 +143,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -118,6 +173,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -137,6 +203,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -156,6 +233,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": "https://forum.xda-developers.com/",
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -175,6 +263,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -194,6 +293,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -213,6 +323,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -232,6 +353,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -251,6 +383,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -270,6 +413,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -289,6 +443,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": "https://saweria.co/Kry9toN",
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -308,6 +473,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": "https://forum.xda-developers.com/t/module-cloudflaredns4magisk.3772375/",
+                "donate": "https://www.paypal.com/paypalme/romfr",
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -327,6 +503,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": "https://forum.xda-developers.com/t/module-cloudflaredns4magisk.3772375/",
+                "donate": "https://www.paypal.com/paypalme/romfr",
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -346,6 +533,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -365,6 +563,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -384,6 +593,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -403,6 +623,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -422,6 +653,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": "https://t.me/modulostk",
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -441,6 +683,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -460,6 +713,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -479,6 +743,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -498,6 +773,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -517,6 +803,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -536,6 +833,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -555,6 +863,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -574,6 +893,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -593,6 +923,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -612,6 +953,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -631,6 +983,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -650,6 +1013,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -669,6 +1043,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -688,6 +1073,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -707,6 +1103,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -726,6 +1133,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": "https://t.me/AkiraProjects",
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -745,6 +1163,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -764,6 +1193,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -783,6 +1223,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -802,6 +1253,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -821,6 +1283,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -840,6 +1313,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -859,6 +1343,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": 20200,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -878,6 +1373,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -897,6 +1403,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": "https://t.me/dnmgsk",
+                "donate": "https://www.paypal.com/donate/?hosted_button_id=BJAJW4755BXFY",
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -916,6 +1433,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -935,6 +1463,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -954,6 +1493,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -973,6 +1523,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -992,6 +1553,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -1011,6 +1583,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -1030,6 +1613,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": 2000,
+                "needRamdisk": null,
+                "support": "https://gitlab.com/Atrate/magisk-captive-control",
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -1049,6 +1643,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": 2000,
+                "needRamdisk": null,
+                "support": "https://gitlab.com/Atrate/magisk-drm-disabler",
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -1068,6 +1673,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": "https://github.com/sponsors/AndroPlus-org?frequency=one-time",
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -1087,6 +1703,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": "https://github.com/sponsors/AndroPlus-org?frequency=one-time",
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -1106,6 +1733,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -1125,6 +1763,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -1144,6 +1793,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -1163,6 +1823,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -1182,6 +1853,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -1201,6 +1883,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": 14,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": "https://github.com/nift4/microg_installer_revived/issues",
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -1220,6 +1913,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -1237,8 +1941,29 @@
             "mmrl": {
                 "cover": "https://miro.medium.com/v2/resize:fit:1200/format:png/1*R6CVgKDLTenXSGUxgt0t7Q.png",
                 "logo": null,
-                "screenshots": "https://cdn.dergoogler.com/images/mkshrc-screen1.png,https://cdn.dergoogler.com/images/mkshrc-screen2.png,https://cdn.dergoogler.com/images/mkshrc-screen3.png",
-                "categories": "Coding,Tools,Configurable,Manegment,System"
+                "screenshots": [
+                    "https://cdn.dergoogler.com/images/mkshrc-screen1.png",
+                    "https://cdn.dergoogler.com/images/mkshrc-screen2.png",
+                    "https://cdn.dergoogler.com/images/mkshrc-screen3.png"
+                ],
+                "categories": [
+                    "Coding",
+                    "Tools",
+                    "Configurable",
+                    "Manegment",
+                    "System"
+                ]
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -1258,6 +1983,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -1277,6 +2013,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -1295,7 +2042,23 @@
                 "cover": "https://github.com/DerGoogler/cdn/blob/master/images/Node.js.Cover.png?raw=true",
                 "logo": "https://raw.githubusercontent.com/nodejs/nodejs.org/main/public/static/images/logo-hexagon.svg",
                 "screenshots": null,
-                "categories": "Tools,Coding,Configurable,System"
+                "categories": [
+                    "Tools",
+                    "Coding",
+                    "Configurable",
+                    "System"
+                ]
+            },
+            "fox": {
+                "minApi": 23,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": "https://github.com/Magisk-Modules-Alt-Repo/node",
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -1315,6 +2078,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -1334,6 +2108,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -1353,6 +2138,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -1372,6 +2168,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -1391,6 +2198,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -1410,6 +2228,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -1429,6 +2258,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -1448,6 +2288,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": 20400,
+                "needRamdisk": null,
+                "support": "https://forum.xda-developers.com/t/magisk-module-font-open-fonts-3-1-1.4446663/",
+                "donate": "https://www.paypal.me/f3ff0",
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -1467,6 +2318,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": 20400,
+                "needRamdisk": null,
+                "support": "https://forum.xda-developers.com/t/magisk-module-webview-open-webview-2-3-0.4496119/",
+                "donate": "https://www.paypal.me/f3ff0",
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -1486,6 +2348,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -1505,6 +2378,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -1524,6 +2408,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -1543,6 +2438,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -1562,6 +2468,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -1581,6 +2498,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -1600,6 +2528,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -1619,6 +2558,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -1638,6 +2588,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": "https://t.me/gtwprjkt",
+                "donate": "https://www.paypal.com/paypalme/271820",
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -1657,6 +2618,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -1676,6 +2648,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -1695,6 +2678,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -1714,6 +2708,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -1733,6 +2738,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -1752,6 +2768,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": "https://forum.xda-developers.com/t/magisk-module-systemless-debloater.4180083",
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -1771,6 +2798,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": 2400,
+                "needRamdisk": null,
+                "support": "https://gitlab.com/tsukimio/systemui-bootloop",
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -1790,6 +2828,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -1809,6 +2858,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -1828,6 +2888,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": 20300,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -1847,6 +2918,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -1866,6 +2948,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -1885,6 +2978,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": "https://t.me/modulostk",
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -1904,6 +3008,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -1923,6 +3038,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -1942,6 +3068,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -1961,6 +3098,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -1980,6 +3128,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": "https://github.com/Magisk-Modules-Alt-Repo/xhhttp",
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -1999,6 +3158,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -2018,6 +3188,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -2037,6 +3218,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -2056,6 +3248,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         },
         {
@@ -2075,6 +3278,17 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
             }
         }
     ]
