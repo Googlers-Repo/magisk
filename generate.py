@@ -81,6 +81,12 @@ for repo in repos:
             else:
                 return None
 
+        def getprop_split(name: str, sep: str):
+            if properties.get(name):
+                return properties.get(name).split(sep)
+            else:
+                return None
+
         # Get the last update timestamp of the module.prop file
         last_update_timestamp = moduleprop.last_modified
 
@@ -105,10 +111,21 @@ for repo in repos:
             "stars": int(repo.stargazers_count),
             "mmrl": {
                 "cover": getprop("mmrlCover"),
-                "logo":getprop("mmrlLogo"),
-                "screenshots":getprop("mmrlScreenshots"),
-                "categories":getprop("mmrlCategories"),
+                "logo": getprop("mmrlLogo"),
+                "screenshots": getprop_split("mmrlScreenshots", ","),
+                "categories": getprop_split("mmrlCategories", ","),
             },
+            "fox": {
+                "minApi": getprop("minApi"),
+                "maxApi": getprop("maxApi"),
+                "minMagisk": getprop("minMagisk"),
+                "needRamdisk": getprop("needRamdisk"),
+                "support": getprop("support"),
+                "donate": getprop("donate"),
+                "config": getprop("config"),   
+                "changeBoot": getprop("changeBoot"),
+                "mmtReborn": getprop("mmtReborn"),
+            }.
         }
 
         # Handle file to ignore the index process for the current module
