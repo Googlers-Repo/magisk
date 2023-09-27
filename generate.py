@@ -76,9 +76,9 @@ for repo in repos:
             })
 
         def getprop(name: str):
-            try:
+            if properties.get(name):
                 return properties.get(name)
-            except:
+            else:
                 return None
 
         # Get the last update timestamp of the module.prop file
