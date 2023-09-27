@@ -56,6 +56,18 @@ def does_object_exists(repo: Repository, object_path: str) -> bool:
     except github.UnknownObjectException:
         return False
 
+def parse_props(repo: Repository, object_path: str):
+    prop = repo.get_contents(object_path).decoded_content.decode("UTF-8")
+    properties = {}
+    for line in prop.splitlines():
+        if "=" not in line:
+            continue
+        lhs, rhs = line.split("=", 1)
+        properties.update({
+            lhs: convert_value(rhs)
+        })
+    return properties
+
 # Iterate over all public repositories
 for repo in repos:
     # It is possible that module.prop does not exist (meta repo)
@@ -66,14 +78,7 @@ for repo in repos:
         if not does_object_exists(repo, "module.prop"):
             continue
 
-        properties = {}
-        for line in moduleprop_raw.splitlines():
-            if "=" not in line:
-                continue
-            lhs, rhs = line.split("=", 1)
-            properties.update({
-               lhs: convert_value(rhs)
-            })
+        properties = parse_props(repo, "module.prop")
 
         # Get the last update timestamp of the module.prop file
         last_update_timestamp = moduleprop.last_modified
@@ -86,41 +91,29 @@ for repo in repos:
 
         module = {
             "id": properties.get("id"),
+            "name": properties.get("name"),
+            "version": properties.get("version"),
+            "versionCode": properties.get("versionCode"),
+            "author": properties.get("author"),
+            "description": properties.get("description"),
             # Check if META-INF folder exists, which is required to install modules
             "valid": does_object_exists(repo, "META-INF"),
+            "download": f"https://github.com/{repo.full_name}/archive/{repo.default_branch}.zip",
             "last_update": int(last_update_timestamp * 1000),
-            "prop_url": f"https://raw.githubusercontent.com/{repo.full_name}/{repo.default_branch}/module.prop",
-            "zip_url": f"https://github.com/{repo.full_name}/archive/{repo.default_branch}.zip",
-            "notes_url": f"https://raw.githubusercontent.com/{repo.full_name}/{repo.default_branch}/README.md",
+            "readme": f"https://raw.githubusercontent.com/{repo.full_name}/{repo.default_branch}/README.md",
             "stars": int(repo.stargazers_count),
-            "props": properties,
+            "mmrl": {
+                "cover": properties.get("mmrlCover")
+                "logo":properties.get("mmrlLogo")
+                "screenshots":properties.get("mmrlScreenshots").split(",")
+                "categories":properties.get("mmrlCategories").split(",")
+            },
         }
 
         # Handle file to ignore the index process for the current module
         if properties.get("noIndex") or properties.get("gr_ignore"):
             continue
         else:
-            repo_dir = f"modules/{REPO_SCOPE}/{repo.name}"
-            Repo.clone_from(repo.clone_url, repo_dir)
-
-            shutil.rmtree(f"{repo_dir}/.git")
-
-            package = {
-              "name": properties.get("id"),
-              "version": properties.get("versionCode"),
-              "description": properties.get("description"),
-              "keywords": [
-                "magisk",
-                "kernelsu",
-                "android",
-              ],
-              "author": properties.get("author"),
-            }
-
-            f = open(f"{repo_dir}/package.json", "w")
-            f.write(json.dumps(package, indent=4))
-            f.close()
-
             # Append to skeleton
             meta.get("modules").append(module)
 
