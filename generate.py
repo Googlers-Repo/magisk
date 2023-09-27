@@ -125,7 +125,7 @@ for repo in repos:
                 "config": getprop("config"),   
                 "changeBoot": getprop("changeBoot"),
                 "mmtReborn": getprop("mmtReborn"),
-            }.
+            },
         }
 
         # Handle file to ignore the index process for the current module
