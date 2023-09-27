@@ -66,16 +66,17 @@ for repo in repos:
         if not does_object_exists(repo, "module.prop"):
             continue
 
+        properties = {}
+        for line in moduleprop_raw.splitlines():
+            if "=" not in line:
+                continue
+            lhs, rhs = line.split("=", 1)
+            properties.update({
+               lhs: convert_value(rhs)
+            })
+
         def getprop(name: str):
             try:
-                properties = {}
-                for line in moduleprop_raw.splitlines():
-                    if "=" not in line:
-                        continue
-                    lhs, rhs = line.split("=", 1)
-                    properties.update({
-                        lhs: convert_value(rhs)
-                    })
                 return properties.get(name)
             except:
                 return None
