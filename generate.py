@@ -106,8 +106,8 @@ for repo in repos:
             "mmrl": {
                 "cover": getprop("mmrlCover"),
                 "logo":getprop("mmrlLogo"),
-                "screenshots":getprop("mmrlScreenshots").split(","),
-                "categories":getprop("mmrlCategories").split(","),
+                "screenshots":getprop("mmrlScreenshots"),
+                "categories":getprop("mmrlCategories"),
             },
         }
 
