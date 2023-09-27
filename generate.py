@@ -100,9 +100,24 @@ for repo in repos:
         if properties.get("noIndex") or properties.get("gr_ignore"):
             continue
         else:
-            repo_dir = f"module/{repo.name}"
+            repo_dir = f"modules/{REPO_SCOPE}/{repo.name}"
             Repo.clone_from(repo.clone_url, repo_dir)
-            shutil.make_archive(f"modules/{REPO_SCOPE}/{repo.name}", 'zip', repo_dir)
+
+            package = {
+              "name": properties.get("id"),
+              "version": properties.get("versionCode"),
+              "description": properties.get("description"),
+              "keywords": [
+                "magisk",
+                "kernelsu",
+                "android",
+              ],
+              "author": properties.get("author"),
+            }
+
+            f = open(f"{repo_dir}/package.json", "w")
+            f.write(json.dumps(package, indent=4))
+            f.close()
 
             # Append to skeleton
             meta.get("modules").append(module)
