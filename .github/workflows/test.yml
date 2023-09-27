@@ -1,0 +1,15 @@
+name: Test
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      
+      - name: Setup Git
+        run: |
+          git config --global user.email "jimmyboehm@dergoogler.com"
+          git config --global user.name "Googlers Repo Service"
+
+      - name: Test
+        run: git lfs uninstall
