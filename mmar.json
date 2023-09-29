@@ -2212,36 +2212,6 @@
             }
         },
         {
-            "id": "oneplus-9-9pro-camera-unlocker",
-            "name": "OnePlus 9 & 9 Pro Camera Unlocker",
-            "version": "v1.2",
-            "versionCode": 1200,
-            "author": "AnierinB, JeusChrit, Cartesian8445, Luk1377, sean6541, shadowstep",
-            "description": "Unlocks face detection and all cameras for use by third party apps on the OnePlus 9 and 9 Pro",
-            "valid": true,
-            "download": "https://github.com/Magisk-Modules-Alt-Repo/oneplus-9-9pro-camera-unlocker/archive/master.zip",
-            "last_update": 1695378642000,
-            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/oneplus-9-9pro-camera-unlocker/master/README.md",
-            "stars": 4,
-            "mmrl": {
-                "cover": null,
-                "logo": null,
-                "screenshots": null,
-                "categories": null
-            },
-            "fox": {
-                "minApi": null,
-                "maxApi": null,
-                "minMagisk": null,
-                "needRamdisk": null,
-                "support": null,
-                "donate": null,
-                "config": null,
-                "changeBoot": null,
-                "mmtReborn": null
-            }
-        },
-        {
             "id": "oneplusdotfix",
             "name": "OnePlus 5/5T DotFix",
             "version": "v6.3",
