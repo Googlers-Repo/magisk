@@ -2340,7 +2340,7 @@
             "description": "Limit CPU and GPU performance to desired level on Xiaomi devices with Qualcomm Gen 1 CPU",
             "valid": true,
             "download": "https://github.com/Magisk-Modules-Alt-Repo/perf-limit-xiaomi-12/archive/main.zip",
-            "last_update": 1693840007000,
+            "last_update": 1695975711000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/perf-limit-xiaomi-12/main/README.md",
             "stars": 1,
             "mmrl": {
