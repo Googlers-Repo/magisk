@@ -1,0 +1,188 @@
+{
+    "last_update": 1695815892000,
+    "name": "Googlers Repo",
+    "website": null,
+    "support": null,
+    "donate": null,
+    "submitModule": null,
+    "modules": [
+        {
+            "id": "amtsmagisk",
+            "name": "AntiAMTS for Magisk",
+            "version": "1.2.3",
+            "versionCode": 123,
+            "author": "Der_Googler & Sierra Community",
+            "description": "AntiAMTS ist ein kostenloser AdBlocker, der von SierraDevoplers bereitgestellt wird.",
+            "valid": true,
+            "download": "https://github.com/Googlers-Repo/AntiAMTS-Magisk/archive/master.zip",
+            "last_update": 1692109864000,
+            "readme": "https://raw.githubusercontent.com/Googlers-Repo/AntiAMTS-Magisk/master/README.md",
+            "stars": 1,
+            "about": {
+                "source": "https://github.com/Googlers-Repo/AntiAMTS-Magisk.git",
+                "issues": "https://github.com/Googlers-Repo/AntiAMTS-Magisk/issues"
+            },
+            "mmrl": {
+                "cover": "https://github.com/DerGoogler/cdn/blob/master/images/AMTS-Blocker-Website-Vorlage-1%20Image.png?raw=true",
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": "https://github.com/DerGoogler/AntiAMTS-Magisk",
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "code_server",
+            "name": "Code Server",
+            "version": "1.0.0",
+            "versionCode": 100,
+            "author": "coder, vhqtvn & Der_Googler",
+            "description": "VS Code in the browser",
+            "valid": true,
+            "download": "https://github.com/Googlers-Repo/code-server/archive/master.zip",
+            "last_update": 1692109821000,
+            "readme": "https://raw.githubusercontent.com/Googlers-Repo/code-server/master/README.md",
+            "stars": 1,
+            "about": {
+                "source": "https://github.com/Googlers-Repo/code-server.git",
+                "issues": "https://github.com/Googlers-Repo/code-server/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "gcc_on_android",
+            "name": "GCC Toolchain",
+            "version": "1.0.0",
+            "versionCode": 100,
+            "author": "Der_Googler",
+            "description": "GCC Toolchain is usable to build many things, such as native modules for Node.js",
+            "valid": true,
+            "download": "https://github.com/Googlers-Repo/gcc/archive/main.zip",
+            "last_update": 1695475908000,
+            "readme": "https://raw.githubusercontent.com/Googlers-Repo/gcc/main/README.md",
+            "stars": 1,
+            "about": {
+                "source": "https://github.com/Googlers-Repo/gcc.git",
+                "issues": "https://github.com/Googlers-Repo/gcc/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "mmrl_install_tools",
+            "name": "MMRL Install Tools",
+            "version": "1.0.4",
+            "versionCode": 104,
+            "author": "Der_Googler",
+            "description": "Required module if you want to install modules from Explore",
+            "valid": true,
+            "download": "https://github.com/Googlers-Repo/mmrl_install_tools/archive/master.zip",
+            "last_update": 1696080576000,
+            "readme": "https://raw.githubusercontent.com/Googlers-Repo/mmrl_install_tools/master/README.md",
+            "stars": 0,
+            "about": {
+                "source": "https://github.com/Googlers-Repo/mmrl_install_tools.git",
+                "issues": "https://github.com/Googlers-Repo/mmrl_install_tools/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": [
+                    "Tools",
+                    "System"
+                ]
+            },
+            "fox": {
+                "minApi": 26,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "mmrl_test_module",
+            "name": "MMRL Test Module",
+            "version": null,
+            "versionCode": null,
+            "author": "Der_Googler",
+            "description": "This module is for testing purpose only",
+            "valid": false,
+            "download": "https://github.com/Googlers-Repo/test-module/archive/master.zip",
+            "last_update": 1696070598000,
+            "readme": "https://raw.githubusercontent.com/Googlers-Repo/test-module/master/README.md",
+            "stars": 0,
+            "about": {
+                "source": "https://github.com/Googlers-Repo/test-module.git",
+                "issues": "https://github.com/Googlers-Repo/test-module/issues"
+            },
+            "mmrl": {
+                "cover": "https://www.microtool.de/wp-content/uploads/2017/07/Test.png",
+                "logo": null,
+                "screenshots": [
+                    "https://play-lh.googleusercontent.com/O11TlvK2ZcIagYbr7whOSJCaZW84ywez_Vi5-kLO9092ZKCEKNOeQNvZh7vB9Rwi_g=w1052-h592-rw",
+                    "https://play-lh.googleusercontent.com/O4n3ikDxttWxkd7udl9xapEasCIUS_Ak0-sbTnNVaO7zDhcmwJa9H8NZPtnCuzQbdw=w1052-h592-rw",
+                    "https://play-lh.googleusercontent.com/sXiFMfkPqfjVY_Dy3ts3u4WsnQ-qcOLK0pRLsDaL26kgqGk7gBK610S6gBWwl_psSA=w1052-h592-rw",
+                    "https://play-lh.googleusercontent.com/hQjrBle8jq1IlOMRhViuKpZBk4Edi0pJHwesR60m9fGMnLDYeyIkzgDKcwdZdAYE_tI=w1052-h592-rw"
+                ],
+                "categories": null
+            },
+            "fox": {
+                "minApi": 2000,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": "https://github.com/Googlers-Repo/test-module",
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        }
+    ]
+}

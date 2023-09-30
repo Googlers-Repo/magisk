@@ -1,0 +1,3376 @@
+{
+    "last_update": 1655496159000,
+    "name": "Magisk Modules Repo (Official)",
+    "website": null,
+    "support": null,
+    "donate": null,
+    "submitModule": null,
+    "modules": [
+        {
+            "id": "acc",
+            "name": "Advanced Charging Controller (ACC)",
+            "version": "v2023.8.19",
+            "versionCode": 202308190,
+            "author": "VR25",
+            "description": "Mainly intended for extending battery service life on Android devices. In a nutshell, this is achieved through limiting charging current, temperature, and voltage. Any root solution is supported. Regardless of whether the system is rooted with Magisk, the installation is always \"systemless\".",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/acc/archive/master.zip",
+            "last_update": 1692431280000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/acc/master/README.md",
+            "stars": 280,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/acc.git",
+                "issues": null
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "acp",
+            "name": "Audio Compatibility Patch",
+            "version": "v2.5",
+            "versionCode": 39,
+            "author": "zackptg5, ahrion, John Fawkes",
+            "description": "Fixes music and streaming apps (Spotify, Pandora, etc) that aren't processing audio effects for various equalizer applications through the modification of audio policy",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/acp/archive/master.zip",
+            "last_update": 1643646579000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/acp/master/README.md",
+            "stars": 68,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/acp.git",
+                "issues": null
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": "https://forum.xda-developers.com/apps/magisk/module-universal-deepbuffer-remover-t3577067",
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "active_edge_system_mod",
+            "name": "[Re-continued]Active Edge Mod for Pixel devices",
+            "version": "v84",
+            "versionCode": 84,
+            "author": "j to the 4n, i5lee8bit, mikalovtch",
+            "description": "Allows customization of Active Edge in combination with Edge Sense Plus",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/active_edge_system_mod/archive/master.zip",
+            "last_update": 1634279056000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/active_edge_system_mod/master/README.md",
+            "stars": 47,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/active_edge_system_mod.git",
+                "issues": null
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "adb-ndk",
+            "name": "ADB & Fastboot for Android NDK",
+            "version": "1.0.41",
+            "versionCode": 104113,
+            "author": "osm0sis & Surge1223 @ xda-developers",
+            "description": "Static ARM adb and fastboot binaries for Android built with the NDK",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/adb-ndk/archive/master.zip",
+            "last_update": 1693703724000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/README.md",
+            "stars": 322,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/adb-ndk.git",
+                "issues": null
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": "https://forum.xda-developers.com/t/tools-zips-scripts-osm0sis-odds-and-ends-multiple-devices-platforms.2239421",
+                "donate": "https://www.paypal.me/osm0sis",
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "adreno-630-gpu-driver",
+            "name": "Adreno 630 GPU Driver",
+            "version": "v415/v331",
+            "versionCode": 4156,
+            "author": "P1N2O",
+            "description": "Latest GPU driver for Adreno 630 (SDM845).",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/adreno-630-gpu-driver/archive/master.zip",
+            "last_update": 1572706444000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adreno-630-gpu-driver/master/README.md",
+            "stars": 14,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/adreno-630-gpu-driver.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/adreno-630-gpu-driver/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "adreno-dev",
+            "name": "Adreno GPU Developer Preview Drivers",
+            "version": "#version#",
+            "versionCode": 34,
+            "author": "osm0sis @ xda-developers",
+            "description": "Replace ROM Adreno GPU drivers from Qualcomm",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/adreno-dev/archive/master.zip",
+            "last_update": 1687978189000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adreno-dev/master/README.md",
+            "stars": 66,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/adreno-dev.git",
+                "issues": null
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": "https://forum.xda-developers.com/t/marshmallow-qualcomm-adreno-gpu-drivers-for-nexus-5-updated-09-12-15.3228002/post-67117557",
+                "donate": "https://www.paypal.me/osm0sis",
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "ainur_jamesdsp",
+            "name": "JamesDSP Manager",
+            "version": "v5.8 (9-10-2023/9-10-2023)",
+            "versionCode": 97,
+            "author": "james34602, zackptg5, ahrion",
+            "description": "JamesDSPManager is a reformed audio engine based of AOSP and OmniROM DSPManager source code with enhanced features and tuning",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/ainur_jamesdsp/archive/master.zip",
+            "last_update": 1694469898000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ainur_jamesdsp/master/README.md",
+            "stars": 67,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/ainur_jamesdsp.git",
+                "issues": null
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": "https://forum.xda-developers.com/android/apps-games/app-reformed-dsp-manager-t3607970",
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "ainur_narsil",
+            "name": "Ainur Narsil",
+            "version": "MK I (11.07.2023)",
+            "versionCode": 56,
+            "author": "UltraM8, Zackptg5, LazerL0rd, and JohnFawkes",
+            "description": "NARSIL is system-wide audio modification that helps keeping android playback tract clean from most sound FX (OpenSL & hardware DSPs). This might be especially handy for devices with great internal codecs & DACs - leaving pure hardware audio tuned by manufacturer.",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/ainur_narsil/archive/master.zip",
+            "last_update": 1689053614000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ainur_narsil/master/README.md",
+            "stars": 107,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/ainur_narsil.git",
+                "issues": null
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "airaudio",
+            "name": "AirMusic - stream your music!",
+            "version": "v10",
+            "versionCode": 10,
+            "author": "AirMusic - stream your music!",
+            "description": "This module enables AirMusic's (aka AirAudio) \"system-mode\" and allows you to stream all your audio to any network-enabled receiver.",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/airaudio/archive/master.zip",
+            "last_update": 1633287965000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/airaudio/master/README.md",
+            "stars": 19,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/airaudio.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/airaudio/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "aml",
+            "name": "Audio Modification Library",
+            "version": "v5.1",
+            "versionCode": 59,
+            "author": "zackptg5, ahrion",
+            "description": "AudModLib is a framework that allows the seamless integration of multiple audio mods in Magisk.",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/aml/archive/master.zip",
+            "last_update": 1689427589000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/aml/master/README.md",
+            "stars": 48,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/aml.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/aml/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": "https://forum.xda-developers.com/apps/magisk/module-audio-modification-library-t3579612",
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "aospill",
+            "name": "AOSP Gesture bar for OxygenOS 10-11",
+            "version": "v3.1",
+            "versionCode": 4,
+            "author": "DanGLES3",
+            "description": "AOSP Pill for Oxygen OS 10-11",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/aospill/archive/master.zip",
+            "last_update": 1635105924000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/aospill/master/README.md",
+            "stars": 7,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/aospill.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/aospill/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "AppOpsPlugin",
+            "name": "System Plugin for App Ops",
+            "version": "v8",
+            "versionCode": 8,
+            "author": "Wildheart@xda",
+            "description": "Enable System Plugin mode of App Ops by Rikka (works on pre-Pie).",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/AppOpsPlugin/archive/master.zip",
+            "last_update": 1563144810000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/AppOpsPlugin/master/README.md",
+            "stars": 7,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/AppOpsPlugin.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/AppOpsPlugin/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "apt-x",
+            "name": "APTX for Android Oreo & Pie",
+            "version": "v1.1",
+            "versionCode": 3,
+            "author": "null4n @ github.com",
+            "description": "Add APTX libraries to system. Adroid 8+ should work.",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/apt-x/archive/master.zip",
+            "last_update": 1554995684000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/apt-x/master/README.md",
+            "stars": 7,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/apt-x.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/apt-x/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "ARCore_enabler",
+            "name": "ARCore/Playground Patcher",
+            "version": "v2.1",
+            "versionCode": 9,
+            "author": "MarcAnt01",
+            "description": "Enables ARCore support for unsupported devices and allows to install Playground packages and other apps that support ARCore directly via Play Store or Play Store add-ons.",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/ARCore_enabler/archive/master.zip",
+            "last_update": 1581871355000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ARCore_enabler/master/README.md",
+            "stars": 63,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/ARCore_enabler.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/ARCore_enabler/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "ASUS-Style-Suite",
+            "name": "ASUS Style Suite ",
+            "version": "v4",
+            "versionCode": 4,
+            "author": "Rom, all credits to linuxct",
+            "description": "ROG Phone Apps Ports - Live Wallpaper + Camera ported for Magisk",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/ASUS-Style-Suite/archive/master.zip",
+            "last_update": 1554326657000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ASUS-Style-Suite/master/README.md",
+            "stars": 5,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/ASUS-Style-Suite.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/ASUS-Style-Suite/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "benchkit",
+            "name": "Benchkit",
+            "version": "v2.6.4",
+            "versionCode": 200604,
+            "author": "kdrag0n",
+            "description": "A developer-centric toolkit to facilitate in-depth profiling and benchmarking.",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/benchkit/archive/master.zip",
+            "last_update": 1618613114000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/benchkit/master/README.md",
+            "stars": 61,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/benchkit.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/benchkit/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": "https://t.me/kdrag0n",
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "BluetoothLibraryPatcher",
+            "name": "Bluetooth Library Patcher",
+            "version": "v2.3.2",
+            "versionCode": 232,
+            "author": "3arthur6",
+            "description": "Magisk module avoiding loss of bluetooth pairings after reboot or airplane mode switch on rooted samsung devices.",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/BluetoothLibraryPatcher/archive/master.zip",
+            "last_update": 1643204930000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/BluetoothLibraryPatcher/master/README.md",
+            "stars": 39,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/BluetoothLibraryPatcher.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/BluetoothLibraryPatcher/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "busybox-ndk",
+            "name": "Busybox for Android NDK",
+            "version": "1.36.1",
+            "versionCode": 13614,
+            "author": "osm0sis @ xda-developers",
+            "description": "Static busybox binary for all Android architectures built with the NDK",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/busybox-ndk/archive/master.zip",
+            "last_update": 1694456430000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/README.md",
+            "stars": 739,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/busybox-ndk.git",
+                "issues": null
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": "https://forum.xda-developers.com/t/tools-zips-scripts-osm0sis-odds-and-ends-multiple-devices-platforms.2239421",
+                "donate": "https://www.paypal.me/osm0sis",
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "callrecorder-axet",
+            "name": "Axet's Call Recorder",
+            "version": "v1.0.1",
+            "versionCode": 10010,
+            "author": "di72nn",
+            "description": "Record calls with axet's Call Recorder (compatible with F-Droid updates)",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/callrecorder-axet/archive/master.zip",
+            "last_update": 1587032621000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/callrecorder-axet/master/README.md",
+            "stars": 59,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/callrecorder-axet.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/callrecorder-axet/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "callrecorder-skvalex",
+            "name": "Call Recorder - SKVALEX",
+            "version": "2.2.0 (3.5.5)",
+            "versionCode": 47,
+            "author": "skvalex",
+            "description": "App to record phone calls from the line with a power of root and Magisk",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/callrecorder-skvalex/archive/master.zip",
+            "last_update": 1676998039000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/callrecorder-skvalex/master/README.md",
+            "stars": 270,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/callrecorder-skvalex.git",
+                "issues": null
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "ccbins",
+            "name": "Cross Compiled Binaries",
+            "version": "v11",
+            "versionCode": 16,
+            "author": "Zackptg5",
+            "description": "A growing collection of cross compiled binaries for android",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/ccbins/archive/master.zip",
+            "last_update": 1691966533000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ccbins/master/README.md",
+            "stars": 89,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/ccbins.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/ccbins/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "CloudflareDNS4Magisk",
+            "name": "CloudflareDNS4Magisk",
+            "version": "v2.7",
+            "versionCode": 27,
+            "author": "Rom",
+            "description": "Using the Cloudflare DNS system-lessy! As simple as that.",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/CloudflareDNS4Magisk/archive/master.zip",
+            "last_update": 1673388734000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/CloudflareDNS4Magisk/master/README.md",
+            "stars": 96,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/CloudflareDNS4Magisk.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/CloudflareDNS4Magisk/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": "https://forum.xda-developers.com/t/module-cloudflaredns4magisk.3772375/",
+                "donate": "https://www.paypal.com/paypalme/romfr",
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "CloudflareDNS4Magisk",
+            "name": "CloudflareDNS4Magisk",
+            "version": "v2.7",
+            "versionCode": 27,
+            "author": "Rom",
+            "description": "Using the Cloudflare DNS system-lessly! As simple as that.",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/CloudflareDNS4Magisk-IPv6/archive/master.zip",
+            "last_update": 1673388770000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/CloudflareDNS4Magisk-IPv6/master/README.md",
+            "stars": 41,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/CloudflareDNS4Magisk-IPv6.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/CloudflareDNS4Magisk-IPv6/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": "https://forum.xda-developers.com/t/module-cloudflaredns4magisk.3772375/",
+                "donate": "https://www.paypal.com/paypalme/romfr",
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "com.catchingnow.icebox",
+            "name": "Ice Box System Plugin Module",
+            "version": "v2.1",
+            "versionCode": 3,
+            "author": "Catching Now",
+            "description": "Speed up Ice Box's freezing and defrosting.",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/com.catchingnow.icebox/archive/master.zip",
+            "last_update": 1557655646000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/com.catchingnow.icebox/master/README.md",
+            "stars": 11,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/com.catchingnow.icebox.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/com.catchingnow.icebox/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": "https://play.google.com/store/apps/details?id=com.catchingnow.icebox",
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "com.piyushgarg.rclone",
+            "name": "rclone-mount",
+            "version": "v1.16",
+            "versionCode": 114,
+            "author": "piyushgarg @ github.com",
+            "description": "Mount cloud storage locally using rclone & fusermount. Virtually limitless storage expansion with support for dozens of cloud providers. Extremely useful for streaming large media files without need for full caching. Binaries obtained directly from rclone.org. Please refer to README.md for more info.",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/com.piyushgarg.rclone/archive/master.zip",
+            "last_update": 1630828774000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/com.piyushgarg.rclone/master/README.md",
+            "stars": 236,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/com.piyushgarg.rclone.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/com.piyushgarg.rclone/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "ctenabler",
+            "name": "China Telecom Enabler",
+            "version": "0.0.4",
+            "versionCode": 4,
+            "author": "Steven_Yang",
+            "description": "Let New foreign devices support China Telecom",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/ctenabler/archive/master.zip",
+            "last_update": 1591010796000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ctenabler/master/README.md",
+            "stars": 9,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/ctenabler.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/ctenabler/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "Detach",
+            "name": "Detach",
+            "version": "v5.3",
+            "versionCode": 530,
+            "author": "hinxnz, Rom, Sobuj53",
+            "description": "Detach Market Links for Theme Ready Apps, originaly created by hinxnz, ported by Rom to works with Magisk.",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/Detach/archive/master.zip",
+            "last_update": 1643991324000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Detach/master/README.md",
+            "stars": 217,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/Detach.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/Detach/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": "https://t.me/Detach_gms_apps",
+                "donate": "https://www.paypal.com/paypalme/romfr",
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "disable-mdnsd",
+            "name": "Disable multicast DNS daemon",
+            "version": "v1.0",
+            "versionCode": 1,
+            "author": "ant9000",
+            "description": "Systemlessly disable multicast DNS daemon",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/disable-mdnsd/archive/master.zip",
+            "last_update": 1559311937000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/disable-mdnsd/master/README.md",
+            "stars": 9,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/disable-mdnsd.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/disable-mdnsd/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "disable-screenshot-camera-sounds",
+            "name": "Disable screenshot and camera sounds",
+            "version": "v1.4",
+            "versionCode": 5,
+            "author": "ant9000",
+            "description": "Systemlessly disable both screenshot and camera sounds(added android 10 support @compliment)",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/disable-screenshot-camera-sounds/archive/master.zip",
+            "last_update": 1576219272000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/disable-screenshot-camera-sounds/master/README.md",
+            "stars": 10,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/disable-screenshot-camera-sounds.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/disable-screenshot-camera-sounds/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "djs",
+            "name": "Daily Job Scheduler (DJS)",
+            "version": "v2021.12.14",
+            "versionCode": 202112140,
+            "author": "VR25",
+            "description": "Runs commands and scripts on boot and at HH:MM. Any root solution is supported. The installation is always \"system-less\", whether or not the system is rooted with Magisk.",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/djs/archive/master.zip",
+            "last_update": 1639485482000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/djs/master/README.md",
+            "stars": 40,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/djs.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/djs/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "energizedprotection",
+            "name": "Energized Protection",
+            "version": "1.3.6",
+            "versionCode": 220215136,
+            "author": "AdroitAdorKhan",
+            "description": "Let's make an annoyance free better open internet, altogether! https://energized.pro",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/energizedprotection/archive/master.zip",
+            "last_update": 1644066160000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/energizedprotection/master/README.md",
+            "stars": 271,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/energizedprotection.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/energizedprotection/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "ExSDCard",
+            "name": "ExSDCard Access Enabler",
+            "version": "v3.5",
+            "versionCode": 35,
+            "author": "Rom",
+            "description": "Enables external SDCard write access for your Apps on Nougat and Oreo, including Oreo dedicated feature ! New path for your sdcard: \"/mnt/media_rw/\".",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/ExSDCard/archive/master.zip",
+            "last_update": 1603352462000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ExSDCard/master/README.md",
+            "stars": 43,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/ExSDCard.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/ExSDCard/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "Fdroid-Priv",
+            "name": "F-Droid Privileged Extension",
+            "version": "2021-07-21",
+            "versionCode": 19,
+            "author": "Ryaniskira",
+            "description": "Installs F-Droid Privileged Extension systemlessly",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/Fdroid-Priv/archive/master.zip",
+            "last_update": 1626865690000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Fdroid-Priv/master/README.md",
+            "stars": 112,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/Fdroid-Priv.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/Fdroid-Priv/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "foxy-boot",
+            "name": "Foxy Boot",
+            "version": 1.4,
+            "versionCode": 5,
+            "author": "kitsunyan",
+            "description": "Replace Android boot animation with the kernel ring buffer or Android log",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/foxy-boot/archive/master.zip",
+            "last_update": 1558352762000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/foxy-boot/master/README.md",
+            "stars": 19,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/foxy-boot.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/foxy-boot/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": "https://github.com/kitsunyan/foxy-boot",
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "gvisualmod",
+            "name": "G-Visual Mod",
+            "version": "v4.1",
+            "versionCode": 36,
+            "author": "Gnonymous7",
+            "description": "Systemlessy customize your Android's Visual!",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/G-VisualMod/archive/master.zip",
+            "last_update": 1612675127000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/G-VisualMod/master/README.md",
+            "stars": 311,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/G-VisualMod.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/G-VisualMod/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": "Gnonymous7 @ XDA & Telegram",
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "GoogleDialerFramework",
+            "name": "Dialer Framework for Google Phone",
+            "version": "v9",
+            "versionCode": 9,
+            "author": "TJJ",
+            "description": "Framework for installing the Google Dialer/Google Phone on Android",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/GoogleDialerFramework/archive/master.zip",
+            "last_update": 1666307084000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/GoogleDialerFramework/master/README.md",
+            "stars": 61,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/GoogleDialerFramework.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/GoogleDialerFramework/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "HEVCEnabler",
+            "name": "HEVC+SM GC OP3&3T and OP5",
+            "version": "v3.4",
+            "versionCode": 13,
+            "author": "crashoverride1995",
+            "description": "Enable the HEVC(High Efficiency Video Codec) on OnePlus 3/3T and 5 with stock bitrate and 60fps video recording and Slow Motion in Google Camera.",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/HEVCEnabler/archive/master.zip",
+            "last_update": 1558593884000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/HEVCEnabler/master/README.md",
+            "stars": 14,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/HEVCEnabler.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/HEVCEnabler/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "hidden_settings",
+            "name": "HiddenSettings",
+            "version": "v0.0.4",
+            "versionCode": 4,
+            "author": "Skittles9823",
+            "description": "A graphical interface to modify settings via terminal.",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/hidden_settings/archive/master.zip",
+            "last_update": 1577599943000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/hidden_settings/master/README.md",
+            "stars": 29,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/hidden_settings.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/hidden_settings/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "HideGesBar",
+            "name": "Immersive Gestural Navigation Bar (Q)",
+            "version": "v1.0",
+            "versionCode": 1,
+            "author": "Sam Chu",
+            "description": "Enable immersive gestural navigation bar for Android 10.",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/HideGesBar/archive/master.zip",
+            "last_update": 1592364980000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/HideGesBar/master/README.md",
+            "stars": 4,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/HideGesBar.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/HideGesBar/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "HideNavBar",
+            "name": "Fullscreen/Immersive Gestures (Q-T)",
+            "version": "v21.0",
+            "versionCode": 55,
+            "author": "DanGLES3",
+            "description": "Customize Android 10-13's navigation gestures ",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/HideNavBar/archive/master.zip",
+            "last_update": 1661404564000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/HideNavBar/master/README.md",
+            "stars": 452,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/HideNavBar.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/HideNavBar/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": "https://t.me/dnmgsk",
+                "donate": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GHAYUFKDHUCSU&source=url",
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "IPControl",
+            "name": "Input Power Control",
+            "version": "3.0.1",
+            "versionCode": 35,
+            "author": "Jaymin Suthar",
+            "description": "Completely native input power control tool written purely in C++ for performance and stability",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/IPControl/archive/master.zip",
+            "last_update": 1569912326000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/IPControl/master/README.md",
+            "stars": 58,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/IPControl.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/IPControl/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "KaliNethunter",
+            "name": "KaliNethunter",
+            "version": "v8.2",
+            "versionCode": 22,
+            "author": "XXH3X, dutchman, atarii, rithvikvibhu",
+            "description": "A module that installs a lightweight version Kali Nethunter on any phone.",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/KaliNethunter/archive/master.zip",
+            "last_update": 1565052950000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/KaliNethunter/master/README.md",
+            "stars": 216,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/KaliNethunter.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/KaliNethunter/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "kfmark",
+            "name": "KFMark Enabler",
+            "version": "v1.0.3",
+            "versionCode": 4,
+            "author": "MlgmXyysd",
+            "description": "A module can enable KFMark when device start.",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/kfmark/archive/master.zip",
+            "last_update": 1561546153000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/kfmark/master/README.md",
+            "stars": 2,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/kfmark.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/kfmark/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "liboemcryptodisabler",
+            "name": "liboemcrypto disabler",
+            "version": "v1.5",
+            "versionCode": 15,
+            "author": "ianmacd",
+            "description": "Disables liboemcrypto.so on rooted devices to allow DRM-protected content to play (e.g. Netflix, My5, etc.).",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/liboemcryptodisabler/archive/master.zip",
+            "last_update": 1608463908000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/liboemcryptodisabler/master/README.md",
+            "stars": 77,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/liboemcryptodisabler.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/liboemcryptodisabler/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "libsecure_storage",
+            "name": "libsecure_storage companion for rooted Samsung devices",
+            "version": "v2.1",
+            "versionCode": 21,
+            "author": "ianmacd",
+            "description": "Modified system libraries to restore retention of Bluetooth pairings on various rooted Samsung devices.",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/libsecure_storage/archive/master.zip",
+            "last_update": 1589034549000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/libsecure_storage/master/README.md",
+            "stars": 8,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/libsecure_storage.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/libsecure_storage/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "logcat",
+            "name": "Log Catcher",
+            "version": "v17",
+            "versionCode": 17,
+            "author": "MlgmXyysd",
+            "description": "Catch boot log to /data/local/boot/boot-$time.log. QQ chat group 855219808.",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/logcat/archive/master.zip",
+            "last_update": 1556251162000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/logcat/master/README.md",
+            "stars": 8,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/logcat.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/logcat/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "magisk-drm-disabler",
+            "name": "Magisk DRM Disabler (MDD)",
+            "version": "v1.3.1",
+            "versionCode": 131,
+            "author": "Atrate",
+            "description": "A Magisk Module aiming to eliminate DRM from Android systemlessly.",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/magisk-drm-disabler/archive/master.zip",
+            "last_update": 1612778235000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/magisk-drm-disabler/master/README.md",
+            "stars": 45,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/magisk-drm-disabler.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/magisk-drm-disabler/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": 2000,
+                "needRamdisk": null,
+                "support": "https://gitlab.com/Atrate/magisk-drm-disabler",
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "MagiskHidePropsConf",
+            "name": "MagiskHide Props Config",
+            "version": "v6.1.2-v137",
+            "versionCode": 75,
+            "author": "Didgeridoohan",
+            "description": "Change your device's fingerprint, to pass SafetyNet's CTS Profile check. Set/reset MagiskHide sensitive prop values. Change any prop values easily, and set your own custom props.",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf/archive/master.zip",
+            "last_update": 1673294532000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/README.md",
+            "stars": 1778,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "microg_installer",
+            "name": "microG Installer Revived",
+            "version": "Revived 2.4.0-0",
+            "versionCode": 24000,
+            "author": "nift4 (prev. maintainer: Hieu Van)",
+            "description": "Install microG GmsCore, GsfProxy & FakeStore (or Play Store if you want so) to /system/priv-app and MapsV1 to /system/framework",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/microG_installer/archive/master.zip",
+            "last_update": 1643402148000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/microG_installer/master/README.md",
+            "stars": 68,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/microG_installer.git",
+                "issues": null
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "miracast-enabler",
+            "name": "Miracast Enabler",
+            "version": "v3",
+            "versionCode": 3,
+            "author": "crass",
+            "description": "Enables Miracast screen mirroring on Pie. Not tested on non-Pixel devices.",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/miracast-enabler/archive/master.zip",
+            "last_update": 1563509191000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/miracast-enabler/master/README.md",
+            "stars": 18,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/miracast-enabler.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/miracast-enabler/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "miui-10-sounds",
+            "name": "MIUI 10 Sound Pack",
+            "version": 1.3,
+            "versionCode": 1,
+            "author": "4PERTURE",
+            "description": "This module adds the nice MIUI 10 sounds to any ROM, systemlessly.",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/miui-10-sounds/archive/master.zip",
+            "last_update": 1621965138000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/miui-10-sounds/master/README.md",
+            "stars": 6,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/miui-10-sounds.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/miui-10-sounds/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "mm",
+            "name": "Magisk Manager for Recovery Mode (mm)",
+            "version": "2019.4.4",
+            "versionCode": 201904040,
+            "author": "VR25 @ xda-developers",
+            "description": "Manage your Magisk v17-19 modules from recovery (e.g., TWRP) -- run \" sh /sdcard/mm\" on recovery terminal.",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/mm/archive/master.zip",
+            "last_update": 1554374616000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/mm/master/README.md",
+            "stars": 155,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/mm.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/mm/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": 17000,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "motoclockwidget",
+            "name": "Moto Clock Widget",
+            "version": "v10.2",
+            "versionCode": 35,
+            "author": "TeamDeluxe & dark-basic",
+            "description": "Systemless install Motorola Clock widget",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/motoclockwidget/archive/master.zip",
+            "last_update": 1594398059000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/motoclockwidget/master/README.md",
+            "stars": 7,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/motoclockwidget.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/motoclockwidget/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "movecert",
+            "name": "Move Certificates",
+            "version": "v1.9",
+            "versionCode": 10,
+            "author": "yochananmarqos",
+            "description": "Moves certificates from the user certificate store to the system store. Removes the *Network may be monitored* warning.",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/movecert/archive/master.zip",
+            "last_update": 1656286469000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/movecert/master/README.md",
+            "stars": 502,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/movecert.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/movecert/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "mtd-ndk",
+            "name": "mtd-utils for Android NDK",
+            "version": "2.1.6",
+            "versionCode": 2160,
+            "author": "osm0sis @ xda-developers",
+            "description": "Static ARM mtd-utils (flash_erase, nanddump and nandwrite) binaries for Android built with the NDK",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/mtd-ndk/archive/master.zip",
+            "last_update": 1693703811000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/mtd-ndk/master/README.md",
+            "stars": 40,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/mtd-ndk.git",
+                "issues": null
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": "https://forum.xda-developers.com/t/tools-zips-scripts-osm0sis-odds-and-ends-multiple-devices-platforms.2239421",
+                "donate": "https://www.paypal.me/osm0sis",
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "nano-ndk",
+            "name": "Nano for Android NDK",
+            "version": 7.2,
+            "versionCode": 7203,
+            "author": "osm0sis @ xda-developers",
+            "description": "Static ARM nano binary for Android built with the NDK",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/nano-ndk/archive/master.zip",
+            "last_update": 1687978225000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/nano-ndk/master/README.md",
+            "stars": 103,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/nano-ndk.git",
+                "issues": null
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": "https://forum.xda-developers.com/t/tools-zips-scripts-osm0sis-odds-and-ends-multiple-devices-platforms.2239421",
+                "donate": "https://www.paypal.me/osm0sis",
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "nexusmedia",
+            "name": "Nexus Media",
+            "version": "#device#",
+            "versionCode": 42,
+            "author": "osm0sis @ xda-developers",
+            "description": "Replace ROM ringtones/notification/system sounds and bootanimation with those from old Nexus devices (chosen at flash-time)",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/nexusmedia/archive/master.zip",
+            "last_update": 1687977898000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/nexusmedia/master/README.md",
+            "stars": 22,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/nexusmedia.git",
+                "issues": null
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": "https://forum.xda-developers.com/t/tools-zips-scripts-osm0sis-odds-and-ends-multiple-devices-platforms.2239421",
+                "donate": "https://www.paypal.me/osm0sis",
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "NFCScreenOff",
+            "name": "NFC Screen Off",
+            "version": "v0.3.3",
+            "versionCode": 33,
+            "author": "lapwat",
+            "description": "Read NFC tags when screen is off. Disable NFC tagging sound.",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/NfcScreenOff/archive/master.zip",
+            "last_update": 1646764356000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/NfcScreenOff/master/README.md",
+            "stars": 43,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/NfcScreenOff.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/NfcScreenOff/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "noneDisplayCutout",
+            "name": "None Display Cutout",
+            "version": "v2",
+            "versionCode": 2,
+            "author": "MlgmXyysd",
+            "description": "This module provide you a option for hide your devices display cutout(notch). QQ chat group 855219808.",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/noneDisplayCutout/archive/master.zip",
+            "last_update": 1612255684000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/noneDisplayCutout/master/README.md",
+            "stars": 25,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/noneDisplayCutout.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/noneDisplayCutout/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "OneController",
+            "name": "1Controller - 1 Module to support all Controllers.",
+            "version": "v1.5.2",
+            "versionCode": 152,
+            "author": "Electric1447",
+            "description": "This module adds .kl file (keylayout) for Dualshock 4/3, Xbox Series X|S, Xbox One/S, Xbox 360.",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/OneController/archive/master.zip",
+            "last_update": 1676679789000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/OneController/master/README.md",
+            "stars": 187,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/OneController.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/OneController/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "OneUISounds",
+            "name": "One UI Sounds",
+            "version": 1.1,
+            "versionCode": 2,
+            "author": "LeddaZ",
+            "description": "One UI system sounds",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/OneUISounds/archive/master.zip",
+            "last_update": 1563026586000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/OneUISounds/master/README.md",
+            "stars": 6,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/OneUISounds.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/OneUISounds/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "oosbar",
+            "name": "Oxygen OS gesture bar for AOSP",
+            "version": "v2.0",
+            "versionCode": 2,
+            "author": "DanGLES3",
+            "description": "Oxygen OS Gesture Bar for AOSP 10/11 devices",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/oosbar/archive/master.zip",
+            "last_update": 1637769337000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/oosbar/master/README.md",
+            "stars": 8,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/oosbar.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/oosbar/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "overlayfix",
+            "name": "Overlay Mount Fix",
+            "version": "v2.4",
+            "versionCode": 9,
+            "author": "Zackptg5",
+            "description": "Fixes overlay mounting problems conflicting with magisk (often seen in with /product)",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/overlayfix/archive/master.zip",
+            "last_update": 1637106254000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/overlayfix/master/README.md",
+            "stars": 24,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/overlayfix.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/overlayfix/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "Oxy-ify",
+            "name": "Oxy-ify",
+            "version": "v5.3",
+            "versionCode": 24,
+            "author": "MarcAnt01",
+            "description": "Get Oxygen OS apps, custom media and OnePlus Slate font.",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/Oxy-ify/archive/master.zip",
+            "last_update": 1600714096000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Oxy-ify/master/README.md",
+            "stars": 26,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/Oxy-ify.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/Oxy-ify/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "Pix3lify",
+            "name": "Pix3lify",
+            "version": "v3.0.4",
+            "versionCode": 304,
+            "author": "Joey Huab, Aidan Holland, Pika, JohnFawkes, and Laster K. (lazerl0rd)",
+            "description": "Ports Pixel-range exclusive features; Pixel Blue theme accent, Product Sans font, Alarms, Notification sounds, Ringtones, UI audio; enables Pixel Wallpapers, enables Google Call Screening, enables Night Light (device dependent), Daydream VR support, adds Device Gestures to Settings, enables Camera2 API and EIS support (varies per device)",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/Pix3lify/archive/master.zip",
+            "last_update": 1570707773000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Pix3lify/master/README.md",
+            "stars": 103,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/Pix3lify.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/Pix3lify/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": "https://t.me/Pix3lify",
+                "donate": "https://www.paypal.me/joeyhuab",
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "PIXELARITY",
+            "name": "PIXELARITY",
+            "version": "v3.8",
+            "versionCode": 1909152340,
+            "author": "Kyliekyler",
+            "description": "Contains pixel exclusives, fix and tweaks to boost user experience on devices running Android 9/10",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/PIXELARITY/archive/master.zip",
+            "last_update": 1585933115000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/PIXELARITY/master/README.md",
+            "stars": 17,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/PIXELARITY.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/PIXELARITY/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "PS4RE",
+            "name": "PS4 Remote Play Enabler",
+            "version": "v1",
+            "versionCode": 1,
+            "author": "Seyaru",
+            "description": "For non-Sony devices enable PS4 Remote Play from PlayStore",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/PS4RE/archive/master.zip",
+            "last_update": 1560369370000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/PS4RE/master/README.md",
+            "stars": 4,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/PS4RE.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/PS4RE/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "quickstepswitcher",
+            "name": "QuickSwitch (Android Pie+)",
+            "version": "v3.1.8",
+            "versionCode": 3180,
+            "author": "The Lawnchair team",
+            "description": "Pie recents for any supported launcher",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/quickstepswitcher/archive/master.zip",
+            "last_update": 1635597762000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/quickstepswitcher/master/README.md",
+            "stars": 32,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/quickstepswitcher.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/quickstepswitcher/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "riru-core",
+            "name": "Riru",
+            "version": "v26.1.4.r522.8b379cedb5",
+            "versionCode": 522,
+            "author": "Rikka, yujincheng08",
+            "description": "Inject into zygote and run codes from \"Riru\" modules in apps or the system server. Support modules which use Riru API v24+.",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/riru-core/archive/master.zip",
+            "last_update": 1639570144000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/riru-core/master/README.md",
+            "stars": 144,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/riru-core.git",
+                "issues": null
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "riru_edxposed",
+            "name": "Riru - EdXposed",
+            "version": "v0.5.2.2_4683-master",
+            "versionCode": 4683,
+            "author": "solohsu, MlgmXyysd",
+            "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.0, 8.1, 9, 10, 11 or above. Requires Riru v23 or above installed. Telegram: @EdXposed",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/riru_edxposed/archive/master.zip",
+            "last_update": 1613616737000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/riru_edxposed/master/README.md",
+            "stars": 71,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/riru_edxposed.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/riru_edxposed/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": 10,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "riru_location_report_enabler",
+            "name": "Riru - Location Report Enabler",
+            "version": "v11.0.0.r50.0b1d37f",
+            "versionCode": 50,
+            "author": "Rikka",
+            "description": "Enable Google Feed & Timeline & Location reprot in unsupported regions by changing system properties in related packages.",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/riru_location_report_enabler/archive/master.zip",
+            "last_update": 1616410697000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/riru_location_report_enabler/master/README.md",
+            "stars": 10,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/riru_location_report_enabler.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/riru_location_report_enabler/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "riru_lsposed",
+            "name": "Riru - LSPosed",
+            "version": "v1.6.5 (6272)",
+            "versionCode": 6272,
+            "author": "LSPosed Developers",
+            "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 12, 12L DP1. Requires Riru 25.0.1 or above installed.",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/riru_lsposed/archive/master.zip",
+            "last_update": 1638705863000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/riru_lsposed/master/README.md",
+            "stars": 194,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/riru_lsposed.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/riru_lsposed/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "riru_storage_redirect",
+            "name": "Riru - Enhanced mode for Storage Isolation",
+            "version": "v25.1.1",
+            "versionCode": 74,
+            "author": "Rikka",
+            "description": "Enable Enhanced mode for Storage Isolation v6.0.0 or above. Storage Isolation is an app that allows you control how apps use your files.",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/riru_storage_redirect/archive/master.zip",
+            "last_update": 1632298657000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/riru_storage_redirect/master/README.md",
+            "stars": 55,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/riru_storage_redirect.git",
+                "issues": null
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "sap",
+            "name": "System Accent Theme (Colors) for P",
+            "version": "v1.2",
+            "versionCode": 12,
+            "author": "Ludwig33",
+            "description": "Simple module to add some system accent theme colors to your android P custom rom, after flash though magisk and reboot go to Settings> Display> Color theme. Files are pushed to /vendor/overlay.",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/sap/archive/master.zip",
+            "last_update": 1573497054000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/sap/master/README.md",
+            "stars": 0,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/sap.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/sap/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "sony-device-dummy",
+            "name": "Sony Device Dummy",
+            "version": "v1.0",
+            "versionCode": 2,
+            "author": "null4n @ github",
+            "description": "Add dummy Sony device libraries for Walkman, Album, Weather and other sony apps. Please read the readme first.",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/sony-device-dummy/archive/master.zip",
+            "last_update": 1579234586000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/sony-device-dummy/master/README.md",
+            "stars": 16,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/sony-device-dummy.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/sony-device-dummy/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "sonymusic",
+            "name": "Sony Music Player",
+            "version": "Q_r2",
+            "versionCode": 5,
+            "author": "Manish4586",
+            "description": " Enable's Sony Music App and Playstore Updatable Install Sony Music From Playstore.",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/sonymusic/archive/master.zip",
+            "last_update": 1587373770000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/sonymusic/master/README.md",
+            "stars": 6,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/sonymusic.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/sonymusic/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "sqlite3",
+            "name": "SQLite for ARM aarch64 devices",
+            "version": "v1.3",
+            "versionCode": 13,
+            "author": "ianmacd",
+            "description": "Provides a statically linked sqlite3 binary for ARM aarch64 devices",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/sqlite3/archive/master.zip",
+            "last_update": 1553868882000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/sqlite3/master/README.md",
+            "stars": 19,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/sqlite3.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/sqlite3/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "ssh",
+            "name": "SSH for Magisk",
+            "version": "v0.16",
+            "versionCode": 15,
+            "author": "D4rCM4rC and Contributors",
+            "description": "OpenSSH and Rsync bundled with simple start scripts for Android with Magisk",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/ssh/archive/master.zip",
+            "last_update": 1691227633000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ssh/master/README.md",
+            "stars": 149,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/ssh.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/ssh/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "Systemless_TZData",
+            "name": "Systemless TZData",
+            "version": "2020A&F",
+            "versionCode": 16,
+            "author": "Ryaniskira & Nkh0472 & GrayJackFixxxer",
+            "description": "Update your ROM's tzdata (timezone data) file systemlessly. 2020F is installed on Android 10 and above, 2020A is installed on older versions.",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/Systemless_TZData/archive/master.zip",
+            "last_update": 1612729412000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Systemless_TZData/master/README.md",
+            "stars": 22,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/Systemless_TZData.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/Systemless_TZData/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "tcpdump_static_aarch64",
+            "name": "Static AARCH64 tcpdump v4.9.2",
+            "version": "4.9.2_magisk0",
+            "versionCode": 40902,
+            "author": "S-trace",
+            "description": "Add the static AARCH64 Tcpdump binary - a command-line tool for capturing network packets from the device's network interfaces.",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/tcpdump_static_aarch64/archive/master.zip",
+            "last_update": 1581418007000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/tcpdump_static_aarch64/master/README.md",
+            "stars": 6,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/tcpdump_static_aarch64.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/tcpdump_static_aarch64/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "terminalmods",
+            "name": "Terminal Modifications",
+            "version": "v1.4.6",
+            "versionCode": 146,
+            "author": "Skittles9823",
+            "description": "Android terminal - The way it should be",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/terminalmods/archive/master.zip",
+            "last_update": 1659728121000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminalmods/master/README.md",
+            "stars": 54,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/terminalmods.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/terminalmods/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "terminal_debloater",
+            "name": "Debloater (Terminal Emulator)",
+            "version": "v17.3.3",
+            "versionCode": 76,
+            "author": "veez21",
+            "description": "Debloat your device Systemless-ly! With choices for debloating in Terminal Emulator for every device.",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/terminal_debloater/archive/master.zip",
+            "last_update": 1578134354000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminal_debloater/master/README.md",
+            "stars": 194,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/terminal_debloater.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/terminal_debloater/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "terminal_systemizer",
+            "name": "App Systemizer (Terminal Emulator)",
+            "version": "v17.3.1",
+            "versionCode": 70,
+            "author": "veez21",
+            "description": "Turn apps to System Apps Systemlessly! Supports all device running Magisk.",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/terminal_systemizer/archive/master.zip",
+            "last_update": 1571840288000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminal_systemizer/master/README.md",
+            "stars": 253,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/terminal_systemizer.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/terminal_systemizer/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": 18000,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "twrp-helper",
+            "name": "TWRP Helper",
+            "version": "v1.0",
+            "versionCode": 10,
+            "author": "ianmacd",
+            "description": "This module provides dynamic, in-situ patching of the device's TWRP recovery image to include Internal Storage in future Data back-ups.",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/twrp-helper/archive/master.zip",
+            "last_update": 1560196409000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/twrp-helper/master/README.md",
+            "stars": 23,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/twrp-helper.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/twrp-helper/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "twrp-keep",
+            "name": "TWRP A/B Retention Script",
+            "version": "Magisk",
+            "versionCode": 1,
+            "author": "osm0sis @ xda-developers",
+            "description": "Keep TWRP installed after an A/B OTA - Flash this after each OTA has installed, but before you install Magisk to Inactive Slot from the Magisk app",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/twrp-keep/archive/master.zip",
+            "last_update": 1693703179000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/twrp-keep/master/README.md",
+            "stars": 165,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/twrp-keep.git",
+                "issues": null
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": 1500,
+                "needRamdisk": null,
+                "support": "https://forum.xda-developers.com/t/tools-zips-scripts-osm0sis-odds-and-ends-multiple-devices-platforms.2239421",
+                "donate": "https://www.paypal.me/osm0sis",
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "v2ray",
+            "name": "V2ray for Android",
+            "version": "2.0.1",
+            "versionCode": 20220119,
+            "author": "ohnoku",
+            "description": "V2ray core with service scripts for Android",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/v2ray/archive/master.zip",
+            "last_update": 1644507409000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/v2ray/master/README.md",
+            "stars": 315,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/v2ray.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/v2ray/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "ViPER4AndroidFX",
+            "name": "ViPER4Android FX ",
+            "version": "v2.7.2.1",
+            "versionCode": 2721,
+            "author": "ViPER520, ZhuHang, Pittvandewitt, MrWhite214, Zackptg5",
+            "description": "ViPER4AndroidFX reborn - v2.7.x",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/ViPER4Android-FX/archive/master.zip",
+            "last_update": 1684942356000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ViPER4Android-FX/master/README.md",
+            "stars": 365,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/ViPER4Android-FX.git",
+                "issues": null
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": "https://forum.xda-developers.com/android/apps-games/app-viper4android-fx-2-6-0-0-t3774651",
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "ViPER4AndroidFX-Legacy",
+            "name": "ViPER4Android FX Legacy",
+            "version": "v4.4",
+            "versionCode": 86,
+            "author": "ViPER520, ZhuHang, Ahrion, Zackptg5",
+            "description": "ViPER4Android FX is an audio enhancing software to provide everyone with a better audio experience (You can choose between Material 2.5, 2.5.0.5, and 2.3.4.0 during install)",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/ViPER4AndroidFX-Legacy/archive/master.zip",
+            "last_update": 1565532645000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ViPER4AndroidFX-Legacy/master/README.md",
+            "stars": 30,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/ViPER4AndroidFX-Legacy.git",
+                "issues": null
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": "https://forum.xda-developers.com/apps/magisk/module-viper4android-fx-2-5-0-5-t3577058",
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "ViPER4AndroidXHiFi",
+            "name": "ViPER4Android XHiFi",
+            "version": "v1.6",
+            "versionCode": 27,
+            "author": "ViPER520, ZhuHang, Zackptg5",
+            "description": "ViPER4Android XHiFi is an audio enhancing software to provide everyone with a better audio experience",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/ViPER4AndroidXHiFi/archive/master.zip",
+            "last_update": 1565532193000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ViPER4AndroidXHiFi/master/README.md",
+            "stars": 4,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/ViPER4AndroidXHiFi.git",
+                "issues": null
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": 1530,
+                "needRamdisk": null,
+                "support": "https://forum.xda-developers.com/apps/magisk/module-viper4android-fx-2-5-0-5-t3577058",
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "vold-posix",
+            "name": "Vold - exFAT/NTFS/EXT4/F2FS Support",
+            "version": "3.0.1",
+            "versionCode": 184,
+            "author": "null4n @ github.com",
+            "description": "Add exfat/ntfs/ext4/f2fs filesystem support for external sdcard. Only for AOSP-like system. (f2fs only available if your kernel support it.)",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/vold-posix/archive/master.zip",
+            "last_update": 1573283495000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/vold-posix/master/README.md",
+            "stars": 20,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/vold-posix.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/vold-posix/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "WDAnimationcxair",
+            "name": "BootAMoji Switcher",
+            "version": "v7.5-(Harar)",
+            "versionCode": 75,
+            "author": "Mikesew1320",
+            "description": "A module that helps to switch the Boot Animation, Shutdown Anmation and  Emojis to one of the Animations and Emojis included in this module for any supported device using volumekeys during installation.",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/WDAnimationcxair/archive/master.zip",
+            "last_update": 1613281622000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/WDAnimationcxair/master/README.md",
+            "stars": 27,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/WDAnimationcxair.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/WDAnimationcxair/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": "https://t.me/MGStoreEthiopia or https://t.me/Mikesew1320 or https://t.me/BootAnimationSwitcherBot or https://github.com/Magisk-Modules-Repo/WDAnimationcxair",
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "wifi-bonding",
+            "name": "Wifi Bonding (Qcom)",
+            "version": 1.15,
+            "versionCode": 16,
+            "author": "simonsmh",
+            "description": "Doubles your wi-fi bandwith by modifying WCNSS_qcom_cfg.ini.",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/wifi-bonding/archive/master.zip",
+            "last_update": 1668440417000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/wifi-bonding/master/README.md",
+            "stars": 429,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/wifi-bonding.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/wifi-bonding/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "wifi5ghzdisabler",
+            "name": "WiFi5GhzDisabler",
+            "version": "v1",
+            "versionCode": 1,
+            "author": "danielchc",
+            "description": "Disable WiFi 5Ghz Band on your Qualcomm device",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/wifi5ghzdisabler/archive/master.zip",
+            "last_update": 1635503401000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/wifi5ghzdisabler/master/README.md",
+            "stars": 9,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/wifi5ghzdisabler.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/wifi5ghzdisabler/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "wirelessFirmware",
+            "name": "Wireless Firmware for Nethunter",
+            "version": "v2.0.4",
+            "versionCode": 2004,
+            "author": "rithvikvibhu",
+            "description": "This module adds the required firmware for external wireless adapters to be used with NetHunter.",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/wirelessFirmware/archive/master.zip",
+            "last_update": 1604117671000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/wirelessFirmware/master/README.md",
+            "stars": 31,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/wirelessFirmware.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/wirelessFirmware/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "xmlpak",
+            "name": "xmlpak \u2013 a road to vendor apps",
+            "version": "v4.5",
+            "versionCode": 45,
+            "author": "RKBDI, Tadi (j1505243 at xda)",
+            "description": "This module enables you to download and install vendor apps from Google Play. Compatibility is not guaranteed.",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/xmlpak/archive/master.zip",
+            "last_update": 1658425594000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/xmlpak/master/README.md",
+            "stars": 136,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/xmlpak.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/xmlpak/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "xposed",
+            "name": "Xposed Framework",
+            "version": "v90-beta3",
+            "versionCode": 9030,
+            "author": "rovo89",
+            "description": "The official Xposed Framework, packaged by @topjohnwu",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/xposed/archive/master.zip",
+            "last_update": 1556686471000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/xposed/master/README.md",
+            "stars": 110,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/xposed.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/xposed/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "xposed_dalvik",
+            "name": "Xposed Framework (Dalvik)",
+            "version": "v58",
+            "versionCode": 5800,
+            "author": "rovo89, MlgmXyysd",
+            "description": "The official Dalvik Xposed Framework, packaged by @MlgmXyysd. Supports Android 4.2, 4.3, 4.4, 4.4W. Telegram: @EdXposed",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/xposed_dalvik/archive/master.zip",
+            "last_update": 1580548677000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/xposed_dalvik/master/README.md",
+            "stars": 5,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/xposed_dalvik.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/xposed_dalvik/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "zipsigner",
+            "name": "ZipSigner & Zip for Android NDK",
+            "version": 3.0,
+            "versionCode": 3021,
+            "author": "osm0sis & topjohnwu @ xda-developers",
+            "description": "Wrapped dexed zipsigner.jar, and static ARM zip and zipalign binaries for Android built with the NDK",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/zipsigner/archive/master.zip",
+            "last_update": 1693703774000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/zipsigner/master/README.md",
+            "stars": 50,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/zipsigner.git",
+                "issues": null
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": "https://forum.xda-developers.com/t/tools-zips-scripts-osm0sis-odds-and-ends-multiple-devices-platforms.2239421",
+                "donate": "https://www.paypal.me/osm0sis",
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "zsh_arm64",
+            "name": "ZSH for Arm",
+            "version": 1.4,
+            "versionCode": 14,
+            "author": "me@partcyb.org",
+            "description": "Zsh is a modern *nix shell with many advanced features.",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/zsh_arm64/archive/master.zip",
+            "last_update": 1565287472000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/zsh_arm64/master/README.md",
+            "stars": 9,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/zsh_arm64.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/zsh_arm64/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": 1700,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        }
+    ]
+}
