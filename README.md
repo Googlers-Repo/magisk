@@ -6,6 +6,6 @@ These are for [MMRL](DerGoogler/MMRL). Modules that don't include a `META-INF` f
 
 Your module `last_updated` will be updated when you change something in the `module.prop`
 
-- [Magisk Modules Alt Repo](https://api-mmrl.dergoogler.com/mmar.json)
-- [Googlers Repo](https://api-mmrl.dergoogler.com/gmr.json)
-- [Magisk Modules Official Repo](https://api-mmrl.dergoogler.com/mmr.json)
+- [Magisk Modules Alt Repo](https://api-mmrl.dergoogler.com/json/mmar.json)
+- [Googlers Repo](https://api-mmrl.dergoogler.com/json/gmr.json)
+- [Magisk Modules Official Repo](https://api-mmrl.dergoogler.com/json/mmr.json)
