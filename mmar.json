@@ -18,6 +18,10 @@
             "last_update": 1692431280000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/acc/master/README.md",
             "stars": 9,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/acc.git",
+                "issues": null
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -48,6 +52,10 @@
             "last_update": 1683124699000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/AdGuardDNS4Magisk/main/README.md",
             "stars": 11,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/AdGuardDNS4Magisk.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/AdGuardDNS4Magisk/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -78,6 +86,10 @@
             "last_update": 1683124751000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/AdGuardDNS4Magisk-IPv6/main/README.md",
             "stars": 6,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/AdGuardDNS4Magisk-IPv6.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/AdGuardDNS4Magisk-IPv6/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -108,6 +120,10 @@
             "last_update": 1640525162000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/AFWall-Boot-AntiLeak/main/README.md",
             "stars": 23,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/AFWall-Boot-AntiLeak.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/AFWall-Boot-AntiLeak/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -138,6 +154,10 @@
             "last_update": 1693302157000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer/main/README.md",
             "stars": 39,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -168,6 +188,10 @@
             "last_update": 1691936900000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-misc-settings/master/README.md",
             "stars": 108,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/audio-misc-settings.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/audio-misc-settings/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -198,6 +222,10 @@
             "last_update": 1599015487000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/backup/master/README.md",
             "stars": 34,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/backup.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/backup/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -228,6 +256,10 @@
             "last_update": 1615045465000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Better-MIUI-Icons/master/README.md",
             "stars": 6,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/Better-MIUI-Icons.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/Better-MIUI-Icons/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -258,6 +290,10 @@
             "last_update": 1644775126000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BraviaEngine/master/README.md",
             "stars": 3,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/BraviaEngine.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/BraviaEngine/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -288,6 +324,10 @@
             "last_update": 1691528864000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/main/README.md",
             "stars": 103,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -318,6 +358,10 @@
             "last_update": 1638831717000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/charch/master/README.md",
             "stars": 9,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/charch.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/charch/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -348,6 +392,10 @@
             "last_update": 1648456059000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/charch_dinit/master/README.md",
             "stars": 3,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/charch_dinit.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/charch_dinit/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -378,6 +426,10 @@
             "last_update": 1600642258000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/charch_openrc/master/README.md",
             "stars": 2,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/charch_openrc.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/charch_openrc/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -408,6 +460,10 @@
             "last_update": 1600642223000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/charch_sshd/master/README.md",
             "stars": 3,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/charch_sshd.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/charch_sshd/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -438,6 +494,10 @@
             "last_update": 1663803256000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Clash4Magisk/master/README.md",
             "stars": 4,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/Clash4Magisk.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/Clash4Magisk/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -468,6 +528,10 @@
             "last_update": 1673388959000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/CloudflareDNS4Magisk/master/README.md",
             "stars": 5,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/CloudflareDNS4Magisk.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/CloudflareDNS4Magisk/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -498,6 +562,10 @@
             "last_update": 1673388915000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/CloudflareDNS4Magisk-IPv6/master/README.md",
             "stars": 6,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/CloudflareDNS4Magisk-IPv6.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/CloudflareDNS4Magisk-IPv6/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -528,6 +596,10 @@
             "last_update": 1598574218000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/cmdpatch/master/README.md",
             "stars": 14,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/cmdpatch.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/cmdpatch/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -558,6 +630,10 @@
             "last_update": 1673549110000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/com.omergoktas.Foundation/master/README.md",
             "stars": 14,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/com.omergoktas.Foundation.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/com.omergoktas.Foundation/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -588,6 +664,10 @@
             "last_update": 1644751003000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/custom-certificate-authorities/master/README.md",
             "stars": 37,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/custom-certificate-authorities.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/custom-certificate-authorities/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -618,6 +698,10 @@
             "last_update": 1680734245000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/CustomizedNavbar/main/README.md",
             "stars": 24,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/CustomizedNavbar.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/CustomizedNavbar/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -648,6 +732,10 @@
             "last_update": 1673728563000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/DalvikHyperthreading/main/README.md",
             "stars": 17,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/DalvikHyperthreading.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/DalvikHyperthreading/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -678,6 +766,10 @@
             "last_update": 1686425610000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/data_backup/main/README.md",
             "stars": 35,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/data_backup.git",
+                "issues": null
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -708,6 +800,10 @@
             "last_update": 1670983400000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/data_isolation_support/main/README.md",
             "stars": 13,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/data_isolation_support.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/data_isolation_support/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -738,6 +834,10 @@
             "last_update": 1686221785000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/data_restore_Courier/main/README.md",
             "stars": 5,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/data_restore_Courier.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/data_restore_Courier/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -768,6 +868,10 @@
             "last_update": 1645534294000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Detach/master/README.md",
             "stars": 6,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/Detach.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/Detach/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -798,6 +902,10 @@
             "last_update": 1690446974000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Disable_high_volume_warning/main/README.md",
             "stars": 3,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/Disable_high_volume_warning.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/Disable_high_volume_warning/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -828,6 +936,10 @@
             "last_update": 1639484648000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/djs/master/README.md",
             "stars": 4,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/djs.git",
+                "issues": null
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -858,6 +970,10 @@
             "last_update": 1683473028000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/drc-remover/master/README.md",
             "stars": 47,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/drc-remover.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/drc-remover/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -888,6 +1004,10 @@
             "last_update": 1685699521000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Evolve-Evo/master/README.md",
             "stars": 6,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/Evolve-Evo.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/Evolve-Evo/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -918,6 +1038,10 @@
             "last_update": 1662814335000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ezme-dex-space/main/README.md",
             "stars": 2,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/ezme-dex-space.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/ezme-dex-space/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -948,6 +1072,10 @@
             "last_update": 1663012287000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ezme-nodebug/main/README.md",
             "stars": 15,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/ezme-nodebug.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/ezme-nodebug/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -978,6 +1106,10 @@
             "last_update": 1638809703000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/fbind/master/README.md",
             "stars": 7,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/fbind.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/fbind/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -1008,6 +1140,10 @@
             "last_update": 1669116222000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Fdroid-Priv/main/README.md",
             "stars": 7,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/Fdroid-Priv.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/Fdroid-Priv/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -1038,6 +1174,10 @@
             "last_update": 1691803419000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/FluentEmojiMagisk/main/README.md",
             "stars": 4,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/FluentEmojiMagisk.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/FluentEmojiMagisk/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -1068,6 +1208,10 @@
             "last_update": 1605409356000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/FOSSAPPS/main/README.md",
             "stars": 12,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/FOSSAPPS.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/FOSSAPPS/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -1098,6 +1242,10 @@
             "last_update": 1673245267000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/frozen_magisk_app/main/README.md",
             "stars": 8,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/frozen_magisk_app.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/frozen_magisk_app/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -1128,6 +1276,10 @@
             "last_update": 1603068712000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/gaming/master/README.md",
             "stars": 59,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/gaming.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/gaming/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -1158,6 +1310,10 @@
             "last_update": 1652865058000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/gboard-dict-3/master/README.md",
             "stars": 40,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/gboard-dict-3.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/gboard-dict-3/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -1188,6 +1344,10 @@
             "last_update": 1681338219000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GlitchedCyberBoot/main/README.md",
             "stars": 4,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/GlitchedCyberBoot.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/GlitchedCyberBoot/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -1218,6 +1378,10 @@
             "last_update": 1683468481000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GMS-Doze_Block_FindMyDevice/main/README.md",
             "stars": 10,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/GMS-Doze_Block_FindMyDevice.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/GMS-Doze_Block_FindMyDevice/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -1248,6 +1412,10 @@
             "last_update": 1683468397000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GMSDoze/main/README.md",
             "stars": 52,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/GMSDoze.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/GMSDoze/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -1278,6 +1446,10 @@
             "last_update": 1598228686000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Google-Sans/master/README.md",
             "stars": 4,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/Google-Sans.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/Google-Sans/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -1308,6 +1480,10 @@
             "last_update": 1598227265000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Google-Sans-Plus/master/README.md",
             "stars": 13,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/Google-Sans-Plus.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/Google-Sans-Plus/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -1338,6 +1514,10 @@
             "last_update": 1646152481000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Google_Product_Sans_Font/main/README.md",
             "stars": 10,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/Google_Product_Sans_Font.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/Google_Product_Sans_Font/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -1368,6 +1548,10 @@
             "last_update": 1659743807000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/heimdall-ndk/heimdall-v2.x/README.md",
             "stars": 17,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/heimdall-ndk.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/heimdall-ndk/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -1398,6 +1582,10 @@
             "last_update": 1691819224000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HideNavBar/master/README.md",
             "stars": 216,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/HideNavBar.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/HideNavBar/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -1428,6 +1616,10 @@
             "last_update": 1693645620000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/isodrive/main/README.md",
             "stars": 20,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/isodrive.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/isodrive/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -1458,6 +1650,10 @@
             "last_update": 1659136922000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/King-Tweaks/master/README.md",
             "stars": 23,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/King-Tweaks.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/King-Tweaks/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -1488,6 +1684,10 @@
             "last_update": 1676718135000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/lhroot/master/README.md",
             "stars": 28,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/lhroot.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/lhroot/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -1518,6 +1718,10 @@
             "last_update": 1665327252000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Luz-Nocturna_Modded/main/README.md",
             "stars": 3,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/Luz-Nocturna_Modded.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/Luz-Nocturna_Modded/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -1548,6 +1752,10 @@
             "last_update": 1598109398000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MacRandomizationEnabler/master/README.md",
             "stars": 9,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/MacRandomizationEnabler.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/MacRandomizationEnabler/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -1578,6 +1786,10 @@
             "last_update": 1652933875000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magic-flash/main/README.md",
             "stars": 117,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/magic-flash.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/magic-flash/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -1608,6 +1820,10 @@
             "last_update": 1604596410000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Magisk-Captive-Control/master/README.md",
             "stars": 12,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/Magisk-Captive-Control.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/Magisk-Captive-Control/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -1638,6 +1854,10 @@
             "last_update": 1612778235000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Magisk-DRM-Disabler/master/README.md",
             "stars": 8,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/Magisk-DRM-Disabler.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/Magisk-DRM-Disabler/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -1668,6 +1888,10 @@
             "last_update": 1677543418000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk-module-koruri-font/master/README.md",
             "stars": 3,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/magisk-module-koruri-font.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/magisk-module-koruri-font/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -1698,6 +1922,10 @@
             "last_update": 1677543206000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk-module-mejiro-font/master/README.md",
             "stars": 5,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/magisk-module-mejiro-font.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/magisk-module-mejiro-font/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -1728,6 +1956,10 @@
             "last_update": 1677950994000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MagiskHide/main/README.md",
             "stars": 19,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/MagiskHide.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/MagiskHide/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -1758,6 +1990,10 @@
             "last_update": 1686805349000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/main/README.md",
             "stars": 37,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/magisk_overlayfs.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -1788,6 +2024,10 @@
             "last_update": 1694360679000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_proc_monitor/main/README.md",
             "stars": 15,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/magisk_proc_monitor.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/magisk_proc_monitor/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -1818,6 +2058,10 @@
             "last_update": 1695705121000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Malwack/main/README.md",
             "stars": 15,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/Malwack.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/Malwack/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -1848,6 +2092,10 @@
             "last_update": 1690613826000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microG-GApps/master/README.md",
             "stars": 56,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/microG-GApps.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/microG-GApps/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -1878,6 +2126,10 @@
             "last_update": 1685780343000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microg_installer/master/README.md",
             "stars": 53,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/microg_installer.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/microg_installer/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -1908,6 +2160,10 @@
             "last_update": 1694329738000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MiXplorer/main/README.md",
             "stars": 157,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/MiXplorer.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/MiXplorer/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -1938,6 +2194,10 @@
             "last_update": 1694987080000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/mkshrc/master/README.md",
             "stars": 22,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/mkshrc.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/mkshrc/issues"
+            },
             "mmrl": {
                 "cover": "https://miro.medium.com/v2/resize:fit:1200/format:png/1*R6CVgKDLTenXSGUxgt0t7Q.png",
                 "logo": null,
@@ -1978,6 +2238,10 @@
             "last_update": 1661028252000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NavBar_Resize_AOSP/main/README.md",
             "stars": 1,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/NavBar_Resize_AOSP.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/NavBar_Resize_AOSP/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -2008,6 +2272,10 @@
             "last_update": 1665059184000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NavBar_Resize_MIUI/main/README.md",
             "stars": 3,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/NavBar_Resize_MIUI.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/NavBar_Resize_MIUI/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -2038,6 +2306,10 @@
             "last_update": 1694987130000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/node/master/README.md",
             "stars": 32,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/node.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/node/issues"
+            },
             "mmrl": {
                 "cover": "https://github.com/DerGoogler/cdn/blob/master/images/Node.js.Cover.png?raw=true",
                 "logo": "https://raw.githubusercontent.com/nodejs/nodejs.org/main/public/static/images/logo-hexagon.svg",
@@ -2073,6 +2345,10 @@
             "last_update": 1673519742000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NoProcStatRestriction/master/README.md",
             "stars": 4,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/NoProcStatRestriction.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/NoProcStatRestriction/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -2103,6 +2379,10 @@
             "last_update": 1679266482000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NoStorageRestrict/main/README.md",
             "stars": 141,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/NoStorageRestrict.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/NoStorageRestrict/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -2133,6 +2413,10 @@
             "last_update": 1598910235000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NotchBarKiller/master/README.md",
             "stars": 9,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/NotchBarKiller.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/NotchBarKiller/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -2163,6 +2447,10 @@
             "last_update": 1624492127000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/OneController/master/README.md",
             "stars": 7,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/OneController.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/OneController/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -2193,6 +2481,10 @@
             "last_update": 1668837315000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/oneplus-8series-9r-camera-unlocker/master/README.md",
             "stars": 8,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/oneplus-8series-9r-camera-unlocker.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/oneplus-8series-9r-camera-unlocker/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -2223,6 +2515,10 @@
             "last_update": 1673864527000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/oneplusdotfix/master/README.md",
             "stars": 0,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/oneplusdotfix.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/oneplusdotfix/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -2253,6 +2549,10 @@
             "last_update": 1682263432000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_fonts/master/README.md",
             "stars": 51,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/open_fonts.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/open_fonts/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -2283,6 +2583,10 @@
             "last_update": 1695548624000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_webview/master/README.md",
             "stars": 88,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/open_webview.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/open_webview/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -2313,6 +2617,10 @@
             "last_update": 1661242317000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/pdx213_assistant_camera_remap/main/README.md",
             "stars": 1,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/pdx213_assistant_camera_remap.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/pdx213_assistant_camera_remap/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -2343,6 +2651,10 @@
             "last_update": 1695975711000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/perf-limit-xiaomi-12/main/README.md",
             "stars": 1,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/perf-limit-xiaomi-12.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/perf-limit-xiaomi-12/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -2373,6 +2685,10 @@
             "last_update": 1691055436000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/pixel-tensor-audio-decompressor/dev/README.md",
             "stars": 1,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/pixel-tensor-audio-decompressor.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/pixel-tensor-audio-decompressor/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -2403,6 +2719,10 @@
             "last_update": 1645367235000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/PLEX_SKIP_INTRO_DPAD_CONTROLLER_FIX/main/README.md",
             "stars": 2,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/PLEX_SKIP_INTRO_DPAD_CONTROLLER_FIX.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/PLEX_SKIP_INTRO_DPAD_CONTROLLER_FIX/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -2433,6 +2753,10 @@
             "last_update": 1659744733000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/qdl-ndk/qdl-master/README.md",
             "stars": 2,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/qdl-ndk.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/qdl-ndk/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -2463,6 +2787,10 @@
             "last_update": 1661166618000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/QS_Rectangulares/main/README.md",
             "stars": 1,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/QS_Rectangulares.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/QS_Rectangulares/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -2493,6 +2821,10 @@
             "last_update": 1669914042000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/RTKS/stable/README.md",
             "stars": 5,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/RTKS.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/RTKS/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -2523,6 +2855,10 @@
             "last_update": 1598478612000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/saturation/master/README.md",
             "stars": 12,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/saturation.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/saturation/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -2553,6 +2889,10 @@
             "last_update": 1657442190000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/selinux_mode/main/README.md",
             "stars": 7,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/selinux_mode.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/selinux_mode/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -2583,6 +2923,10 @@
             "last_update": 1678093152000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/sensitive_props/master/README.md",
             "stars": 73,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/sensitive_props.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/sensitive_props/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -2613,6 +2957,10 @@
             "last_update": 1690305811000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Simple_BootloopSaver/master/README.md",
             "stars": 9,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/Simple_BootloopSaver.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/Simple_BootloopSaver/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -2643,6 +2991,10 @@
             "last_update": 1692753832000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/smallbattery/main/README.md",
             "stars": 1,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/smallbattery.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/smallbattery/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -2673,6 +3025,10 @@
             "last_update": 1663296850000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/SomcGameEnhancer-Upgrade/main/README.md",
             "stars": 2,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/SomcGameEnhancer-Upgrade.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/SomcGameEnhancer-Upgrade/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -2703,6 +3059,10 @@
             "last_update": 1679340266000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/supl-replacer/master/README.md",
             "stars": 24,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/supl-replacer.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/supl-replacer/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -2733,6 +3093,10 @@
             "last_update": 1694378519000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/SystemlessDebloater/main/README.md",
             "stars": 43,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/SystemlessDebloater.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/SystemlessDebloater/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -2763,6 +3127,10 @@
             "last_update": 1643775613000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/systemui-bootloop/main/README.md",
             "stars": 22,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/systemui-bootloop.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/systemui-bootloop/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -2793,6 +3161,10 @@
             "last_update": 1694974205000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ThemedProject/main/README.md",
             "stars": 16,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/ThemedProject.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/ThemedProject/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -2823,6 +3195,10 @@
             "last_update": 1691442121000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ToyBox-Ext/main/README.md",
             "stars": 56,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/ToyBox-Ext.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/ToyBox-Ext/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -2853,6 +3229,10 @@
             "last_update": 1655967933000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/trichromelibrary-squoosh/master/README.md",
             "stars": 17,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/trichromelibrary-squoosh.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/trichromelibrary-squoosh/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -2883,6 +3263,10 @@
             "last_update": 1662816153000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ttf-twemoji/main/README.md",
             "stars": 8,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/ttf-twemoji.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/ttf-twemoji/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -2913,6 +3297,10 @@
             "last_update": 1683467033000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/UbuntuFontVinaooo/main/README.md",
             "stars": 3,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/UbuntuFontVinaooo.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/UbuntuFontVinaooo/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -2943,6 +3331,10 @@
             "last_update": 1673557361000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/unityfix/main/README.md",
             "stars": 3,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/unityfix.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/unityfix/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -2973,6 +3365,10 @@
             "last_update": 1659745041000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/upx-ndk/master/README.md",
             "stars": 1,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/upx-ndk.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/upx-ndk/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -3003,6 +3399,10 @@
             "last_update": 1691936757000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker/master/README.md",
             "stars": 53,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -3033,6 +3433,10 @@
             "last_update": 1598025275000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/vintf-bypass/master/README.md",
             "stars": 7,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/vintf-bypass.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/vintf-bypass/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -3063,6 +3467,10 @@
             "last_update": 1692631701000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/wifi-bonding-nolog/master/README.md",
             "stars": 4,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/wifi-bonding-nolog.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/wifi-bonding-nolog/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -3093,6 +3501,10 @@
             "last_update": 1692090860000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/xhhttp/master/README.md",
             "stars": 11,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/xhhttp.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/xhhttp/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -3123,6 +3535,10 @@
             "last_update": 1690999116000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/xmlpak-RE/RE/README.md",
             "stars": 9,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/xmlpak-RE.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/xmlpak-RE/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -3153,6 +3569,10 @@
             "last_update": 1693126069000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/YAKT/main/README.md",
             "stars": 26,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/YAKT.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/YAKT/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -3183,6 +3603,10 @@
             "last_update": 1673338863000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ytmusic_revancedinject/main/README.md",
             "stars": 7,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/ytmusic_revancedinject.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/ytmusic_revancedinject/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -3213,6 +3637,10 @@
             "last_update": 1673704299000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ytrevancedinject/main/README.md",
             "stars": 28,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/ytrevancedinject.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/ytrevancedinject/issues"
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
@@ -3243,6 +3671,10 @@
             "last_update": 1641720621000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/zram-swap-manager/master/README.md",
             "stars": 18,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/zram-swap-manager.git",
+                "issues": null
+            },
             "mmrl": {
                 "cover": null,
                 "logo": null,
