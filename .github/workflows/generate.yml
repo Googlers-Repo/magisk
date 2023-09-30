@@ -33,12 +33,29 @@ jobs:
           pip install PyGithub
           pip install gitpython
       
-      - name: Generate JSON
+      - name: Generate MMAR JSON
         run: |
           export REPO_NAME="Magisk-Modules-Alt-Repo" 
           export REPO_TITLE="Magisk Modules Alt Repo"
           export REPO_SUBMIT_MODULE="https://github.com/Magisk-Modules-Alt-Repo/submission"
           export REPO_SCOPE="mmar"
+          export GIT_TOKEN="${{ secrets.TOKEN }}"
+          python generate.py "${{ secrets.TOKEN }}"
+
+
+      - name: Generate GMR JSON
+        run: |
+          export REPO_NAME="Googlers-Repo" 
+          export REPO_TITLE="Googlers Repo"
+          export REPO_SCOPE="gmr"
+          export GIT_TOKEN="${{ secrets.TOKEN }}"
+          python generate.py "${{ secrets.TOKEN }}"
+
+      - name: Generate MMR JSON
+        run: |
+          export REPO_NAME="Magisk-Modules-Repo" 
+          export REPO_TITLE="Magisk Modules Repo (Official)"
+          export REPO_SCOPE="mmr"
           export GIT_TOKEN="${{ secrets.TOKEN }}"
           python generate.py "${{ secrets.TOKEN }}"
 
