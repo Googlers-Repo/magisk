@@ -109,6 +109,10 @@ for repo in repos:
             "last_update": int(last_update_timestamp * 1000),
             "readme": f"https://raw.githubusercontent.com/{repo.full_name}/{repo.default_branch}/README.md",
             "stars": int(repo.stargazers_count),
+            "about": {
+                "source": repo.clone_url,
+                "issues": f"{repo.html_url}/issues" if repo.has_issues else None,
+            },
             "mmrl": {
                 "cover": getprop("mmrlCover"),
                 "logo": getprop("mmrlLogo"),
