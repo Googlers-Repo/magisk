@@ -655,13 +655,13 @@
         {
             "id": "callrecorder-skvalex",
             "name": "Call Recorder - SKVALEX",
-            "version": "2.2.0 (3.5.5)",
-            "versionCode": 47,
+            "version": "2.2.0 (3.6.1)",
+            "versionCode": 48,
             "author": "skvalex",
             "description": "App to record phone calls from the line with a power of root and Magisk",
             "valid": true,
             "download": "https://github.com/Magisk-Modules-Repo/callrecorder-skvalex/archive/master.zip",
-            "last_update": 1676998039000,
+            "last_update": 1696146881000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/callrecorder-skvalex/master/README.md",
             "stars": 270,
             "about": {
