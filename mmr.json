@@ -595,7 +595,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/busybox-ndk/archive/master.zip",
             "last_update": 1694456430000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/README.md",
-            "stars": 740,
+            "stars": 741,
             "about": {
                 "source": "https://github.com/Magisk-Modules-Repo/busybox-ndk.git",
                 "issues": null
@@ -1037,7 +1037,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/energizedprotection/archive/master.zip",
             "last_update": 1644066160000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/energizedprotection/master/README.md",
-            "stars": 271,
+            "stars": 272,
             "about": {
                 "source": "https://github.com/Magisk-Modules-Repo/energizedprotection.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/energizedprotection/issues"
@@ -1173,7 +1173,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/G-VisualMod/archive/master.zip",
             "last_update": 1612675127000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/G-VisualMod/master/README.md",
-            "stars": 311,
+            "stars": 312,
             "about": {
                 "source": "https://github.com/Magisk-Modules-Repo/G-VisualMod.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/G-VisualMod/issues"
@@ -1343,7 +1343,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/HideNavBar/archive/master.zip",
             "last_update": 1661404564000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/HideNavBar/master/README.md",
-            "stars": 453,
+            "stars": 454,
             "about": {
                 "source": "https://github.com/Magisk-Modules-Repo/HideNavBar.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/HideNavBar/issues"
@@ -3247,7 +3247,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/xposed/archive/master.zip",
             "last_update": 1556686471000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/xposed/master/README.md",
-            "stars": 110,
+            "stars": 111,
             "about": {
                 "source": "https://github.com/Magisk-Modules-Repo/xposed.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/xposed/issues"
