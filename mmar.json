@@ -663,7 +663,7 @@
             "download": "https://github.com/Magisk-Modules-Alt-Repo/custom-certificate-authorities/archive/master.zip",
             "last_update": 1644751003000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/custom-certificate-authorities/master/README.md",
-            "stars": 37,
+            "stars": 38,
             "about": {
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/custom-certificate-authorities.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/custom-certificate-authorities/issues"
@@ -1615,7 +1615,7 @@
             "download": "https://github.com/Magisk-Modules-Alt-Repo/isodrive/archive/main.zip",
             "last_update": 1693645620000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/isodrive/main/README.md",
-            "stars": 20,
+            "stars": 21,
             "about": {
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/isodrive.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/isodrive/issues"
