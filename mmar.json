@@ -3390,13 +3390,13 @@
         {
             "id": "usb-samplerate-unlocker",
             "name": "USB Samplerate Unlocker",
-            "version": "v1.5.2",
-            "versionCode": 1502,
+            "version": "v1.5.3",
+            "versionCode": 1503,
             "author": "zyhk",
             "description": "USB (HAL) audio class drivers have a limiter of sample rates at 96kHz. This mod unlocks the limiter.",
             "valid": true,
             "download": "https://github.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker/archive/master.zip",
-            "last_update": 1691936757000,
+            "last_update": 1696318252000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker/master/README.md",
             "stars": 53,
             "about": {
