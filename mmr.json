@@ -595,7 +595,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/busybox-ndk/archive/master.zip",
             "last_update": 1694456430000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/README.md",
-            "stars": 741,
+            "stars": 742,
             "about": {
                 "source": "https://github.com/Magisk-Modules-Repo/busybox-ndk.git",
                 "issues": null
@@ -1037,7 +1037,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/energizedprotection/archive/master.zip",
             "last_update": 1644066160000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/energizedprotection/master/README.md",
-            "stars": 272,
+            "stars": 273,
             "about": {
                 "source": "https://github.com/Magisk-Modules-Repo/energizedprotection.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/energizedprotection/issues"
