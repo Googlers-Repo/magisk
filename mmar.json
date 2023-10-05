@@ -2049,13 +2049,13 @@
         {
             "id": "Malwack",
             "name": "Malwack | Anti-Malware & Ad Blocker",
-            "version": "v2.4",
-            "versionCode": 10,
+            "version": "v2.5",
+            "versionCode": 11,
             "author": "Person0z",
             "description": "Say goodbye to unwanted digital pests and send malware running with Malwack, your virtual fly swatter for the cyber world. It's like having a bouncer for your device \u2013 no entry for malware, bugs, or party crashers!",
             "valid": true,
             "download": "https://github.com/Magisk-Modules-Alt-Repo/Malwack/archive/main.zip",
-            "last_update": 1695705121000,
+            "last_update": 1696519187000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Malwack/main/README.md",
             "stars": 19,
             "about": {
