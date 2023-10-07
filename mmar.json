@@ -2580,9 +2580,9 @@
             "description": "Open Webview change your system webview",
             "valid": true,
             "download": "https://github.com/Magisk-Modules-Alt-Repo/open_webview/archive/master.zip",
-            "last_update": 1696691020000,
+            "last_update": 1696696534000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_webview/master/README.md",
-            "stars": 91,
+            "stars": 93,
             "about": {
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/open_webview.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/open_webview/issues"
