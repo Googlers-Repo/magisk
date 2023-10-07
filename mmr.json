@@ -187,7 +187,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/adreno-dev/archive/master.zip",
             "last_update": 1687978189000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adreno-dev/master/README.md",
-            "stars": 66,
+            "stars": 67,
             "about": {
                 "source": "https://github.com/Magisk-Modules-Repo/adreno-dev.git",
                 "issues": null
@@ -595,7 +595,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/busybox-ndk/archive/master.zip",
             "last_update": 1694456430000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/README.md",
-            "stars": 743,
+            "stars": 744,
             "about": {
                 "source": "https://github.com/Magisk-Modules-Repo/busybox-ndk.git",
                 "issues": null
@@ -1819,7 +1819,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/movecert/archive/master.zip",
             "last_update": 1656286469000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/movecert/master/README.md",
-            "stars": 504,
+            "stars": 505,
             "about": {
                 "source": "https://github.com/Magisk-Modules-Repo/movecert.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/movecert/issues"
@@ -3315,7 +3315,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/zipsigner/archive/master.zip",
             "last_update": 1693703774000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/zipsigner/master/README.md",
-            "stars": 51,
+            "stars": 52,
             "about": {
                 "source": "https://github.com/Magisk-Modules-Repo/zipsigner.git",
                 "issues": null
