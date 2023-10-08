@@ -67,5 +67,5 @@ jobs:
       - name: Commit Changes
         run: |
           git add .
-          git commit -m "Update MMAR mirrors" || true
+          git commit -m "Update mirrors" || true
           git push || true
