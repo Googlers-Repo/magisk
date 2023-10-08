@@ -1241,7 +1241,7 @@
             "download": "https://github.com/Magisk-Modules-Alt-Repo/frozen_magisk_app/archive/main.zip",
             "last_update": 1673245267000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/frozen_magisk_app/main/README.md",
-            "stars": 8,
+            "stars": 9,
             "about": {
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/frozen_magisk_app.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/frozen_magisk_app/issues"
@@ -2023,7 +2023,7 @@
             "download": "https://github.com/Magisk-Modules-Alt-Repo/magisk_proc_monitor/archive/main.zip",
             "last_update": 1694360679000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_proc_monitor/main/README.md",
-            "stars": 15,
+            "stars": 16,
             "about": {
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/magisk_proc_monitor.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/magisk_proc_monitor/issues"
@@ -2580,7 +2580,7 @@
             "description": "Open Webview change your system webview",
             "valid": true,
             "download": "https://github.com/Magisk-Modules-Alt-Repo/open_webview/archive/master.zip",
-            "last_update": 1696768959000,
+            "last_update": 1696770966000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_webview/master/README.md",
             "stars": 96,
             "about": {
