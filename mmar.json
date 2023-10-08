@@ -2574,15 +2574,15 @@
         {
             "id": "open_webview",
             "name": "Open Webview",
-            "version": "2.3.0",
-            "versionCode": 106,
+            "version": "2.3.1",
+            "versionCode": 231,
             "author": "F3FFO",
             "description": "Open Webview change your system webview",
             "valid": true,
             "download": "https://github.com/Magisk-Modules-Alt-Repo/open_webview/archive/master.zip",
-            "last_update": 1696696534000,
+            "last_update": 1696768959000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_webview/master/README.md",
-            "stars": 95,
+            "stars": 96,
             "about": {
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/open_webview.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/open_webview/issues"
@@ -2598,7 +2598,7 @@
                 "maxApi": null,
                 "minMagisk": 20400,
                 "needRamdisk": null,
-                "support": "https://forum.xda-developers.com/t/magisk-module-webview-open-webview-2-3-0.4496119/",
+                "support": "https://xdaforums.com/t/magisk-module-webview-open-webview-2-3-0.4496119/",
                 "donate": "https://www.paypal.me/f3ff0",
                 "config": null,
                 "changeBoot": null,
@@ -2922,7 +2922,7 @@
             "download": "https://github.com/Magisk-Modules-Alt-Repo/sensitive_props/archive/master.zip",
             "last_update": 1678093152000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/sensitive_props/master/README.md",
-            "stars": 74,
+            "stars": 75,
             "about": {
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/sensitive_props.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/sensitive_props/issues"
