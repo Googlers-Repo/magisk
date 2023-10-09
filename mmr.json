@@ -595,7 +595,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/busybox-ndk/archive/master.zip",
             "last_update": 1694456430000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/README.md",
-            "stars": 746,
+            "stars": 747,
             "about": {
                 "source": "https://github.com/Magisk-Modules-Repo/busybox-ndk.git",
                 "issues": null
@@ -697,7 +697,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/ccbins/archive/master.zip",
             "last_update": 1691966533000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ccbins/master/README.md",
-            "stars": 90,
+            "stars": 91,
             "about": {
                 "source": "https://github.com/Magisk-Modules-Repo/ccbins.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/ccbins/issues"
