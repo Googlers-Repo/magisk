@@ -1853,7 +1853,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/mtd-ndk/archive/master.zip",
             "last_update": 1693703811000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/mtd-ndk/master/README.md",
-            "stars": 41,
+            "stars": 42,
             "about": {
                 "source": "https://github.com/Magisk-Modules-Repo/mtd-ndk.git",
                 "issues": null
@@ -1887,7 +1887,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/nano-ndk/archive/master.zip",
             "last_update": 1687978225000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/nano-ndk/master/README.md",
-            "stars": 103,
+            "stars": 104,
             "about": {
                 "source": "https://github.com/Magisk-Modules-Repo/nano-ndk.git",
                 "issues": null
@@ -3315,7 +3315,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/zipsigner/archive/master.zip",
             "last_update": 1693703774000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/zipsigner/master/README.md",
-            "stars": 52,
+            "stars": 53,
             "about": {
                 "source": "https://github.com/Magisk-Modules-Repo/zipsigner.git",
                 "issues": null
