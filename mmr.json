@@ -119,7 +119,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/adb-ndk/archive/master.zip",
             "last_update": 1693703724000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/README.md",
-            "stars": 325,
+            "stars": 326,
             "about": {
                 "source": "https://github.com/Magisk-Modules-Repo/adb-ndk.git",
                 "issues": null
@@ -765,7 +765,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/CloudflareDNS4Magisk-IPv6/archive/master.zip",
             "last_update": 1673388770000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/CloudflareDNS4Magisk-IPv6/master/README.md",
-            "stars": 41,
+            "stars": 40,
             "about": {
                 "source": "https://github.com/Magisk-Modules-Repo/CloudflareDNS4Magisk-IPv6.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/CloudflareDNS4Magisk-IPv6/issues"
@@ -1037,7 +1037,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/energizedprotection/archive/master.zip",
             "last_update": 1644066160000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/energizedprotection/master/README.md",
-            "stars": 275,
+            "stars": 274,
             "about": {
                 "source": "https://github.com/Magisk-Modules-Repo/energizedprotection.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/energizedprotection/issues"
@@ -1173,7 +1173,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/G-VisualMod/archive/master.zip",
             "last_update": 1612675127000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/G-VisualMod/master/README.md",
-            "stars": 317,
+            "stars": 316,
             "about": {
                 "source": "https://github.com/Magisk-Modules-Repo/G-VisualMod.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/G-VisualMod/issues"
@@ -1513,7 +1513,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/libsecure_storage/archive/master.zip",
             "last_update": 1589034549000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/libsecure_storage/master/README.md",
-            "stars": 8,
+            "stars": 9,
             "about": {
                 "source": "https://github.com/Magisk-Modules-Repo/libsecure_storage.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/libsecure_storage/issues"
