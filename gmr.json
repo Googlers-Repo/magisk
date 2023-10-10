@@ -187,6 +187,42 @@
                 "changeBoot": null,
                 "mmtReborn": null
             }
+        },
+        {
+            "id": "which",
+            "name": "which root hide",
+            "version": "1.0.0",
+            "versionCode": 100,
+            "author": "Der_Googler",
+            "description": "A binariy that excludes root related binaries",
+            "valid": true,
+            "download": "https://github.com/Googlers-Repo/which-module/archive/master.zip",
+            "last_update": 1696952364000,
+            "readme": "https://raw.githubusercontent.com/Googlers-Repo/which-module/master/README.md",
+            "stars": 0,
+            "about": {
+                "source": "https://github.com/Googlers-Repo/which-module.git",
+                "issues": "https://github.com/Googlers-Repo/which-module/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": [
+                    "System"
+                ]
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
         }
     ]
 }
