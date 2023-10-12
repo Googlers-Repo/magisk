@@ -1579,7 +1579,7 @@
             "description": "Customize Android 10-14's navigation gestures",
             "valid": true,
             "download": "https://github.com/Magisk-Modules-Alt-Repo/HideNavBar/archive/master.zip",
-            "last_update": 1697116567000,
+            "last_update": 1697116729000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HideNavBar/master/README.md",
             "stars": 226,
             "about": {
@@ -2582,7 +2582,7 @@
             "download": "https://github.com/Magisk-Modules-Alt-Repo/open_webview/archive/master.zip",
             "last_update": 1696770966000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_webview/master/README.md",
-            "stars": 98,
+            "stars": 99,
             "about": {
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/open_webview.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/open_webview/issues"
