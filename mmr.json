@@ -25,8 +25,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -59,8 +59,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -93,8 +93,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -127,8 +127,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -161,8 +161,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -179,7 +179,7 @@
         {
             "id": "adreno-dev",
             "name": "Adreno GPU Developer Preview Drivers",
-            "version": "#version#",
+            "version": "",
             "versionCode": 34,
             "author": "osm0sis @ xda-developers",
             "description": "Replace ROM Adreno GPU drivers from Qualcomm",
@@ -195,8 +195,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -229,8 +229,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -263,8 +263,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -297,8 +297,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -331,8 +331,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -365,8 +365,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -399,8 +399,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -433,8 +433,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -467,8 +467,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -484,7 +484,7 @@
         },
         {
             "id": "ASUS-Style-Suite",
-            "name": "ASUS Style Suite ",
+            "name": "ASUS Style Suite",
             "version": "v4",
             "versionCode": 4,
             "author": "Rom, all credits to linuxct",
@@ -501,8 +501,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -535,8 +535,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -569,8 +569,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -603,8 +603,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -637,8 +637,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -671,8 +671,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -705,8 +705,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -739,8 +739,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -773,8 +773,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -807,8 +807,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -841,8 +841,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -875,8 +875,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -909,8 +909,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -943,8 +943,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -977,8 +977,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -1011,8 +1011,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -1045,8 +1045,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -1079,8 +1079,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -1113,8 +1113,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -1147,8 +1147,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -1181,8 +1181,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -1215,8 +1215,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -1249,8 +1249,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -1283,8 +1283,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -1317,8 +1317,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -1338,7 +1338,7 @@
             "version": "v21.0",
             "versionCode": 55,
             "author": "DanGLES3",
-            "description": "Customize Android 10-13's navigation gestures ",
+            "description": "Customize Android 10-13's navigation gestures",
             "valid": true,
             "download": "https://github.com/Magisk-Modules-Repo/HideNavBar/archive/master.zip",
             "last_update": 1661404564000,
@@ -1351,8 +1351,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -1385,8 +1385,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -1419,8 +1419,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -1453,8 +1453,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -1487,8 +1487,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -1521,8 +1521,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -1555,8 +1555,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -1589,8 +1589,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -1623,8 +1623,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -1657,8 +1657,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -1691,8 +1691,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -1725,8 +1725,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -1759,8 +1759,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -1793,8 +1793,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -1827,8 +1827,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -1861,8 +1861,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -1895,8 +1895,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -1913,7 +1913,7 @@
         {
             "id": "nexusmedia",
             "name": "Nexus Media",
-            "version": "#device#",
+            "version": "",
             "versionCode": 42,
             "author": "osm0sis @ xda-developers",
             "description": "Replace ROM ringtones/notification/system sounds and bootanimation with those from old Nexus devices (chosen at flash-time)",
@@ -1929,8 +1929,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -1963,8 +1963,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -1997,8 +1997,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -2031,8 +2031,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -2065,8 +2065,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -2099,8 +2099,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -2133,8 +2133,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -2167,8 +2167,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -2188,7 +2188,7 @@
             "version": "v3.0.4",
             "versionCode": 304,
             "author": "Joey Huab, Aidan Holland, Pika, JohnFawkes, and Laster K. (lazerl0rd)",
-            "description": "Ports Pixel-range exclusive features; Pixel Blue theme accent, Product Sans font, Alarms, Notification sounds, Ringtones, UI audio; enables Pixel Wallpapers, enables Google Call Screening, enables Night Light (device dependent), Daydream VR support, adds Device Gestures to Settings, enables Camera2 API and EIS support (varies per device)",
+            "description": "Ports Pixel-range exclusive features",
             "valid": true,
             "download": "https://github.com/Magisk-Modules-Repo/Pix3lify/archive/master.zip",
             "last_update": 1570707773000,
@@ -2201,8 +2201,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -2235,8 +2235,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -2269,8 +2269,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -2303,8 +2303,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -2337,8 +2337,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -2371,8 +2371,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": 10,
@@ -2405,8 +2405,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -2439,8 +2439,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -2473,8 +2473,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -2507,8 +2507,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -2541,8 +2541,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -2562,7 +2562,7 @@
             "version": "Q_r2",
             "versionCode": 5,
             "author": "Manish4586",
-            "description": " Enable's Sony Music App and Playstore Updatable Install Sony Music From Playstore.",
+            "description": "Enable's Sony Music App and Playstore Updatable Install Sony Music From Playstore.",
             "valid": true,
             "download": "https://github.com/Magisk-Modules-Repo/sonymusic/archive/master.zip",
             "last_update": 1587373770000,
@@ -2575,8 +2575,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -2609,8 +2609,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -2643,8 +2643,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -2677,8 +2677,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -2711,8 +2711,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -2745,8 +2745,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -2779,8 +2779,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -2813,8 +2813,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -2847,8 +2847,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -2881,8 +2881,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -2915,8 +2915,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -2932,7 +2932,7 @@
         },
         {
             "id": "ViPER4AndroidFX",
-            "name": "ViPER4Android FX ",
+            "name": "ViPER4Android FX",
             "version": "v2.7.2.1",
             "versionCode": 2721,
             "author": "ViPER520, ZhuHang, Pittvandewitt, MrWhite214, Zackptg5",
@@ -2949,8 +2949,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -2983,8 +2983,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -3017,8 +3017,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -3051,8 +3051,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -3085,8 +3085,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -3119,8 +3119,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -3153,8 +3153,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -3187,8 +3187,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -3221,8 +3221,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -3255,8 +3255,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -3289,8 +3289,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -3323,8 +3323,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
@@ -3357,8 +3357,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null
+                "screenshots": ",",
+                "categories": ","
             },
             "fox": {
                 "minApi": null,
