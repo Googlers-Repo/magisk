@@ -34,30 +34,30 @@ jobs:
           pip install gitpython
       
       - name: Generate MMAR JSON
-        run: |
-          export REPO_NAME="Magisk-Modules-Alt-Repo" 
-          export REPO_TITLE="Magisk Modules Alt Repo"
-          export REPO_SUBMIT_MODULE="https://github.com/Magisk-Modules-Alt-Repo/submission"
-          export REPO_SCOPE="mmar"
-          export GIT_TOKEN="${{ secrets.TOKEN }}"
-          python generate.py "${{ secrets.TOKEN }}"
+        run: python generate.py "${{ secrets.TOKEN }}"
+        env: 
+          REPO_NAME: "Magisk-Modules-Alt-Repo" 
+          REPO_TITLE: "Magisk Modules Alt Repo"
+          REPO_SUBMIT_MODULE: "https://github.com/Magisk-Modules-Alt-Repo/submission"
+          REPO_SCOPE: "mmar"
+          GIT_TOKEN: "${{ secrets.TOKEN }}"
 
 
       - name: Generate GMR JSON
-        run: |
-          export REPO_NAME="Googlers-Repo" 
-          export REPO_TITLE="Googlers Repo"
-          export REPO_SCOPE="gmr"
-          export GIT_TOKEN="${{ secrets.TOKEN }}"
-          python generate.py "${{ secrets.TOKEN }}"
+        run: python generate.py "${{ secrets.TOKEN }}"
+        env:
+          REPO_NAME: "Googlers-Repo" 
+          REPO_TITLE: "Googlers Repo"
+          REPO_SCOPE: "gmr"
+          GIT_TOKEN: "${{ secrets.TOKEN }}"
 
       - name: Generate MMR JSON
-        run: |
-          export REPO_NAME="Magisk-Modules-Repo" 
-          export REPO_TITLE="Magisk Modules Repo (Official)"
-          export REPO_SCOPE="mmr"
-          export GIT_TOKEN="${{ secrets.TOKEN }}"
-          python generate.py "${{ secrets.TOKEN }}"
+        run: python generate.py "${{ secrets.TOKEN }}"
+        env: 
+          REPO_NAME: "Magisk-Modules-Repo" 
+          REPO_TITLE: "Magisk Modules Repo (Official)"
+          REPO_SCOPE: "mmr"
+          GIT_TOKEN: "${{ secrets.TOKEN }}"
 
       - name: Setup Git
         run: |
