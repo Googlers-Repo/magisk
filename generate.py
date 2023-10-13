@@ -7,13 +7,13 @@ from github.Repository import Repository
 from datetime import datetime
 
 # Configuration
-REPO_NAME = os.getenv('REPO_NAME')
-REPO_TITLE = os.getenv('REPO_TITLE')
-REPO_WEBSITE = os.getenv('REPO_WEBSITE')
-REPO_SUPPORT = os.getenv('REPO_SUPPORT')
-REPO_DONATE = os.getenv('REPO_DONATE')
-REPO_SUBMIT_MODULE = os.getenv('REPO_SUBMIT_MODULE')
-REPO_SCOPE = os.getenv('REPO_SCOPE')
+REPO_NAME = os.environ['REPO_NAME'] or None
+REPO_TITLE = os.environ['REPO_TITLE'] or None
+REPO_WEBSITE = os.environ['REPO_WEBSITE'] or None
+REPO_SUPPORT = os.environ['REPO_SUPPORT'] or None
+REPO_DONATE = os.environ['REPO_DONATE'] or None
+REPO_SUBMIT_MODULE = os.environ['REPO_SUBMIT_MODULE'] or None
+REPO_SCOPE = os.environ['REPO_SCOPE'] or None
 
 # Initialize the GitHub objects
 g = Github(os.environ['GIT_TOKEN'])
