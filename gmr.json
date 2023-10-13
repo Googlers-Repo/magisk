@@ -25,8 +25,8 @@
             "mmrl": {
                 "cover": "https://github.com/DerGoogler/cdn/blob/master/images/AMTS-Blocker-Website-Vorlage-1%20Image.png?raw=true",
                 "logo": null,
-                "screenshots": ",",
-                "categories": ","
+                "screenshots": null,
+                "categories": null
             },
             "fox": {
                 "minApi": null,
@@ -59,8 +59,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": ",",
-                "categories": ","
+                "screenshots": null,
+                "categories": null
             },
             "fox": {
                 "minApi": null,
@@ -93,8 +93,8 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": ",",
-                "categories": ","
+                "screenshots": null,
+                "categories": null
             },
             "fox": {
                 "minApi": null,
@@ -117,7 +117,7 @@
             "description": "Required module if you want to install modules from Explore",
             "valid": true,
             "download": "https://github.com/Googlers-Repo/mmrl_install_tools/archive/master.zip",
-            "last_update": 1696875631000,
+            "last_update": 1697232774000,
             "readme": "https://raw.githubusercontent.com/Googlers-Repo/mmrl_install_tools/master/README.md",
             "stars": 0,
             "about": {
@@ -127,8 +127,15 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": "https://github.com/Googlers-Repo/googlers-repo.github.io/assets/54764558/f5b7d396-781e-463a-b4ed-dc345cc15ba3I,https://github.com/Googlers-Repo/googlers-repo.github.io/assets/54764558/0a03c54a-3064-4ed0-a69b-90db437bd9f0,https://github.com/Googlers-Repo/googlers-repo.github.io/assets/54764558/8fbc9621-fe85-4b66-8070-271599f87d38",
-                "categories": "Tools,System"
+                "screenshots": [
+                    "https://github.com/Googlers-Repo/googlers-repo.github.io/assets/54764558/f5b7d396-781e-463a-b4ed-dc345cc15ba3I",
+                    "https://github.com/Googlers-Repo/googlers-repo.github.io/assets/54764558/0a03c54a-3064-4ed0-a69b-90db437bd9f0",
+                    "https://github.com/Googlers-Repo/googlers-repo.github.io/assets/54764558/8fbc9621-fe85-4b66-8070-271599f87d38"
+                ],
+                "categories": [
+                    "Tools",
+                    "System"
+                ]
             },
             "fox": {
                 "minApi": 26,
@@ -162,7 +169,7 @@
                 "cover": "https://www.microtool.de/wp-content/uploads/2017/07/Test.png",
                 "logo": null,
                 "screenshots": "https://play-lh.googleusercontent.com/O11TlvK2ZcIagYbr7whOSJCaZW84ywez_Vi5-kLO9092ZKCEKNOeQNvZh7vB9Rwi_g=w1052-h592-rw,https://play-lh.googleusercontent.com/O4n3ikDxttWxkd7udl9xapEasCIUS_Ak0-sbTnNVaO7zDhcmwJa9H8NZPtnCuzQbdw=w1052-h592-rw,https://play-lh.googleusercontent.com/sXiFMfkPqfjVY_Dy3ts3u4WsnQ-qcOLK0pRLsDaL26kgqGk7gBK610S6gBWwl_psSA=w1052-h592-rw,https://play-lh.googleusercontent.com/hQjrBle8jq1IlOMRhViuKpZBk4Edi0pJHwesR60m9fGMnLDYeyIkzgDKcwdZdAYE_tI=w1052-h592-rw",
-                "categories": ","
+                "categories": null
             },
             "fox": {
                 "minApi": 2000,
@@ -195,7 +202,7 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": ",",
+                "screenshots": null,
                 "categories": "System"
             },
             "fox": {
