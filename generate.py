@@ -99,8 +99,8 @@ for repo in repos:
             "mmrl": {
                 "cover": properties.get("mmrlCover"),
                 "logo": properties.get("mmrlLogo"),
-                "screenshots": properties.get("mmrlScreenshots", ","),
-                "categories": properties.get("mmrlCategories", ","),
+                "screenshots": properties.get("mmrlScreenshots"),
+                "categories": properties.get("mmrlCategories"),
             },
             "fox": {
                 "minApi": properties.get("minApi"),
