@@ -2157,7 +2157,7 @@
             "description": "Provide a systemless implementation of mkshrc for a better terminal experience on Android devices.",
             "valid": true,
             "download": "https://github.com/Magisk-Modules-Alt-Repo/mkshrc/archive/master.zip",
-            "last_update": 1694987080000,
+            "last_update": 1697232890000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/mkshrc/master/README.md",
             "stars": 22,
             "about": {
@@ -2167,8 +2167,18 @@
             "mmrl": {
                 "cover": "https://miro.medium.com/v2/resize:fit:1200/format:png/1*R6CVgKDLTenXSGUxgt0t7Q.png",
                 "logo": null,
-                "screenshots": "https://cdn.dergoogler.com/images/mkshrc-screen1.png,https://cdn.dergoogler.com/images/mkshrc-screen2.png,https://cdn.dergoogler.com/images/mkshrc-screen3.png",
-                "categories": "Coding,Tools,Configurable,Manegment,System"
+                "screenshots": [
+                    "https://cdn.dergoogler.com/images/mkshrc-screen1.png",
+                    "https://cdn.dergoogler.com/images/mkshrc-screen2.png",
+                    "https://cdn.dergoogler.com/images/mkshrc-screen3.png"
+                ],
+                "categories": [
+                    "Coding",
+                    "Tools",
+                    "Configurable",
+                    "Manegment",
+                    "System"
+                ]
             },
             "fox": {
                 "minApi": null,
@@ -2259,7 +2269,7 @@
             "description": "Node.js is a cross-platform, open-source server environment that can run on Windows, Linux, Unix, macOS, and more.",
             "valid": true,
             "download": "https://github.com/Magisk-Modules-Alt-Repo/node/archive/master.zip",
-            "last_update": 1696588537000,
+            "last_update": 1697232836000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/node/master/README.md",
             "stars": 33,
             "about": {
@@ -2270,7 +2280,12 @@
                 "cover": "https://github.com/DerGoogler/cdn/blob/master/images/Node.js.Cover.png?raw=true",
                 "logo": "https://avatars.githubusercontent.com/u/9950313?s=200&v=4",
                 "screenshots": null,
-                "categories": "Tools,Coding,Configurable,System"
+                "categories": [
+                    "Tools",
+                    "Coding",
+                    "Configurable",
+                    "System"
+                ]
             },
             "fox": {
                 "minApi": 23,
