@@ -5,6 +5,7 @@ from github import Github
 import github
 from github.Repository import Repository
 from datetime import datetime
+import ini
 
 # Configuration
 REPO_NAME = os.getenv('REPO_NAME')
@@ -66,26 +67,7 @@ for repo in repos:
         if not does_object_exists(repo, "module.prop"):
             continue
 
-        properties = {}
-        for line in moduleprop_raw.splitlines():
-            if "=" not in line:
-                continue
-            lhs, rhs = line.split("=", 1)
-            properties.update({
-               lhs: convert_value(rhs)
-            })
-
-        def getprop(name: str):
-            if properties.get(name):
-                return properties.get(name)
-            else:
-                return None
-
-        def getprop_split(name: str, sep: str):
-            if properties.get(name):
-                return properties.get(name).split(sep)
-            else:
-                return None
+        properties = ini.parse(moduleprop_raw)
 
         # Get the last update timestamp of the module.prop file
         last_update_timestamp = moduleprop.last_modified
@@ -97,12 +79,12 @@ for repo in repos:
         last_update_timestamp = datetime.timestamp(last_update_datetime)
 
         module = {
-            "id": getprop("id"),
-            "name": getprop("name"),
-            "version": getprop("version"),
-            "versionCode": getprop("versionCode"),
-            "author": getprop("author"),
-            "description": getprop("description"),
+            "id": properties.get("id"),
+            "name": properties.get("name"),
+            "version": properties.get("version"),
+            "versionCode": properties.get("versionCode"),
+            "author": properties.get("author"),
+            "description": properties.get("description"),
             # Check if META-INF folder exists, which is required to install modules
             "valid": does_object_exists(repo, "META-INF"),
             "download": f"https://github.com/{repo.full_name}/archive/{repo.default_branch}.zip",
@@ -110,25 +92,26 @@ for repo in repos:
             "readme": f"https://raw.githubusercontent.com/{repo.full_name}/{repo.default_branch}/README.md",
             "stars": int(repo.stargazers_count),
             "about": {
+                # "license": "",
                 "source": repo.clone_url,
                 "issues": f"{repo.html_url}/issues" if repo.has_issues else None,
             },
             "mmrl": {
-                "cover": getprop("mmrlCover"),
-                "logo": getprop("mmrlLogo"),
-                "screenshots": getprop_split("mmrlScreenshots", ","),
-                "categories": getprop_split("mmrlCategories", ","),
+                "cover": properties.get("mmrlCover"),
+                "logo": properties.get("mmrlLogo"),
+                "screenshots": properties.get("mmrlScreenshots", ","),
+                "categories": properties.get("mmrlCategories", ","),
             },
             "fox": {
-                "minApi": getprop("minApi"),
-                "maxApi": getprop("maxApi"),
-                "minMagisk": getprop("minMagisk"),
-                "needRamdisk": getprop("needRamdisk"),
-                "support": getprop("support"),
-                "donate": getprop("donate"),
-                "config": getprop("config"),   
-                "changeBoot": getprop("changeBoot"),
-                "mmtReborn": getprop("mmtReborn"),
+                "minApi": properties.get("minApi"),
+                "maxApi": properties.get("maxApi"),
+                "minMagisk": properties.get("minMagisk"),
+                "needRamdisk": properties.get("needRamdisk"),
+                "support": properties.get("support"),
+                "donate": properties.get("donate"),
+                "config": properties.get("config"),   
+                "changeBoot": properties.get("changeBoot"),
+                "mmtReborn": properties.get("mmtReborn"),
             },
         }
 
