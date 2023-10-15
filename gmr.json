@@ -111,13 +111,13 @@
         {
             "id": "mmrl_install_tools",
             "name": "MMRL Install Tools",
-            "version": "1.1.0",
-            "versionCode": 110,
+            "version": "1.1.1",
+            "versionCode": 111,
             "author": "Der_Googler",
             "description": "Required module if you want to install modules from Explore",
             "valid": true,
             "download": "https://github.com/Googlers-Repo/mmrl_install_tools/archive/master.zip",
-            "last_update": 1697232774000,
+            "last_update": 1697325690000,
             "readme": "https://raw.githubusercontent.com/Googlers-Repo/mmrl_install_tools/master/README.md",
             "stars": 0,
             "about": {
