@@ -9,13 +9,13 @@
         {
             "id": "acc",
             "name": "Advanced Charging Controller (ACC)",
-            "version": "v2023.8.19",
-            "versionCode": 202308190,
+            "version": "v2023.10.16",
+            "versionCode": 202310160,
             "author": "VR25",
-            "description": "Mainly intended for extending battery service life on Android devices. In a nutshell, this is achieved through limiting charging current, temperature, and voltage. Any root solution is supported. Regardless of whether the system is rooted with Magisk, the installation is always \"systemless\".",
+            "description": "Extend your battery's service life by controlling charging current, temperature, and voltage. Any root solution is supported. The installation is always \"systemless\". Works on Android and KaiOS.",
             "valid": true,
             "download": "https://github.com/Magisk-Modules-Repo/acc/archive/master.zip",
-            "last_update": 1692431280000,
+            "last_update": 1697485290000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/acc/master/README.md",
             "stars": 282,
             "about": {
