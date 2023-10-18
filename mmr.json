@@ -119,7 +119,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/adb-ndk/archive/master.zip",
             "last_update": 1693703724000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/README.md",
-            "stars": 330,
+            "stars": 331,
             "about": {
                 "source": "https://github.com/Magisk-Modules-Repo/adb-ndk.git",
                 "issues": null
@@ -595,7 +595,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/busybox-ndk/archive/master.zip",
             "last_update": 1694456430000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/README.md",
-            "stars": 752,
+            "stars": 753,
             "about": {
                 "source": "https://github.com/Magisk-Modules-Repo/busybox-ndk.git",
                 "issues": null
@@ -1411,7 +1411,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/KaliNethunter/archive/master.zip",
             "last_update": 1565052950000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/KaliNethunter/master/README.md",
-            "stars": 223,
+            "stars": 224,
             "about": {
                 "source": "https://github.com/Magisk-Modules-Repo/KaliNethunter.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/KaliNethunter/issues"
