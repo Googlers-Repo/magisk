@@ -655,13 +655,13 @@
         {
             "id": "callrecorder-skvalex",
             "name": "Call Recorder - SKVALEX",
-            "version": "2.3.0 (3.6.2)",
-            "versionCode": 49,
+            "version": "2.3.0 (3.6.3)",
+            "versionCode": 50,
             "author": "skvalex",
             "description": "App to record phone calls from the line with a power of root and Magisk",
             "valid": true,
             "download": "https://github.com/Magisk-Modules-Repo/callrecorder-skvalex/archive/master.zip",
-            "last_update": 1696367587000,
+            "last_update": 1697785893000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/callrecorder-skvalex/master/README.md",
             "stars": 279,
             "about": {
@@ -1173,7 +1173,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/G-VisualMod/archive/master.zip",
             "last_update": 1612675127000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/G-VisualMod/master/README.md",
-            "stars": 320,
+            "stars": 321,
             "about": {
                 "source": "https://github.com/Magisk-Modules-Repo/G-VisualMod.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/G-VisualMod/issues"
@@ -1819,7 +1819,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/movecert/archive/master.zip",
             "last_update": 1656286469000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/movecert/master/README.md",
-            "stars": 517,
+            "stars": 518,
             "about": {
                 "source": "https://github.com/Magisk-Modules-Repo/movecert.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/movecert/issues"
