@@ -2023,7 +2023,7 @@
             "download": "https://github.com/Magisk-Modules-Alt-Repo/Malwack/archive/main.zip",
             "last_update": 1697656028000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Malwack/main/README.md",
-            "stars": 29,
+            "stars": 30,
             "about": {
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/Malwack.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/Malwack/issues"
@@ -3396,7 +3396,7 @@
             "description": "Friendly and fast tool for sending HTTP requests",
             "valid": true,
             "download": "https://github.com/Magisk-Modules-Alt-Repo/xhhttp/archive/master.zip",
-            "last_update": 1697642683000,
+            "last_update": 1697800645000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/xhhttp/master/README.md",
             "stars": 11,
             "about": {
