@@ -286,9 +286,9 @@
             "author": "Enggar Sulistyo",
             "description": "The Sony Mobile Bravia Engine X-Reality Super Vivid.",
             "valid": true,
-            "download": "https://github.com/Magisk-Modules-Alt-Repo/BraviaEngine/archive/master.zip",
-            "last_update": 1644775126000,
-            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BraviaEngine/master/README.md",
+            "download": "https://github.com/Magisk-Modules-Alt-Repo/BraviaEngine/archive/4.0.6.zip",
+            "last_update": 1697806101000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BraviaEngine/4.0.6/README.md",
             "stars": 3,
             "about": {
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/BraviaEngine.git",
