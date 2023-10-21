@@ -83,7 +83,7 @@
             "description": "GCC Toolchain is usable to build many things, such as native modules for Node.js",
             "valid": true,
             "download": "https://github.com/Googlers-Repo/gcc/archive/main.zip",
-            "last_update": 1695475908000,
+            "last_update": 1697896447000,
             "readme": "https://raw.githubusercontent.com/Googlers-Repo/gcc/main/README.md",
             "stars": 1,
             "about": {

@@ -2157,7 +2157,7 @@
             "description": "Provide a systemless implementation of mkshrc for a better terminal experience on Android devices.",
             "valid": true,
             "download": "https://github.com/Magisk-Modules-Alt-Repo/mkshrc/archive/master.zip",
-            "last_update": 1697232890000,
+            "last_update": 1697896787000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/mkshrc/master/README.md",
             "stars": 22,
             "about": {
@@ -2269,7 +2269,7 @@
             "description": "Node.js is a cross-platform, open-source server environment that can run on Windows, Linux, Unix, macOS, and more.",
             "valid": true,
             "download": "https://github.com/Magisk-Modules-Alt-Repo/node/archive/master.zip",
-            "last_update": 1697232836000,
+            "last_update": 1697896757000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/node/master/README.md",
             "stars": 34,
             "about": {
@@ -3396,7 +3396,7 @@
             "description": "Friendly and fast tool for sending HTTP requests",
             "valid": true,
             "download": "https://github.com/Magisk-Modules-Alt-Repo/xhhttp/archive/master.zip",
-            "last_update": 1697800645000,
+            "last_update": 1697897319000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/xhhttp/master/README.md",
             "stars": 11,
             "about": {
