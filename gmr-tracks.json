@@ -1,0 +1,42 @@
+[
+    {
+        "user": "symbuzzer",
+        "repo": "systemless-hosts-KernelSU-module"
+    },
+    {
+        "user": "symbuzzer",
+        "repo": "livebootmodule"
+    },
+    {
+        "user": "VR-25",
+        "repo": "acc"
+    },
+    {
+        "user": "VR-25",
+        "repo": "djs"
+    },
+    {
+        "user": "cuynu",
+        "repo": "gphotos-unlimited-zygisk"
+    },
+    {
+        "user": "NotZeetaa",
+        "repo": "YAKT"
+    },
+    {
+        "user": "Magisk-Modules-Repo",
+        "repo": "energizedprotection"
+    },
+    {
+        "user": "Rikj000",
+        "repo": "Magisk-Manager-for-Recovery-Mode"
+    },
+    {
+        "user": "Kyliekyler",
+        "repo": "MAGNETAR"
+    },
+    {
+        "user": "FerryAr",
+        "repo": "lhroot"
+    }
+]

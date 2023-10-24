@@ -44,6 +44,7 @@ jobs:
           REPO_DONATE: null
           REPO_SUBMIT_MODULE: https://github.com/Magisk-Modules-Alt-Repo/submission
           REPO_SCOPE: mmar
+          REPO_EXTRA_TRACKS: null
           GIT_TOKEN: "${{ secrets.TOKEN }}"
 
       - name: Generate GMR JSON
@@ -56,6 +57,7 @@ jobs:
           REPO_DONATE: null
           REPO_SUBMIT_MODULE: null
           REPO_SCOPE: gmr
+          REPO_EXTRA_TRACKS: gmr-tracks
           GIT_TOKEN: "${{ secrets.TOKEN }}"
 
       - name: Generate MMR JSON
@@ -68,6 +70,7 @@ jobs:
           REPO_DONATE: null
           REPO_SUBMIT_MODULE: null
           REPO_SCOPE: mmr
+          REPO_EXTRA_TRACKS: null
           GIT_TOKEN: "${{ secrets.TOKEN }}"
 
       - name: Setup Git
