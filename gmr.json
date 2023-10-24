@@ -216,6 +216,346 @@
                 "changeBoot": null,
                 "mmtReborn": null
             }
+        },
+        {
+            "id": "systemless-hosts-KernelSU-module",
+            "name": "systemless hosts KernelSU module",
+            "version": "v1.1.1",
+            "versionCode": 111,
+            "author": "symbuzzer (avalibeyaz.com/github)",
+            "description": "Required module to use applications such as AdAway on KernelSU",
+            "valid": true,
+            "download": "https://github.com/symbuzzer/systemless-hosts-KernelSU-module/archive/main.zip",
+            "last_update": 1690045471000,
+            "readme": "https://raw.githubusercontent.com/symbuzzer/systemless-hosts-KernelSU-module/main/README.md",
+            "stars": 65,
+            "about": {
+                "source": "https://github.com/symbuzzer/systemless-hosts-KernelSU-module.git",
+                "issues": "https://github.com/symbuzzer/systemless-hosts-KernelSU-module/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "livebootmagisk",
+            "name": "LiveBoot",
+            "version": "v1.1.1",
+            "versionCode": 111,
+            "author": "Ali Beyaz (avalibeyaz.com/github)",
+            "description": "A Magisk and KernelSU module that enables unix-style (verbose) boot animation for Android devices",
+            "valid": true,
+            "download": "https://github.com/symbuzzer/livebootmodule/archive/main.zip",
+            "last_update": 1691177129000,
+            "readme": "https://raw.githubusercontent.com/symbuzzer/livebootmodule/main/README.md",
+            "stars": 12,
+            "about": {
+                "source": "https://github.com/symbuzzer/livebootmodule.git",
+                "issues": "https://github.com/symbuzzer/livebootmodule/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "acc",
+            "name": "Advanced Charging Controller (ACC)",
+            "version": "v2023.10.16",
+            "versionCode": 202310160,
+            "author": "VR25",
+            "description": "Extend your battery's service life by controlling charging current, temperature, and voltage. Any root solution is supported. The installation is always \"systemless\". Works on Android and KaiOS.",
+            "valid": true,
+            "download": "https://github.com/VR-25/acc/archive/dev.zip",
+            "last_update": 1697485290000,
+            "readme": "https://raw.githubusercontent.com/VR-25/acc/dev/README.md",
+            "stars": 1230,
+            "about": {
+                "source": "https://github.com/VR-25/acc.git",
+                "issues": "https://github.com/VR-25/acc/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "djs",
+            "name": "Daily Job Scheduler (DJS)",
+            "version": "v2021.11.3",
+            "versionCode": 202111030,
+            "author": "VR25",
+            "description": "Runs commands and scripts on boot and at HH:MM. Any root solution is supported. The installation is always \"system-less\", whether or not the system is rooted with Magisk.",
+            "valid": true,
+            "download": "https://github.com/VR-25/djs/archive/master.zip",
+            "last_update": 1639484648000,
+            "readme": "https://raw.githubusercontent.com/VR-25/djs/master/README.md",
+            "stars": 75,
+            "about": {
+                "source": "https://github.com/VR-25/djs.git",
+                "issues": "https://github.com/VR-25/djs/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "PixelifyPhotos",
+            "name": "Google Photos Unlimited backup",
+            "version": "1.1-stable",
+            "versionCode": 2,
+            "author": "cuynu",
+            "description": "Adds Photos features and unlimited Google Photos original backup quality by spoof device info to Pixel XL only on Photos app.",
+            "valid": true,
+            "download": "https://github.com/cuynu/gphotos-unlimited-zygisk/archive/master.zip",
+            "last_update": 1696710250000,
+            "readme": "https://raw.githubusercontent.com/cuynu/gphotos-unlimited-zygisk/master/README.md",
+            "stars": 95,
+            "about": {
+                "source": "https://github.com/cuynu/gphotos-unlimited-zygisk.git",
+                "issues": "https://github.com/cuynu/gphotos-unlimited-zygisk/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "YAKT",
+            "name": "Yet Another Kernel Tweaker",
+            "version": "v12",
+            "versionCode": 1,
+            "author": "NotZeetaa",
+            "description": "This modules tweaks your kernel parameters.",
+            "valid": true,
+            "download": "https://github.com/NotZeetaa/YAKT/archive/main.zip",
+            "last_update": 1698176092000,
+            "readme": "https://raw.githubusercontent.com/NotZeetaa/YAKT/main/README.md",
+            "stars": 124,
+            "about": {
+                "source": "https://github.com/NotZeetaa/YAKT.git",
+                "issues": "https://github.com/NotZeetaa/YAKT/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "energizedprotection",
+            "name": "Energized Protection",
+            "version": "1.3.6",
+            "versionCode": 220215136,
+            "author": "AdroitAdorKhan",
+            "description": "Let's make an annoyance free better open internet, altogether! https://energized.pro",
+            "valid": true,
+            "download": "https://github.com/Magisk-Modules-Repo/energizedprotection/archive/master.zip",
+            "last_update": 1644066160000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/energizedprotection/master/README.md",
+            "stars": 273,
+            "about": {
+                "source": "https://github.com/Magisk-Modules-Repo/energizedprotection.git",
+                "issues": "https://github.com/Magisk-Modules-Repo/energizedprotection/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "mm",
+            "name": "Magisk Manager for Recovery Mode (mm)",
+            "version": "2022.6.26",
+            "versionCode": 202206260,
+            "author": "VR25 & Rikj000 @ XDA-Developers",
+            "description": "Easily manage your Magisk v19-25 Modules by running \"*/mm\" or \"sh /sdcard/mm\" from a terminal session in your custom recovery! (e.g. TWRP)",
+            "valid": true,
+            "download": "https://github.com/Rikj000/Magisk-Manager-for-Recovery-Mode/archive/master.zip",
+            "last_update": 1678544125000,
+            "readme": "https://raw.githubusercontent.com/Rikj000/Magisk-Manager-for-Recovery-Mode/master/README.md",
+            "stars": 197,
+            "about": {
+                "source": "https://github.com/Rikj000/Magisk-Manager-for-Recovery-Mode.git",
+                "issues": null
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": 19000,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "MAGNETAR",
+            "name": "MAGNETAR",
+            "version": "19.2.0 (UNIFORM)",
+            "versionCode": 190200,
+            "author": "Kyliekyler",
+            "description": "Device Performance Optimizer \u2014 Aims To Provide An Optimal Experience At Every Usage Scenario",
+            "valid": true,
+            "download": "https://github.com/Kyliekyler/MAGNETAR/archive/release.zip",
+            "last_update": 1678439240000,
+            "readme": "https://raw.githubusercontent.com/Kyliekyler/MAGNETAR/release/README.md",
+            "stars": 182,
+            "about": {
+                "source": "https://github.com/Kyliekyler/MAGNETAR.git",
+                "issues": "https://github.com/Kyliekyler/MAGNETAR/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "lhroot",
+            "name": "Linux Chroot Installer",
+            "version": "v2.2.0",
+            "versionCode": 1,
+            "author": "FerryAr",
+            "description": "Systemless linux chroot installer and chroot boot script",
+            "valid": true,
+            "download": "https://github.com/FerryAr/lhroot/archive/master.zip",
+            "last_update": 1695574826000,
+            "readme": "https://raw.githubusercontent.com/FerryAr/lhroot/master/README.md",
+            "stars": 127,
+            "about": {
+                "source": "https://github.com/FerryAr/lhroot.git",
+                "issues": "https://github.com/FerryAr/lhroot/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
         }
     ]
 }
