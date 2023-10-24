@@ -1,10 +1,10 @@
 {
     "last_update": 1655496159000,
     "name": "Magisk Modules Repo (Official)",
-    "website": null,
-    "support": null,
-    "donate": null,
-    "submitModule": null,
+    "website": "https://github.com/Magisk-Modules-Repo",
+    "support": "",
+    "donate": "",
+    "submitModule": "",
     "modules": [
         {
             "id": "acc",

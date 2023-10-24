@@ -1,9 +1,9 @@
 {
     "last_update": 1690995729000,
     "name": "Magisk Modules Alt Repo",
-    "website": null,
-    "support": null,
-    "donate": null,
+    "website": "https://github.com/Magisk-Modules-Alt-Repo",
+    "support": "https://github.com/Magisk-Modules-Alt-Repo/json/issues",
+    "donate": "",
     "submitModule": "https://github.com/Magisk-Modules-Alt-Repo/submission",
     "modules": [
         {
@@ -119,7 +119,7 @@
             "download": "https://github.com/Magisk-Modules-Alt-Repo/AFWall-Boot-AntiLeak/archive/main.zip",
             "last_update": 1640525162000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/AFWall-Boot-AntiLeak/main/README.md",
-            "stars": 26,
+            "stars": 27,
             "about": {
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/AFWall-Boot-AntiLeak.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/AFWall-Boot-AntiLeak/issues"
@@ -2151,13 +2151,13 @@
         {
             "id": "mkshrc",
             "name": "Systemless Mkshrc",
-            "version": "1.3.6",
-            "versionCode": 136,
+            "version": "1.3.7",
+            "versionCode": 137,
             "author": "Der_Googler",
             "description": "Provide a systemless implementation of mkshrc for a better terminal experience on Android devices.",
             "valid": true,
             "download": "https://github.com/Magisk-Modules-Alt-Repo/mkshrc/archive/master.zip",
-            "last_update": 1697896787000,
+            "last_update": 1698172968000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/mkshrc/master/README.md",
             "stars": 24,
             "about": {
@@ -2263,13 +2263,13 @@
         {
             "id": "node_on_android",
             "name": "Systemless Node.js",
-            "version": "1.5.2",
-            "versionCode": 152,
+            "version": "1.5.3",
+            "versionCode": 153,
             "author": "Der_Googler",
             "description": "Node.js is a cross-platform, open-source server environment that can run on Windows, Linux, Unix, macOS, and more.",
             "valid": true,
             "download": "https://github.com/Magisk-Modules-Alt-Repo/node/archive/master.zip",
-            "last_update": 1697896757000,
+            "last_update": 1698172923000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/node/master/README.md",
             "stars": 34,
             "about": {
@@ -2548,7 +2548,7 @@
             "download": "https://github.com/Magisk-Modules-Alt-Repo/open_webview/archive/master.zip",
             "last_update": 1696770966000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_webview/master/README.md",
-            "stars": 100,
+            "stars": 101,
             "about": {
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/open_webview.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/open_webview/issues"
