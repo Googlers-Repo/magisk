@@ -37,19 +37,25 @@ jobs:
       - name: Generate MMAR JSON
         run: python generate.py "${{ secrets.TOKEN }}"
         env: 
-          REPO_NAME: "Magisk-Modules-Alt-Repo" 
-          REPO_TITLE: "Magisk Modules Alt Repo"
-          REPO_SUBMIT_MODULE: "https://github.com/Magisk-Modules-Alt-Repo/submission"
-          REPO_SCOPE: "mmar"
+          REPO_NAME: Magisk-Modules-Alt-Repo
+          REPO_TITLE: Magisk Modules Alt Repo
+          REPO_WEBSITE: https://github.com/Magisk-Modules-Alt-Repo/json
+          REPO_SUPPORT: https://github.com/Magisk-Modules-Alt-Repo/json/issues
+          REPO_DONATE: null
+          REPO_SUBMIT_MODULE: https://github.com/Magisk-Modules-Alt-Repo/submission
+          REPO_SCOPE: mmar
           GIT_TOKEN: "${{ secrets.TOKEN }}"
-
 
       - name: Generate GMR JSON
         run: python generate.py "${{ secrets.TOKEN }}"
         env:
-          REPO_NAME: "Googlers-Repo" 
-          REPO_TITLE: "Googlers Repo"
-          REPO_SCOPE: "gmr"
+          REPO_NAME: Googlers-Repo
+          REPO_TITLE: Googlers Magisk Repo
+          REPO_WEBSITE: https://github.com/Googlers-Repo/json
+          REPO_SUPPORT: https://github.com/Googlers-Repo/json/issues
+          REPO_DONATE: null
+          REPO_SUBMIT_MODULE: null
+          REPO_SCOPE: gmr
           GIT_TOKEN: "${{ secrets.TOKEN }}"
 
       - name: Generate MMR JSON
