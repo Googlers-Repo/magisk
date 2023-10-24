@@ -221,7 +221,7 @@
             "download": "https://github.com/Magisk-Modules-Alt-Repo/backup/archive/master.zip",
             "last_update": 1599015487000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/backup/master/README.md",
-            "stars": 34,
+            "stars": 35,
             "about": {
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/backup.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/backup/issues"
@@ -2982,13 +2982,13 @@
         {
             "id": "SystemlessDebloater",
             "name": "Systemless Debloater",
-            "version": "1.5.4",
+            "version": "1.5.4a",
             "versionCode": 154,
             "author": "zgfg @ xda",
             "description": "Select and debloat preinstalled system apps. Successfully tested on up to SAR, Dynamic partitions and A13. Module must be installed through Magisk app, not TWRP - see OP instructions in the XDA thread.",
             "valid": true,
             "download": "https://github.com/Magisk-Modules-Alt-Repo/SystemlessDebloater/archive/main.zip",
-            "last_update": 1696315116000,
+            "last_update": 1698181150000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/SystemlessDebloater/main/README.md",
             "stars": 47,
             "about": {
