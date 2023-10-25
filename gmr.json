@@ -490,40 +490,6 @@
             }
         },
         {
-            "id": "MAGNETAR",
-            "name": "MAGNETAR",
-            "version": "19.2.0 (UNIFORM)",
-            "versionCode": 190200,
-            "author": "Kyliekyler",
-            "description": "Device Performance Optimizer \u2014 Aims To Provide An Optimal Experience At Every Usage Scenario",
-            "valid": true,
-            "download": "https://github.com/Kyliekyler/MAGNETAR/archive/release.zip",
-            "last_update": 1678439240000,
-            "readme": "https://raw.githubusercontent.com/Kyliekyler/MAGNETAR/release/README.md",
-            "stars": 182,
-            "about": {
-                "source": "https://github.com/Kyliekyler/MAGNETAR.git",
-                "issues": "https://github.com/Kyliekyler/MAGNETAR/issues"
-            },
-            "mmrl": {
-                "cover": null,
-                "logo": null,
-                "screenshots": null,
-                "categories": null
-            },
-            "fox": {
-                "minApi": null,
-                "maxApi": null,
-                "minMagisk": null,
-                "needRamdisk": null,
-                "support": null,
-                "donate": null,
-                "config": null,
-                "changeBoot": null,
-                "mmtReborn": null
-            }
-        },
-        {
             "id": "lhroot",
             "name": "Linux Chroot Installer",
             "version": "v2.2.0",
