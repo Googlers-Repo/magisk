@@ -1,3 +1,4 @@
+TMPDIR="$PWD/tmp"
 mkdir -p $TMPDIR/$REPO_SCOPE/modules
 while read -r id ; do
     read -r download
