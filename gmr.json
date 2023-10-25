@@ -117,7 +117,7 @@
             "description": "Required module if you want to install modules from Explore",
             "valid": true,
             "download": "https://github.com/Googlers-Repo/mmrl_install_tools/archive/master.zip",
-            "last_update": 1698170633000,
+            "last_update": 1698256236000,
             "readme": "https://raw.githubusercontent.com/Googlers-Repo/mmrl_install_tools/master/README.md",
             "stars": 0,
             "about": {
