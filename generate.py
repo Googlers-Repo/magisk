@@ -35,29 +35,21 @@ meta = {
     "modules": []
 }
 
-def convert_value(value):
-    # Convert boolean values
-    if value.lower() == 'true':
-        return True
-    elif value.lower() == 'false':
-        return False
-    # Convert integer values
-    try:
-        return int(value)
-    except ValueError:
-        # Convert float values
-        try:
-            return float(value)
-        except ValueError:
-            # Keep string values as is
-            return value
-
 def does_object_exists(repo: Repository, object_path: str) -> bool:
     try:
         repo.get_contents(object_path)
         return True
     except github.UnknownObjectException:
         return False
+
+def get_mmrl_json(repo: Repository, key: str):
+    try:
+        mmrljson = repo.get_contents("mmrl.json")
+        mmrljson_raw = mmrljson.decoded_content.decode("UTF-8")
+        mmrl = json.loads(mmrljson_raw)
+        return mmrl[key]
+    except:
+        return None
 
 def make_module_json(repo: Repository):
     if does_object_exists(repo, "module.prop"):
@@ -89,15 +81,18 @@ def make_module_json(repo: Repository):
             "readme": f"https://raw.githubusercontent.com/{repo.full_name}/{repo.default_branch}/README.md",
             "stars": int(repo.stargazers_count),
             "about": {
-                # "license": "",
+                "repo_source": REPO_TITLE,
+                # "license": repo.license.spdx_id if not repo.license == None else None,
+                "language": repo.language,
                 "source": repo.clone_url,
                 "issues": f"{repo.html_url}/issues" if repo.has_issues else None,
             },
             "mmrl": {
-                "cover": properties.get("mmrlCover"),
-                "logo": properties.get("mmrlLogo"),
-                "screenshots": properties.get("mmrlScreenshots"),
-                "categories": properties.get("mmrlCategories"),
+                "cover": get_mmrl_json(repo, "cover"),
+                "logo": get_mmrl_json(repo, "logo"),
+                "screenshots": get_mmrl_json(repo, "screenshots"),
+                "categories": get_mmrl_json(repo, "categories"),
+                "require": get_mmrl_json(repo, "require")
             },
             "fox": {
                 "minApi": properties.get("minApi"),
