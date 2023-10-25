@@ -80,26 +80,20 @@ jobs:
 
       # Migrates
 
-      - name: Migrate MMAR
-        run: bash migrate-archives.sh
-        env: 
-          REPO_SCOPE: mmar
-          GITHUB_TOKEN: "${{ secrets.TOKEN }}"
-          GIT_TOKEN: "${{ secrets.TOKEN }}"
+      # - name: Migrate MMAR
+      #   run: bash migrate-archives.sh
+      #   env: 
+      #     REPO_SCOPE: mmar
 
       - name: Migrate GMR
         run: bash migrate-archives.sh
         env:
           REPO_SCOPE: gmr
-          GITHUB_TOKEN: "${{ secrets.TOKEN }}"
-          GIT_TOKEN: "${{ secrets.TOKEN }}"
 
-      - name: Migrate MMR
-        run: bash migrate-archives.sh
-        env: 
-          REPO_SCOPE: mmr
-          GITHUB_TOKEN: "${{ secrets.TOKEN }}"
-          GIT_TOKEN: "${{ secrets.TOKEN }}"
+      # - name: Migrate MMR
+      #   run: bash migrate-archives.sh
+      #   env: 
+      #     REPO_SCOPE: mmr
 
       # Git
           

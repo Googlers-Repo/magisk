@@ -15,15 +15,6 @@ while read -r id ; do
 
     echo "Recompress to a valid module"
     # Run ina subshell to keep the cwd
-    (cd $TMPDIR/$REPO_SCOPE/archives/$id/unzipped/*/ && zip -r "$TMPDIR/$REPO_SCOPE/modules/$id-$version.zip" *)
-
-    TAG_NAME="${REPO_SCOPE^^}-Releases"
-    echo "Using $TAG_NAME for releases"
-
-    if [ -f "$TMPDIR/$REPO_SCOPE/modules/$id-$version.zip" ]; then
-        hub release create -a "$TMPDIR/$REPO_SCOPE/modules/$id-$version.zip" -m "$TAG_NAME" "$TAG_NAME"
-    else
-        echo "Unable to find $TMPDIR/$REPO_SCOPE/modules/$id-$version.zip"
-    fi
-
+    mkdir -p "$PWD/modules/$REPO_SCOPE/$id"
+    (cd $TMPDIR/$REPO_SCOPE/archives/$id/unzipped/*/ && zip -9 -qq -r "$PWD/modules/$REPO_SCOPE/$id/$version.zip" *)
 done < <( cat "$REPO_SCOPE.json" | jq -r '.modules[] | .id, .download, .version' )
