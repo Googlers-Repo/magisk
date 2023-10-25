@@ -73,6 +73,42 @@ jobs:
           REPO_EXTRA_TRACKS: null
           GIT_TOKEN: "${{ secrets.TOKEN }}"
 
+  migrate:
+    runs-on: ubuntu-latest
+    needs: generate
+    steps:
+      - uses: actions/checkout@v2
+      
+      - name: Setup Dependencies
+        run: |
+          apt update -y && apt upgrade -y
+          apt install zip unzip jq curl
+
+      - name: Migrate MMAR
+        run: bash migrate-archives.sh
+        env: 
+          REPO_SCOPE: mmar
+          GITHUB_TOKEN: "${{ secrets.TOKEN }}"
+          GIT_TOKEN: "${{ secrets.TOKEN }}"
+
+      - name: Migrate GMR
+        run: bash migrate-archives.sh
+        env:
+          REPO_SCOPE: gmr
+          GITHUB_TOKEN: "${{ secrets.TOKEN }}"
+          GIT_TOKEN: "${{ secrets.TOKEN }}"
+
+      - name: Migrate MMR
+        run: bash migrate-archives.sh
+        env: 
+          REPO_SCOPE: mmr
+          GITHUB_TOKEN: "${{ secrets.TOKEN }}"
+          GIT_TOKEN: "${{ secrets.TOKEN }}"
+
+  push:
+    runs-on: ubuntu-latest
+    needs: migrate
+    steps:
       - name: Setup Git
         run: |
           git config --global user.email "jimmyboehm@dergoogler.com"
