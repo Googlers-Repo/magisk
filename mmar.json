@@ -2346,7 +2346,7 @@
             "description": "Provide a systemless implementation of mkshrc for a better terminal experience on Android devices.",
             "valid": true,
             "download": "https://github.com/Magisk-Modules-Alt-Repo/mkshrc/archive/master.zip",
-            "last_update": 1698172968000,
+            "last_update": 1698270517000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/mkshrc/master/README.md",
             "stars": 24,
             "about": {
@@ -2356,11 +2356,19 @@
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/mkshrc/issues"
             },
             "mmrl": {
-                "cover": null,
+                "cover": "https://miro.medium.com/v2/resize:fit:1200/format:png/1*R6CVgKDLTenXSGUxgt0t7Q.png",
                 "logo": null,
-                "screenshots": null,
-                "categories": null,
-                "require": null
+                "screenshots": [
+                    "https://cdn.dergoogler.com/images/mkshrc-screen1.png",
+                    "https://cdn.dergoogler.com/images/mkshrc-screen2.png",
+                    "https://cdn.dergoogler.com/images/mkshrc-screen3.png"
+                ],
+                "categories": [
+                    "Coding",
+                    "Configurable",
+                    "Tools"
+                ],
+                "require": []
             },
             "fox": {
                 "minApi": null,
@@ -2457,7 +2465,7 @@
             "description": "Node.js is a cross-platform, open-source server environment that can run on Windows, Linux, Unix, macOS, and more.",
             "valid": true,
             "download": "https://github.com/Magisk-Modules-Alt-Repo/node/archive/master.zip",
-            "last_update": 1698172923000,
+            "last_update": 1698270663000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/node/master/README.md",
             "stars": 34,
             "about": {
@@ -2467,10 +2475,14 @@
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/node/issues"
             },
             "mmrl": {
-                "cover": null,
-                "logo": null,
+                "cover": "https://github.com/DerGoogler/cdn/blob/master/images/Node.js.Cover.png?raw=true",
+                "logo": "https://avatars.githubusercontent.com/u/9950313?s=200&v=4",
                 "screenshots": null,
-                "categories": null,
+                "categories": [
+                    "Coding",
+                    "Configurable",
+                    "Tools"
+                ],
                 "require": [
                     "mkshrc"
                 ]
@@ -2757,7 +2769,7 @@
             "download": "https://github.com/Magisk-Modules-Alt-Repo/open_webview/archive/master.zip",
             "last_update": 1696770966000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_webview/master/README.md",
-            "stars": 101,
+            "stars": 102,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
@@ -3680,7 +3692,7 @@
             "description": "Friendly and fast tool for sending HTTP requests",
             "valid": true,
             "download": "https://github.com/Magisk-Modules-Alt-Repo/xhhttp/archive/master.zip",
-            "last_update": 1697918539000,
+            "last_update": 1698271194000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/xhhttp/master/README.md",
             "stars": 12,
             "about": {
@@ -3692,8 +3704,12 @@
             "mmrl": {
                 "cover": null,
                 "logo": null,
-                "screenshots": null,
-                "categories": null,
+                "screenshots": [
+                    "https://raw.githubusercontent.com/ducaale/xh/master/assets/xh-demo.gif"
+                ],
+                "categories": [
+                    "System"
+                ],
                 "require": null
             },
             "fox": {
