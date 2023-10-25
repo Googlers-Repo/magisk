@@ -1,4 +1,4 @@
-TMPDIR="$PWD/tmp"
+TMPDIR="$GITHUB_WORKSPACE/tmp"
 while read -r id ; do
     read -r download
     read -r version
@@ -14,7 +14,6 @@ while read -r id ; do
 
     echo "Recompress to a valid module"
     # Run ina subshell to keep the cwd
-    mkdir -p "$PWD/modules/$REPO_SCOPE/$id"
-    cd $TMPDIR/$REPO_SCOPE/archives/$id/unzipped/*/
-    zip -9 -qq -r "$PWD/modules/$REPO_SCOPE/$id/$version.zip" *
+    mkdir -p "$GITHUB_WORKSPACE/modules/$REPO_SCOPE/$id"
+    (cd $TMPDIR/$REPO_SCOPE/archives/$id/unzipped/*/ && zip -9 -qq -r "$GITHUB_WORKSPACE/modules/$REPO_SCOPE/$id/$version.zip" *)
 done < <( cat "$REPO_SCOPE.json" | jq -r '.modules[] | .id, .download, .version' )
