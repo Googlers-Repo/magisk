@@ -15,7 +15,7 @@ while read -r id ; do
     echo "Recompress to a valid module"
     cd $TMPDIR/$REPO_SCOPE/archives/$id/unzipped/*/
     zip -r "$TMPDIR/$REPO_SCOPE/modules/$id-$version.zip" *
-    cd ~
+    cd "$OLDPWD"
 
     TAG_NAME="${REPO_SCOPE^^}-Releases"
     echo "Using $TAG_NAME for releases"
