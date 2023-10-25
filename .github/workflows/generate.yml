@@ -37,7 +37,7 @@ jobs:
       - name: Setup Apt Dependencies
         run: |
           sudo apt update -y && sudo apt upgrade -y
-          sudo apt install zip unzip jq curl
+          sudo apt install zip unzip jq curl hub -y
       
       - name: Generate MMAR JSON
         run: python generate.py "${{ secrets.TOKEN }}"
