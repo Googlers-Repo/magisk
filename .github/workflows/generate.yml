@@ -39,18 +39,18 @@ jobs:
           sudo apt update -y && sudo apt upgrade -y
           sudo apt install zip unzip jq curl hub -y
       
-      # - name: Generate MMAR JSON
-      #   run: python generate.py "${{ secrets.TOKEN }}"
-      #   env: 
-      #     REPO_NAME: Magisk-Modules-Alt-Repo
-      #     REPO_TITLE: Magisk Modules Alt Repo
-      #     REPO_WEBSITE: https://github.com/Magisk-Modules-Alt-Repo
-      #     REPO_SUPPORT: https://github.com/Magisk-Modules-Alt-Repo/json/issues
-      #     REPO_DONATE: null
-      #     REPO_SUBMIT_MODULE: https://github.com/Magisk-Modules-Alt-Repo/submission
-      #     REPO_SCOPE: mmar
-      #     REPO_EXTRA_TRACKS: null
-      #     GIT_TOKEN: "${{ secrets.TOKEN }}"
+      - name: Generate MMAR JSON
+        run: python generate.py "${{ secrets.TOKEN }}"
+        env: 
+          REPO_NAME: Magisk-Modules-Alt-Repo
+          REPO_TITLE: Magisk Modules Alt Repo
+          REPO_WEBSITE: https://github.com/Magisk-Modules-Alt-Repo
+          REPO_SUPPORT: https://github.com/Magisk-Modules-Alt-Repo/json/issues
+          REPO_DONATE: null
+          REPO_SUBMIT_MODULE: https://github.com/Magisk-Modules-Alt-Repo/submission
+          REPO_SCOPE: mmar
+          REPO_EXTRA_TRACKS: null
+          GIT_TOKEN: "${{ secrets.TOKEN }}"
 
       - name: Generate GMR JSON
         run: python generate.py "${{ secrets.TOKEN }}"
@@ -65,35 +65,35 @@ jobs:
           REPO_EXTRA_TRACKS: gmr-tracks
           GIT_TOKEN: "${{ secrets.TOKEN }}"
 
-      # - name: Generate MMR JSON
-      #   run: python generate.py "${{ secrets.TOKEN }}"
-      #   env: 
-      #     REPO_NAME: Magisk-Modules-Repo
-      #     REPO_TITLE: Magisk Modules Repo (Official)
-      #     REPO_WEBSITE: https://github.com/Magisk-Modules-Repo
-      #     REPO_SUPPORT: null
-      #     REPO_DONATE: null
-      #     REPO_SUBMIT_MODULE: null
-      #     REPO_SCOPE: mmr
-      #     REPO_EXTRA_TRACKS: null
-      #     GIT_TOKEN: "${{ secrets.TOKEN }}"
+      - name: Generate MMR JSON
+        run: python generate.py "${{ secrets.TOKEN }}"
+        env: 
+          REPO_NAME: Magisk-Modules-Repo
+          REPO_TITLE: Magisk Modules Repo (Official)
+          REPO_WEBSITE: https://github.com/Magisk-Modules-Repo
+          REPO_SUPPORT: null
+          REPO_DONATE: null
+          REPO_SUBMIT_MODULE: null
+          REPO_SCOPE: mmr
+          REPO_EXTRA_TRACKS: null
+          GIT_TOKEN: "${{ secrets.TOKEN }}"
 
       # Migrates
 
-      # - name: Migrate MMAR
-      #   run: bash migrate-archives.sh
-      #   env: 
-      #     REPO_SCOPE: mmar
+      - name: Migrate MMAR
+        run: bash migrate-archives.sh
+        env: 
+          REPO_SCOPE: mmar
 
       - name: Migrate GMR
         run: bash migrate-archives.sh
         env:
           REPO_SCOPE: gmr
 
-      # - name: Migrate MMR
-      #   run: bash migrate-archives.sh
-      #   env: 
-      #     REPO_SCOPE: mmr
+      - name: Migrate MMR
+        run: bash migrate-archives.sh
+        env: 
+          REPO_SCOPE: mmr
 
       # Git
           
