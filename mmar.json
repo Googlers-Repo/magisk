@@ -19,6 +19,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/acc/master/README.md",
             "stars": 9,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/acc.git",
                 "issues": null
             },
@@ -26,7 +28,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -53,6 +56,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/AdGuardDNS4Magisk/main/README.md",
             "stars": 12,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/AdGuardDNS4Magisk.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/AdGuardDNS4Magisk/issues"
             },
@@ -60,7 +65,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -87,6 +93,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/AdGuardDNS4Magisk-IPv6/main/README.md",
             "stars": 6,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/AdGuardDNS4Magisk-IPv6.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/AdGuardDNS4Magisk-IPv6/issues"
             },
@@ -94,7 +102,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -121,6 +130,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/AFWall-Boot-AntiLeak/main/README.md",
             "stars": 27,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/AFWall-Boot-AntiLeak.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/AFWall-Boot-AntiLeak/issues"
             },
@@ -128,7 +139,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -155,6 +167,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer/main/README.md",
             "stars": 41,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer/issues"
             },
@@ -162,7 +176,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -189,6 +204,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-misc-settings/master/README.md",
             "stars": 111,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/audio-misc-settings.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/audio-misc-settings/issues"
             },
@@ -196,7 +213,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -223,6 +241,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/backup/master/README.md",
             "stars": 35,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/backup.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/backup/issues"
             },
@@ -230,7 +250,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -257,6 +278,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Better-MIUI-Icons/master/README.md",
             "stars": 6,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/Better-MIUI-Icons.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/Better-MIUI-Icons/issues"
             },
@@ -264,7 +287,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -291,6 +315,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BraviaEngine/4.0.6/README.md",
             "stars": 3,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/BraviaEngine.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/BraviaEngine/issues"
             },
@@ -298,7 +324,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -325,6 +352,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/main/README.md",
             "stars": 111,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/issues"
             },
@@ -332,7 +361,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -359,6 +389,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/charch/master/README.md",
             "stars": 9,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/charch.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/charch/issues"
             },
@@ -366,7 +398,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -393,6 +426,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/charch_dinit/master/README.md",
             "stars": 3,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/charch_dinit.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/charch_dinit/issues"
             },
@@ -400,7 +435,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -427,6 +463,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/charch_openrc/master/README.md",
             "stars": 2,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/charch_openrc.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/charch_openrc/issues"
             },
@@ -434,7 +472,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -461,6 +500,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/charch_sshd/master/README.md",
             "stars": 3,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/charch_sshd.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/charch_sshd/issues"
             },
@@ -468,7 +509,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -495,6 +537,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Clash4Magisk/master/README.md",
             "stars": 4,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/Clash4Magisk.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/Clash4Magisk/issues"
             },
@@ -502,7 +546,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -529,6 +574,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/CloudflareDNS4Magisk/master/README.md",
             "stars": 5,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/CloudflareDNS4Magisk.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/CloudflareDNS4Magisk/issues"
             },
@@ -536,7 +583,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -563,6 +611,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/CloudflareDNS4Magisk-IPv6/master/README.md",
             "stars": 5,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/CloudflareDNS4Magisk-IPv6.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/CloudflareDNS4Magisk-IPv6/issues"
             },
@@ -570,7 +620,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -597,6 +648,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/cmdpatch/master/README.md",
             "stars": 15,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/cmdpatch.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/cmdpatch/issues"
             },
@@ -604,7 +657,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -631,6 +685,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/com.omergoktas.Foundation/master/README.md",
             "stars": 14,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/com.omergoktas.Foundation.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/com.omergoktas.Foundation/issues"
             },
@@ -638,7 +694,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -665,6 +722,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/custom-certificate-authorities/master/README.md",
             "stars": 39,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/custom-certificate-authorities.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/custom-certificate-authorities/issues"
             },
@@ -672,7 +731,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -699,6 +759,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/CustomizedNavbar/main/README.md",
             "stars": 24,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/CustomizedNavbar.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/CustomizedNavbar/issues"
             },
@@ -706,7 +768,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -733,6 +796,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/DalvikHyperthreading/main/README.md",
             "stars": 21,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/DalvikHyperthreading.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/DalvikHyperthreading/issues"
             },
@@ -740,7 +805,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -767,6 +833,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/data_backup/main/README.md",
             "stars": 36,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/data_backup.git",
                 "issues": null
             },
@@ -774,7 +842,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -801,6 +870,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/data_isolation_support/main/README.md",
             "stars": 13,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/data_isolation_support.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/data_isolation_support/issues"
             },
@@ -808,7 +879,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -835,6 +907,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/data_restore_Courier/main/README.md",
             "stars": 5,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/data_restore_Courier.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/data_restore_Courier/issues"
             },
@@ -842,7 +916,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -869,6 +944,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Detach/master/README.md",
             "stars": 6,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/Detach.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/Detach/issues"
             },
@@ -876,7 +953,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -903,6 +981,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/djs/master/README.md",
             "stars": 4,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/djs.git",
                 "issues": null
             },
@@ -910,7 +990,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -937,6 +1018,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/drc-remover/master/README.md",
             "stars": 49,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/drc-remover.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/drc-remover/issues"
             },
@@ -944,7 +1027,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -971,6 +1055,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Evolve-Evo/master/README.md",
             "stars": 6,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/Evolve-Evo.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/Evolve-Evo/issues"
             },
@@ -978,7 +1064,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -1005,6 +1092,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ezme-dex-space/main/README.md",
             "stars": 2,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/ezme-dex-space.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/ezme-dex-space/issues"
             },
@@ -1012,7 +1101,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -1039,6 +1129,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ezme-nodebug/main/README.md",
             "stars": 17,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/ezme-nodebug.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/ezme-nodebug/issues"
             },
@@ -1046,7 +1138,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -1073,6 +1166,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/fbind/master/README.md",
             "stars": 7,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/fbind.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/fbind/issues"
             },
@@ -1080,7 +1175,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -1107,6 +1203,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Fdroid-Priv/main/README.md",
             "stars": 7,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/Fdroid-Priv.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/Fdroid-Priv/issues"
             },
@@ -1114,7 +1212,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -1141,6 +1240,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/FluentEmojiMagisk/main/README.md",
             "stars": 5,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/FluentEmojiMagisk.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/FluentEmojiMagisk/issues"
             },
@@ -1148,7 +1249,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -1175,6 +1277,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/FOSSAPPS/main/README.md",
             "stars": 12,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/FOSSAPPS.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/FOSSAPPS/issues"
             },
@@ -1182,7 +1286,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -1209,6 +1314,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/frozen_magisk_app/main/README.md",
             "stars": 9,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/frozen_magisk_app.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/frozen_magisk_app/issues"
             },
@@ -1216,7 +1323,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -1243,6 +1351,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/gaming/master/README.md",
             "stars": 59,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/gaming.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/gaming/issues"
             },
@@ -1250,7 +1360,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -1277,6 +1388,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/gboard-dict-3/master/README.md",
             "stars": 40,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/gboard-dict-3.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/gboard-dict-3/issues"
             },
@@ -1284,7 +1397,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -1311,6 +1425,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GlitchedCyberBoot/main/README.md",
             "stars": 5,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/GlitchedCyberBoot.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/GlitchedCyberBoot/issues"
             },
@@ -1318,7 +1434,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -1345,6 +1462,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GMS-Doze_Block_FindMyDevice/main/README.md",
             "stars": 10,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/GMS-Doze_Block_FindMyDevice.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/GMS-Doze_Block_FindMyDevice/issues"
             },
@@ -1352,7 +1471,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -1379,6 +1499,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GMSDoze/main/README.md",
             "stars": 52,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/GMSDoze.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/GMSDoze/issues"
             },
@@ -1386,7 +1508,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -1413,6 +1536,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Google-Sans/master/README.md",
             "stars": 5,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/Google-Sans.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/Google-Sans/issues"
             },
@@ -1420,7 +1545,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -1447,6 +1573,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Google-Sans-Plus/master/README.md",
             "stars": 13,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/Google-Sans-Plus.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/Google-Sans-Plus/issues"
             },
@@ -1454,7 +1582,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -1481,6 +1610,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Google_Product_Sans_Font/main/README.md",
             "stars": 10,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/Google_Product_Sans_Font.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/Google_Product_Sans_Font/issues"
             },
@@ -1488,7 +1619,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -1515,6 +1647,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/heimdall-ndk/heimdall-v2.x/README.md",
             "stars": 17,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/heimdall-ndk.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/heimdall-ndk/issues"
             },
@@ -1522,7 +1656,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -1549,6 +1684,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HideNavBar/master/README.md",
             "stars": 237,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/HideNavBar.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/HideNavBar/issues"
             },
@@ -1556,7 +1693,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -1583,6 +1721,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/isodrive/main/README.md",
             "stars": 23,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/isodrive.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/isodrive/issues"
             },
@@ -1590,7 +1730,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -1617,6 +1758,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/King-Tweaks/master/README.md",
             "stars": 23,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": null,
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/King-Tweaks.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/King-Tweaks/issues"
             },
@@ -1624,7 +1767,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -1651,6 +1795,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/lhroot/master/README.md",
             "stars": 29,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/lhroot.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/lhroot/issues"
             },
@@ -1658,7 +1804,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -1685,6 +1832,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Luz-Nocturna_Modded/main/README.md",
             "stars": 3,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/Luz-Nocturna_Modded.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/Luz-Nocturna_Modded/issues"
             },
@@ -1692,7 +1841,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -1719,6 +1869,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MacRandomizationEnabler/master/README.md",
             "stars": 9,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/MacRandomizationEnabler.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/MacRandomizationEnabler/issues"
             },
@@ -1726,7 +1878,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -1753,6 +1906,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magic-flash/main/README.md",
             "stars": 119,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/magic-flash.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/magic-flash/issues"
             },
@@ -1760,7 +1915,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -1787,6 +1943,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Magisk-Captive-Control/master/README.md",
             "stars": 12,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/Magisk-Captive-Control.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/Magisk-Captive-Control/issues"
             },
@@ -1794,7 +1952,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -1821,6 +1980,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Magisk-DRM-Disabler/master/README.md",
             "stars": 8,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/Magisk-DRM-Disabler.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/Magisk-DRM-Disabler/issues"
             },
@@ -1828,7 +1989,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -1855,6 +2017,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk-module-koruri-font/master/README.md",
             "stars": 3,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/magisk-module-koruri-font.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/magisk-module-koruri-font/issues"
             },
@@ -1862,7 +2026,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -1889,6 +2054,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk-module-mejiro-font/master/README.md",
             "stars": 5,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/magisk-module-mejiro-font.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/magisk-module-mejiro-font/issues"
             },
@@ -1896,7 +2063,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -1923,6 +2091,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MagiskHide/main/README.md",
             "stars": 19,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/MagiskHide.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/MagiskHide/issues"
             },
@@ -1930,7 +2100,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -1957,6 +2128,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/main/README.md",
             "stars": 41,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/magisk_overlayfs.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/issues"
             },
@@ -1964,7 +2137,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -1991,6 +2165,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_proc_monitor/main/README.md",
             "stars": 17,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/magisk_proc_monitor.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/magisk_proc_monitor/issues"
             },
@@ -1998,7 +2174,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -2025,6 +2202,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Malwack/main/README.md",
             "stars": 33,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/Malwack.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/Malwack/issues"
             },
@@ -2032,7 +2211,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -2059,6 +2239,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microG-GApps/master/README.md",
             "stars": 60,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/microG-GApps.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/microG-GApps/issues"
             },
@@ -2066,7 +2248,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -2093,6 +2276,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microg_installer/master/README.md",
             "stars": 54,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/microg_installer.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/microg_installer/issues"
             },
@@ -2100,7 +2285,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": 14,
@@ -2127,6 +2313,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MiXplorer/main/README.md",
             "stars": 172,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/MiXplorer.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/MiXplorer/issues"
             },
@@ -2134,7 +2322,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -2161,24 +2350,17 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/mkshrc/master/README.md",
             "stars": 24,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Vim Script",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/mkshrc.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/mkshrc/issues"
             },
             "mmrl": {
-                "cover": "https://miro.medium.com/v2/resize:fit:1200/format:png/1*R6CVgKDLTenXSGUxgt0t7Q.png",
+                "cover": null,
                 "logo": null,
-                "screenshots": [
-                    "https://cdn.dergoogler.com/images/mkshrc-screen1.png",
-                    "https://cdn.dergoogler.com/images/mkshrc-screen2.png",
-                    "https://cdn.dergoogler.com/images/mkshrc-screen3.png"
-                ],
-                "categories": [
-                    "Coding",
-                    "Tools",
-                    "Configurable",
-                    "Manegment",
-                    "System"
-                ]
+                "screenshots": null,
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -2205,6 +2387,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NavBar_Resize_AOSP/main/README.md",
             "stars": 1,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/NavBar_Resize_AOSP.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/NavBar_Resize_AOSP/issues"
             },
@@ -2212,7 +2396,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -2239,6 +2424,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NavBar_Resize_MIUI/main/README.md",
             "stars": 3,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/NavBar_Resize_MIUI.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/NavBar_Resize_MIUI/issues"
             },
@@ -2246,7 +2433,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -2273,18 +2461,18 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/node/master/README.md",
             "stars": 34,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "JavaScript",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/node.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/node/issues"
             },
             "mmrl": {
-                "cover": "https://github.com/DerGoogler/cdn/blob/master/images/Node.js.Cover.png?raw=true",
-                "logo": "https://avatars.githubusercontent.com/u/9950313?s=200&v=4",
+                "cover": null,
+                "logo": null,
                 "screenshots": null,
-                "categories": [
-                    "Tools",
-                    "Coding",
-                    "Configurable",
-                    "System"
+                "categories": null,
+                "require": [
+                    "mkshrc"
                 ]
             },
             "fox": {
@@ -2312,6 +2500,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NoProcStatRestriction/master/README.md",
             "stars": 4,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/NoProcStatRestriction.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/NoProcStatRestriction/issues"
             },
@@ -2319,7 +2509,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -2346,6 +2537,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NoStorageRestrict/main/README.md",
             "stars": 148,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/NoStorageRestrict.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/NoStorageRestrict/issues"
             },
@@ -2353,7 +2546,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -2380,6 +2574,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NotchBarKiller/master/README.md",
             "stars": 9,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/NotchBarKiller.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/NotchBarKiller/issues"
             },
@@ -2387,7 +2583,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -2414,6 +2611,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/OneController/master/README.md",
             "stars": 7,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/OneController.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/OneController/issues"
             },
@@ -2421,7 +2620,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -2448,6 +2648,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/oneplus-8series-9r-camera-unlocker/master/README.md",
             "stars": 8,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/oneplus-8series-9r-camera-unlocker.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/oneplus-8series-9r-camera-unlocker/issues"
             },
@@ -2455,7 +2657,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -2482,6 +2685,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/oneplusdotfix/master/README.md",
             "stars": 0,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/oneplusdotfix.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/oneplusdotfix/issues"
             },
@@ -2489,7 +2694,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -2516,6 +2722,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_fonts/master/README.md",
             "stars": 52,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/open_fonts.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/open_fonts/issues"
             },
@@ -2523,7 +2731,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -2550,6 +2759,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_webview/master/README.md",
             "stars": 101,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/open_webview.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/open_webview/issues"
             },
@@ -2557,7 +2768,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -2584,6 +2796,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/pdx213_assistant_camera_remap/main/README.md",
             "stars": 1,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/pdx213_assistant_camera_remap.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/pdx213_assistant_camera_remap/issues"
             },
@@ -2591,7 +2805,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -2618,6 +2833,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/pixel-tensor-audio-decompressor/dev/README.md",
             "stars": 1,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/pixel-tensor-audio-decompressor.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/pixel-tensor-audio-decompressor/issues"
             },
@@ -2625,7 +2842,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -2652,6 +2870,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/PLEX_SKIP_INTRO_DPAD_CONTROLLER_FIX/main/README.md",
             "stars": 2,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/PLEX_SKIP_INTRO_DPAD_CONTROLLER_FIX.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/PLEX_SKIP_INTRO_DPAD_CONTROLLER_FIX/issues"
             },
@@ -2659,7 +2879,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -2686,6 +2907,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/qdl-ndk/qdl-master/README.md",
             "stars": 2,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/qdl-ndk.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/qdl-ndk/issues"
             },
@@ -2693,7 +2916,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -2720,6 +2944,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/QS_Rectangulares/main/README.md",
             "stars": 1,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/QS_Rectangulares.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/QS_Rectangulares/issues"
             },
@@ -2727,7 +2953,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -2754,6 +2981,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/saturation/master/README.md",
             "stars": 12,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/saturation.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/saturation/issues"
             },
@@ -2761,7 +2990,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -2788,6 +3018,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/selinux_mode/main/README.md",
             "stars": 7,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/selinux_mode.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/selinux_mode/issues"
             },
@@ -2795,7 +3027,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -2822,6 +3055,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/sensitive_props/master/README.md",
             "stars": 85,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/sensitive_props.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/sensitive_props/issues"
             },
@@ -2829,7 +3064,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -2856,6 +3092,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Simple_BootloopSaver/master/README.md",
             "stars": 14,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/Simple_BootloopSaver.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/Simple_BootloopSaver/issues"
             },
@@ -2863,7 +3101,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -2890,6 +3129,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/smallbattery/main/README.md",
             "stars": 3,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/smallbattery.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/smallbattery/issues"
             },
@@ -2897,7 +3138,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -2924,6 +3166,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/SomcGameEnhancer-Upgrade/main/README.md",
             "stars": 2,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/SomcGameEnhancer-Upgrade.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/SomcGameEnhancer-Upgrade/issues"
             },
@@ -2931,7 +3175,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -2958,6 +3203,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/supl-replacer/master/README.md",
             "stars": 25,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/supl-replacer.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/supl-replacer/issues"
             },
@@ -2965,7 +3212,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -2992,6 +3240,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/SystemlessDebloater/main/README.md",
             "stars": 47,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/SystemlessDebloater.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/SystemlessDebloater/issues"
             },
@@ -2999,7 +3249,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -3026,6 +3277,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/systemui-bootloop/main/README.md",
             "stars": 23,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/systemui-bootloop.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/systemui-bootloop/issues"
             },
@@ -3033,7 +3286,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -3060,6 +3314,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ThemedProject/main/README.md",
             "stars": 19,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/ThemedProject.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/ThemedProject/issues"
             },
@@ -3067,7 +3323,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -3094,6 +3351,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ToyBox-Ext/main/README.md",
             "stars": 59,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/ToyBox-Ext.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/ToyBox-Ext/issues"
             },
@@ -3101,7 +3360,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -3128,6 +3388,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/trichromelibrary-squoosh/master/README.md",
             "stars": 17,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/trichromelibrary-squoosh.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/trichromelibrary-squoosh/issues"
             },
@@ -3135,7 +3397,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -3162,6 +3425,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ttf-twemoji/main/README.md",
             "stars": 8,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/ttf-twemoji.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/ttf-twemoji/issues"
             },
@@ -3169,7 +3434,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -3196,6 +3462,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/UbuntuFontVinaooo/main/README.md",
             "stars": 3,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/UbuntuFontVinaooo.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/UbuntuFontVinaooo/issues"
             },
@@ -3203,7 +3471,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -3230,6 +3499,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/unityfix/main/README.md",
             "stars": 5,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/unityfix.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/unityfix/issues"
             },
@@ -3237,7 +3508,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -3264,6 +3536,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/upx-ndk/master/README.md",
             "stars": 2,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/upx-ndk.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/upx-ndk/issues"
             },
@@ -3271,7 +3545,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -3298,6 +3573,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker/master/README.md",
             "stars": 55,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker/issues"
             },
@@ -3305,7 +3582,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -3332,6 +3610,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/vintf-bypass/master/README.md",
             "stars": 7,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/vintf-bypass.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/vintf-bypass/issues"
             },
@@ -3339,7 +3619,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -3366,6 +3647,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/wifi-bonding-nolog/master/README.md",
             "stars": 8,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/wifi-bonding-nolog.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/wifi-bonding-nolog/issues"
             },
@@ -3373,7 +3656,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -3400,6 +3684,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/xhhttp/master/README.md",
             "stars": 12,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/xhhttp.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/xhhttp/issues"
             },
@@ -3407,7 +3693,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -3434,6 +3721,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/xmlpak-RE/RE/README.md",
             "stars": 12,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/xmlpak-RE.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/xmlpak-RE/issues"
             },
@@ -3441,7 +3730,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -3468,6 +3758,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/YAKT/main/README.md",
             "stars": 29,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/YAKT.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/YAKT/issues"
             },
@@ -3475,7 +3767,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -3502,6 +3795,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ytmusic_revancedinject/main/README.md",
             "stars": 8,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/ytmusic_revancedinject.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/ytmusic_revancedinject/issues"
             },
@@ -3509,7 +3804,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -3536,6 +3832,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ytrevancedinject/main/README.md",
             "stars": 27,
             "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/ytrevancedinject.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/ytrevancedinject/issues"
             },
@@ -3543,7 +3841,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,

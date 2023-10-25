@@ -19,14 +19,17 @@
             "readme": "https://raw.githubusercontent.com/Googlers-Repo/AntiAMTS-Magisk/master/README.md",
             "stars": 3,
             "about": {
+                "repo_source": "Googlers Magisk Repo",
+                "language": "Shell",
                 "source": "https://github.com/Googlers-Repo/AntiAMTS-Magisk.git",
                 "issues": "https://github.com/Googlers-Repo/AntiAMTS-Magisk/issues"
             },
             "mmrl": {
-                "cover": "https://github.com/DerGoogler/cdn/blob/master/images/AMTS-Blocker-Website-Vorlage-1%20Image.png?raw=true",
+                "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -53,6 +56,8 @@
             "readme": "https://raw.githubusercontent.com/Googlers-Repo/code-server/master/README.md",
             "stars": 1,
             "about": {
+                "repo_source": "Googlers Magisk Repo",
+                "language": "HTML",
                 "source": "https://github.com/Googlers-Repo/code-server.git",
                 "issues": "https://github.com/Googlers-Repo/code-server/issues"
             },
@@ -60,7 +65,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -87,6 +93,8 @@
             "readme": "https://raw.githubusercontent.com/Googlers-Repo/gcc/main/README.md",
             "stars": 1,
             "about": {
+                "repo_source": "Googlers Magisk Repo",
+                "language": "C",
                 "source": "https://github.com/Googlers-Repo/gcc.git",
                 "issues": "https://github.com/Googlers-Repo/gcc/issues"
             },
@@ -94,7 +102,10 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": [
+                    "mkshrc"
+                ]
             },
             "fox": {
                 "minApi": null,
@@ -121,14 +132,25 @@
             "readme": "https://raw.githubusercontent.com/Googlers-Repo/mmrl_install_tools/master/README.md",
             "stars": 1,
             "about": {
+                "repo_source": "Googlers Magisk Repo",
+                "language": "Shell",
                 "source": "https://github.com/Googlers-Repo/mmrl_install_tools.git",
                 "issues": "https://github.com/Googlers-Repo/mmrl_install_tools/issues"
             },
             "mmrl": {
-                "cover": null,
-                "logo": null,
-                "screenshots": null,
-                "categories": null
+                "cover": "https://mmrl.dergoogler.com/assets/MMRL-Cover.png",
+                "logo": "https://github.com/DerGoogler/MMRL/blob/master/Android/app/src/main/ic_launcher-playstore.png?raw=true",
+                "screenshots": [
+                    "https://github.com/Googlers-Repo/googlers-repo.github.io/assets/54764558/f5b7d396-781e-463a-b4ed-dc345cc15ba3I",
+                    "https://github.com/Googlers-Repo/googlers-repo.github.io/assets/54764558/0a03c54a-3064-4ed0-a69b-90db437bd9f0",
+                    "https://github.com/Googlers-Repo/googlers-repo.github.io/assets/54764558/8fbc9621-fe85-4b66-8070-271599f87d38"
+                ],
+                "categories": [
+                    "Tools",
+                    "System",
+                    "Configurable"
+                ],
+                "require": null
             },
             "fox": {
                 "minApi": 26,
@@ -155,14 +177,17 @@
             "readme": "https://raw.githubusercontent.com/Googlers-Repo/test-module/master/README.md",
             "stars": 0,
             "about": {
+                "repo_source": "Googlers Magisk Repo",
+                "language": "Shell",
                 "source": "https://github.com/Googlers-Repo/test-module.git",
                 "issues": "https://github.com/Googlers-Repo/test-module/issues"
             },
             "mmrl": {
-                "cover": "https://www.microtool.de/wp-content/uploads/2017/07/Test.png",
+                "cover": null,
                 "logo": null,
-                "screenshots": "https://play-lh.googleusercontent.com/O11TlvK2ZcIagYbr7whOSJCaZW84ywez_Vi5-kLO9092ZKCEKNOeQNvZh7vB9Rwi_g=w1052-h592-rw,https://play-lh.googleusercontent.com/O4n3ikDxttWxkd7udl9xapEasCIUS_Ak0-sbTnNVaO7zDhcmwJa9H8NZPtnCuzQbdw=w1052-h592-rw,https://play-lh.googleusercontent.com/sXiFMfkPqfjVY_Dy3ts3u4WsnQ-qcOLK0pRLsDaL26kgqGk7gBK610S6gBWwl_psSA=w1052-h592-rw,https://play-lh.googleusercontent.com/hQjrBle8jq1IlOMRhViuKpZBk4Edi0pJHwesR60m9fGMnLDYeyIkzgDKcwdZdAYE_tI=w1052-h592-rw",
-                "categories": null
+                "screenshots": null,
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": 2000,
@@ -189,6 +214,8 @@
             "readme": "https://raw.githubusercontent.com/Googlers-Repo/which-module/master/README.md",
             "stars": 0,
             "about": {
+                "repo_source": "Googlers Magisk Repo",
+                "language": "Shell",
                 "source": "https://github.com/Googlers-Repo/which-module.git",
                 "issues": "https://github.com/Googlers-Repo/which-module/issues"
             },
@@ -196,7 +223,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": "System"
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -223,6 +251,8 @@
             "readme": "https://raw.githubusercontent.com/symbuzzer/systemless-hosts-KernelSU-module/main/README.md",
             "stars": 66,
             "about": {
+                "repo_source": "Googlers Magisk Repo",
+                "language": "Shell",
                 "source": "https://github.com/symbuzzer/systemless-hosts-KernelSU-module.git",
                 "issues": "https://github.com/symbuzzer/systemless-hosts-KernelSU-module/issues"
             },
@@ -230,7 +260,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -257,6 +288,8 @@
             "readme": "https://raw.githubusercontent.com/symbuzzer/livebootmodule/main/README.md",
             "stars": 12,
             "about": {
+                "repo_source": "Googlers Magisk Repo",
+                "language": "Shell",
                 "source": "https://github.com/symbuzzer/livebootmodule.git",
                 "issues": "https://github.com/symbuzzer/livebootmodule/issues"
             },
@@ -264,7 +297,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -291,6 +325,8 @@
             "readme": "https://raw.githubusercontent.com/VR-25/acc/dev/README.md",
             "stars": 1231,
             "about": {
+                "repo_source": "Googlers Magisk Repo",
+                "language": "Shell",
                 "source": "https://github.com/VR-25/acc.git",
                 "issues": "https://github.com/VR-25/acc/issues"
             },
@@ -298,7 +334,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -325,6 +362,8 @@
             "readme": "https://raw.githubusercontent.com/VR-25/djs/master/README.md",
             "stars": 75,
             "about": {
+                "repo_source": "Googlers Magisk Repo",
+                "language": "Shell",
                 "source": "https://github.com/VR-25/djs.git",
                 "issues": "https://github.com/VR-25/djs/issues"
             },
@@ -332,7 +371,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -359,6 +399,8 @@
             "readme": "https://raw.githubusercontent.com/cuynu/gphotos-unlimited-zygisk/master/README.md",
             "stars": 95,
             "about": {
+                "repo_source": "Googlers Magisk Repo",
+                "language": "C++",
                 "source": "https://github.com/cuynu/gphotos-unlimited-zygisk.git",
                 "issues": "https://github.com/cuynu/gphotos-unlimited-zygisk/issues"
             },
@@ -366,7 +408,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -389,10 +432,12 @@
             "description": "This modules tweaks your kernel parameters.",
             "valid": true,
             "download": "https://github.com/NotZeetaa/YAKT/archive/main.zip",
-            "last_update": 1698176092000,
+            "last_update": 1698265555000,
             "readme": "https://raw.githubusercontent.com/NotZeetaa/YAKT/main/README.md",
             "stars": 124,
             "about": {
+                "repo_source": "Googlers Magisk Repo",
+                "language": "Shell",
                 "source": "https://github.com/NotZeetaa/YAKT.git",
                 "issues": "https://github.com/NotZeetaa/YAKT/issues"
             },
@@ -400,7 +445,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -427,6 +473,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/energizedprotection/master/README.md",
             "stars": 273,
             "about": {
+                "repo_source": "Googlers Magisk Repo",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/energizedprotection.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/energizedprotection/issues"
             },
@@ -434,7 +482,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -461,6 +510,8 @@
             "readme": "https://raw.githubusercontent.com/Rikj000/Magisk-Manager-for-Recovery-Mode/master/README.md",
             "stars": 197,
             "about": {
+                "repo_source": "Googlers Magisk Repo",
+                "language": "Shell",
                 "source": "https://github.com/Rikj000/Magisk-Manager-for-Recovery-Mode.git",
                 "issues": null
             },
@@ -468,7 +519,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -495,6 +547,8 @@
             "readme": "https://raw.githubusercontent.com/FerryAr/lhroot/master/README.md",
             "stars": 127,
             "about": {
+                "repo_source": "Googlers Magisk Repo",
+                "language": "Shell",
                 "source": "https://github.com/FerryAr/lhroot.git",
                 "issues": "https://github.com/FerryAr/lhroot/issues"
             },
@@ -502,7 +556,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,

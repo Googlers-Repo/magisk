@@ -19,6 +19,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/acc/master/README.md",
             "stars": 285,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/acc.git",
                 "issues": null
             },
@@ -26,7 +28,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -53,6 +56,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/acp/master/README.md",
             "stars": 68,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/acp.git",
                 "issues": null
             },
@@ -60,7 +65,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -87,6 +93,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/active_edge_system_mod/master/README.md",
             "stars": 48,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/active_edge_system_mod.git",
                 "issues": null
             },
@@ -94,7 +102,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -121,6 +130,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/README.md",
             "stars": 332,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/adb-ndk.git",
                 "issues": null
             },
@@ -128,7 +139,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -155,6 +167,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adreno-630-gpu-driver/master/README.md",
             "stars": 14,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/adreno-630-gpu-driver.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/adreno-630-gpu-driver/issues"
             },
@@ -162,7 +176,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -189,6 +204,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adreno-dev/master/README.md",
             "stars": 67,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/adreno-dev.git",
                 "issues": null
             },
@@ -196,7 +213,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -223,6 +241,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ainur_jamesdsp/master/README.md",
             "stars": 70,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/ainur_jamesdsp.git",
                 "issues": null
             },
@@ -230,7 +250,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -257,6 +278,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ainur_narsil/master/README.md",
             "stars": 108,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/ainur_narsil.git",
                 "issues": null
             },
@@ -264,7 +287,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -291,6 +315,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/airaudio/master/README.md",
             "stars": 19,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/airaudio.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/airaudio/issues"
             },
@@ -298,7 +324,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -325,6 +352,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/aml/master/README.md",
             "stars": 48,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/aml.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/aml/issues"
             },
@@ -332,7 +361,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -359,6 +389,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/aospill/master/README.md",
             "stars": 7,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/aospill.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/aospill/issues"
             },
@@ -366,7 +398,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -393,6 +426,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/AppOpsPlugin/master/README.md",
             "stars": 7,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/AppOpsPlugin.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/AppOpsPlugin/issues"
             },
@@ -400,7 +435,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -427,6 +463,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/apt-x/master/README.md",
             "stars": 7,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/apt-x.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/apt-x/issues"
             },
@@ -434,7 +472,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -461,6 +500,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ARCore_enabler/master/README.md",
             "stars": 63,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/ARCore_enabler.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/ARCore_enabler/issues"
             },
@@ -468,7 +509,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -495,6 +537,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ASUS-Style-Suite/master/README.md",
             "stars": 5,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/ASUS-Style-Suite.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/ASUS-Style-Suite/issues"
             },
@@ -502,7 +546,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -529,6 +574,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/benchkit/master/README.md",
             "stars": 62,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/benchkit.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/benchkit/issues"
             },
@@ -536,7 +583,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -563,6 +611,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/BluetoothLibraryPatcher/master/README.md",
             "stars": 39,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/BluetoothLibraryPatcher.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/BluetoothLibraryPatcher/issues"
             },
@@ -570,7 +620,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -597,6 +648,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/README.md",
             "stars": 755,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/busybox-ndk.git",
                 "issues": null
             },
@@ -604,7 +657,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -631,6 +685,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/callrecorder-axet/master/README.md",
             "stars": 59,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/callrecorder-axet.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/callrecorder-axet/issues"
             },
@@ -638,7 +694,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -665,6 +722,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/callrecorder-skvalex/master/README.md",
             "stars": 280,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/callrecorder-skvalex.git",
                 "issues": null
             },
@@ -672,7 +731,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -699,6 +759,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ccbins/master/README.md",
             "stars": 93,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/ccbins.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/ccbins/issues"
             },
@@ -706,7 +768,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -733,6 +796,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/CloudflareDNS4Magisk/master/README.md",
             "stars": 100,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/CloudflareDNS4Magisk.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/CloudflareDNS4Magisk/issues"
             },
@@ -740,7 +805,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -767,6 +833,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/CloudflareDNS4Magisk-IPv6/master/README.md",
             "stars": 41,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/CloudflareDNS4Magisk-IPv6.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/CloudflareDNS4Magisk-IPv6/issues"
             },
@@ -774,7 +842,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -801,6 +870,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/com.catchingnow.icebox/master/README.md",
             "stars": 11,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/com.catchingnow.icebox.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/com.catchingnow.icebox/issues"
             },
@@ -808,7 +879,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -835,6 +907,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/com.piyushgarg.rclone/master/README.md",
             "stars": 238,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/com.piyushgarg.rclone.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/com.piyushgarg.rclone/issues"
             },
@@ -842,7 +916,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -869,6 +944,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ctenabler/master/README.md",
             "stars": 9,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/ctenabler.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/ctenabler/issues"
             },
@@ -876,7 +953,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -903,6 +981,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Detach/master/README.md",
             "stars": 219,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/Detach.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/Detach/issues"
             },
@@ -910,7 +990,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -937,6 +1018,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/disable-mdnsd/master/README.md",
             "stars": 9,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/disable-mdnsd.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/disable-mdnsd/issues"
             },
@@ -944,7 +1027,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -971,6 +1055,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/disable-screenshot-camera-sounds/master/README.md",
             "stars": 10,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/disable-screenshot-camera-sounds.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/disable-screenshot-camera-sounds/issues"
             },
@@ -978,7 +1064,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -1005,6 +1092,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/djs/master/README.md",
             "stars": 40,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/djs.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/djs/issues"
             },
@@ -1012,7 +1101,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -1039,6 +1129,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/energizedprotection/master/README.md",
             "stars": 273,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/energizedprotection.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/energizedprotection/issues"
             },
@@ -1046,7 +1138,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -1073,6 +1166,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ExSDCard/master/README.md",
             "stars": 44,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/ExSDCard.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/ExSDCard/issues"
             },
@@ -1080,7 +1175,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -1107,6 +1203,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Fdroid-Priv/master/README.md",
             "stars": 114,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/Fdroid-Priv.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/Fdroid-Priv/issues"
             },
@@ -1114,7 +1212,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -1141,6 +1240,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/foxy-boot/master/README.md",
             "stars": 19,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/foxy-boot.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/foxy-boot/issues"
             },
@@ -1148,7 +1249,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -1175,6 +1277,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/G-VisualMod/master/README.md",
             "stars": 323,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/G-VisualMod.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/G-VisualMod/issues"
             },
@@ -1182,7 +1286,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -1209,6 +1314,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/GoogleDialerFramework/master/README.md",
             "stars": 62,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/GoogleDialerFramework.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/GoogleDialerFramework/issues"
             },
@@ -1216,7 +1323,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -1243,6 +1351,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/HEVCEnabler/master/README.md",
             "stars": 14,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/HEVCEnabler.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/HEVCEnabler/issues"
             },
@@ -1250,7 +1360,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -1277,6 +1388,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/hidden_settings/master/README.md",
             "stars": 29,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/hidden_settings.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/hidden_settings/issues"
             },
@@ -1284,7 +1397,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -1311,6 +1425,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/HideGesBar/master/README.md",
             "stars": 4,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/HideGesBar.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/HideGesBar/issues"
             },
@@ -1318,7 +1434,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -1345,6 +1462,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/HideNavBar/master/README.md",
             "stars": 458,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/HideNavBar.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/HideNavBar/issues"
             },
@@ -1352,7 +1471,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -1379,6 +1499,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/IPControl/master/README.md",
             "stars": 58,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/IPControl.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/IPControl/issues"
             },
@@ -1386,7 +1508,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -1413,6 +1536,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/KaliNethunter/master/README.md",
             "stars": 227,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/KaliNethunter.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/KaliNethunter/issues"
             },
@@ -1420,7 +1545,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -1447,6 +1573,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/kfmark/master/README.md",
             "stars": 2,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/kfmark.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/kfmark/issues"
             },
@@ -1454,7 +1582,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -1481,6 +1610,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/liboemcryptodisabler/master/README.md",
             "stars": 78,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/liboemcryptodisabler.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/liboemcryptodisabler/issues"
             },
@@ -1488,7 +1619,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -1515,6 +1647,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/libsecure_storage/master/README.md",
             "stars": 9,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/libsecure_storage.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/libsecure_storage/issues"
             },
@@ -1522,7 +1656,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -1549,6 +1684,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/logcat/master/README.md",
             "stars": 8,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/logcat.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/logcat/issues"
             },
@@ -1556,7 +1693,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -1583,6 +1721,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/magisk-drm-disabler/master/README.md",
             "stars": 45,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/magisk-drm-disabler.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/magisk-drm-disabler/issues"
             },
@@ -1590,7 +1730,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -1617,6 +1758,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/README.md",
             "stars": 1797,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf/issues"
             },
@@ -1624,7 +1767,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -1651,6 +1795,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/microG_installer/master/README.md",
             "stars": 70,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/microG_installer.git",
                 "issues": null
             },
@@ -1658,7 +1804,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -1685,6 +1832,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/miracast-enabler/master/README.md",
             "stars": 19,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/miracast-enabler.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/miracast-enabler/issues"
             },
@@ -1692,7 +1841,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -1719,6 +1869,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/miui-10-sounds/master/README.md",
             "stars": 6,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/miui-10-sounds.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/miui-10-sounds/issues"
             },
@@ -1726,7 +1878,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -1753,6 +1906,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/mm/master/README.md",
             "stars": 156,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/mm.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/mm/issues"
             },
@@ -1760,7 +1915,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -1787,6 +1943,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/motoclockwidget/master/README.md",
             "stars": 7,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/motoclockwidget.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/motoclockwidget/issues"
             },
@@ -1794,7 +1952,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -1821,6 +1980,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/movecert/master/README.md",
             "stars": 520,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/movecert.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/movecert/issues"
             },
@@ -1828,7 +1989,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -1855,6 +2017,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/mtd-ndk/master/README.md",
             "stars": 42,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/mtd-ndk.git",
                 "issues": null
             },
@@ -1862,7 +2026,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -1889,6 +2054,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/nano-ndk/master/README.md",
             "stars": 104,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/nano-ndk.git",
                 "issues": null
             },
@@ -1896,7 +2063,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -1923,6 +2091,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/nexusmedia/master/README.md",
             "stars": 22,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/nexusmedia.git",
                 "issues": null
             },
@@ -1930,7 +2100,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -1957,6 +2128,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/NfcScreenOff/master/README.md",
             "stars": 44,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/NfcScreenOff.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/NfcScreenOff/issues"
             },
@@ -1964,7 +2137,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -1991,6 +2165,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/noneDisplayCutout/master/README.md",
             "stars": 25,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/noneDisplayCutout.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/noneDisplayCutout/issues"
             },
@@ -1998,7 +2174,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -2025,6 +2202,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/OneController/master/README.md",
             "stars": 189,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/OneController.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/OneController/issues"
             },
@@ -2032,7 +2211,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -2059,6 +2239,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/OneUISounds/master/README.md",
             "stars": 6,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/OneUISounds.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/OneUISounds/issues"
             },
@@ -2066,7 +2248,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -2093,6 +2276,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/oosbar/master/README.md",
             "stars": 8,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/oosbar.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/oosbar/issues"
             },
@@ -2100,7 +2285,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -2127,6 +2313,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/overlayfix/master/README.md",
             "stars": 24,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/overlayfix.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/overlayfix/issues"
             },
@@ -2134,7 +2322,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -2161,6 +2350,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Oxy-ify/master/README.md",
             "stars": 26,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/Oxy-ify.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/Oxy-ify/issues"
             },
@@ -2168,7 +2359,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -2195,6 +2387,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Pix3lify/master/README.md",
             "stars": 104,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/Pix3lify.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/Pix3lify/issues"
             },
@@ -2202,7 +2396,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -2229,6 +2424,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/PIXELARITY/master/README.md",
             "stars": 17,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/PIXELARITY.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/PIXELARITY/issues"
             },
@@ -2236,7 +2433,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -2263,6 +2461,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/PS4RE/master/README.md",
             "stars": 4,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/PS4RE.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/PS4RE/issues"
             },
@@ -2270,7 +2470,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -2297,6 +2498,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/quickstepswitcher/master/README.md",
             "stars": 34,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/quickstepswitcher.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/quickstepswitcher/issues"
             },
@@ -2304,7 +2507,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -2331,6 +2535,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/riru-core/master/README.md",
             "stars": 145,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/riru-core.git",
                 "issues": null
             },
@@ -2338,7 +2544,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -2365,6 +2572,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/riru_edxposed/master/README.md",
             "stars": 71,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/riru_edxposed.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/riru_edxposed/issues"
             },
@@ -2372,7 +2581,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": 10,
@@ -2399,6 +2609,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/riru_location_report_enabler/master/README.md",
             "stars": 11,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/riru_location_report_enabler.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/riru_location_report_enabler/issues"
             },
@@ -2406,7 +2618,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -2433,6 +2646,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/riru_lsposed/master/README.md",
             "stars": 194,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/riru_lsposed.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/riru_lsposed/issues"
             },
@@ -2440,7 +2655,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -2467,6 +2683,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/riru_storage_redirect/master/README.md",
             "stars": 56,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/riru_storage_redirect.git",
                 "issues": null
             },
@@ -2474,7 +2692,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -2501,6 +2720,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/sap/master/README.md",
             "stars": 0,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/sap.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/sap/issues"
             },
@@ -2508,7 +2729,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -2535,6 +2757,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/sony-device-dummy/master/README.md",
             "stars": 17,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/sony-device-dummy.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/sony-device-dummy/issues"
             },
@@ -2542,7 +2766,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -2569,6 +2794,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/sonymusic/master/README.md",
             "stars": 6,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/sonymusic.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/sonymusic/issues"
             },
@@ -2576,7 +2803,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -2603,6 +2831,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/sqlite3/master/README.md",
             "stars": 19,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/sqlite3.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/sqlite3/issues"
             },
@@ -2610,7 +2840,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -2637,6 +2868,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ssh/master/README.md",
             "stars": 153,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/ssh.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/ssh/issues"
             },
@@ -2644,7 +2877,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -2671,6 +2905,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Systemless_TZData/master/README.md",
             "stars": 22,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/Systemless_TZData.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/Systemless_TZData/issues"
             },
@@ -2678,7 +2914,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -2705,6 +2942,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/tcpdump_static_aarch64/master/README.md",
             "stars": 6,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/tcpdump_static_aarch64.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/tcpdump_static_aarch64/issues"
             },
@@ -2712,7 +2951,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -2739,6 +2979,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminalmods/master/README.md",
             "stars": 55,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/terminalmods.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/terminalmods/issues"
             },
@@ -2746,7 +2988,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -2773,6 +3016,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminal_debloater/master/README.md",
             "stars": 198,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/terminal_debloater.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/terminal_debloater/issues"
             },
@@ -2780,7 +3025,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -2807,6 +3053,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminal_systemizer/master/README.md",
             "stars": 257,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/terminal_systemizer.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/terminal_systemizer/issues"
             },
@@ -2814,7 +3062,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -2841,6 +3090,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/twrp-helper/master/README.md",
             "stars": 24,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/twrp-helper.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/twrp-helper/issues"
             },
@@ -2848,7 +3099,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -2875,6 +3127,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/twrp-keep/master/README.md",
             "stars": 168,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/twrp-keep.git",
                 "issues": null
             },
@@ -2882,7 +3136,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -2909,6 +3164,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/v2ray/master/README.md",
             "stars": 317,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/v2ray.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/v2ray/issues"
             },
@@ -2916,7 +3173,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -2943,6 +3201,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ViPER4Android-FX/master/README.md",
             "stars": 370,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/ViPER4Android-FX.git",
                 "issues": null
             },
@@ -2950,7 +3210,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -2977,6 +3238,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ViPER4AndroidFX-Legacy/master/README.md",
             "stars": 29,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/ViPER4AndroidFX-Legacy.git",
                 "issues": null
             },
@@ -2984,7 +3247,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -3011,6 +3275,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ViPER4AndroidXHiFi/master/README.md",
             "stars": 3,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/ViPER4AndroidXHiFi.git",
                 "issues": null
             },
@@ -3018,7 +3284,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -3045,6 +3312,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/vold-posix/master/README.md",
             "stars": 20,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/vold-posix.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/vold-posix/issues"
             },
@@ -3052,7 +3321,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -3079,6 +3349,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/WDAnimationcxair/master/README.md",
             "stars": 27,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/WDAnimationcxair.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/WDAnimationcxair/issues"
             },
@@ -3086,7 +3358,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -3113,6 +3386,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/wifi-bonding/master/README.md",
             "stars": 433,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/wifi-bonding.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/wifi-bonding/issues"
             },
@@ -3120,7 +3395,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -3147,6 +3423,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/wifi5ghzdisabler/master/README.md",
             "stars": 9,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/wifi5ghzdisabler.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/wifi5ghzdisabler/issues"
             },
@@ -3154,7 +3432,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -3181,6 +3460,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/wirelessFirmware/master/README.md",
             "stars": 31,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/wirelessFirmware.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/wirelessFirmware/issues"
             },
@@ -3188,7 +3469,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -3215,6 +3497,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/xmlpak/master/README.md",
             "stars": 140,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/xmlpak.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/xmlpak/issues"
             },
@@ -3222,7 +3506,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -3249,6 +3534,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/xposed/master/README.md",
             "stars": 111,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/xposed.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/xposed/issues"
             },
@@ -3256,7 +3543,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -3283,6 +3571,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/xposed_dalvik/master/README.md",
             "stars": 5,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/xposed_dalvik.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/xposed_dalvik/issues"
             },
@@ -3290,7 +3580,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -3317,6 +3608,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/zipsigner/master/README.md",
             "stars": 54,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/zipsigner.git",
                 "issues": null
             },
@@ -3324,7 +3617,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
@@ -3351,6 +3645,8 @@
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/zsh_arm64/master/README.md",
             "stars": 9,
             "about": {
+                "repo_source": "Magisk Modules Repo (Official)",
+                "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Repo/zsh_arm64.git",
                 "issues": "https://github.com/Magisk-Modules-Repo/zsh_arm64/issues"
             },
@@ -3358,7 +3654,8 @@
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
-                "categories": null
+                "categories": null,
+                "require": null
             },
             "fox": {
                 "minApi": null,
