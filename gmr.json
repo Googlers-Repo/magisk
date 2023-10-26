@@ -543,7 +543,7 @@
             "description": "Systemless linux chroot installer and chroot boot script",
             "valid": true,
             "download": "https://github.com/FerryAr/lhroot/archive/master.zip",
-            "last_update": 1695574826000,
+            "last_update": 1698282768000,
             "readme": "https://raw.githubusercontent.com/FerryAr/lhroot/master/README.md",
             "stars": 127,
             "about": {
