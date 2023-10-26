@@ -52,7 +52,7 @@
             "description": "VS Code in the browser",
             "valid": true,
             "download": "https://github.com/Googlers-Repo/code-server/archive/master.zip",
-            "last_update": 1692109821000,
+            "last_update": 1698313046000,
             "readme": "https://raw.githubusercontent.com/Googlers-Repo/code-server/master/README.md",
             "stars": 1,
             "about": {
@@ -62,11 +62,21 @@
                 "issues": "https://github.com/Googlers-Repo/code-server/issues"
             },
             "mmrl": {
-                "cover": null,
-                "logo": null,
-                "screenshots": null,
-                "categories": null,
-                "require": null
+                "cover": "https://coder.com/og-image.png",
+                "logo": "https://avatars.githubusercontent.com/u/95932066?s=200&v=4",
+                "screenshots": [
+                    "https://raw.githubusercontent.com/coder/code-server/main/docs/assets/screenshot-1.png",
+                    "https://raw.githubusercontent.com/coder/code-server/main/docs/assets/screenshot-2.png"
+                ],
+                "categories": [
+                    "Tools",
+                    "Customization",
+                    "Miscellaneous"
+                ],
+                "require": [
+                    "mkshrc",
+                    "node_on_android"
+                ]
             },
             "fox": {
                 "minApi": null,
