@@ -10,6 +10,21 @@ Your module `last_updated` will be updated when you change something in the `mod
 - [Googlers Repo](https://api.mmrl.dergoogler.com/json/gmr.json)
 - [Magisk Modules Official Repo](https://api.mmrl.dergoogler.com/json/mmr.json)
 
+## Use your `update.json`
+
+[MMRL][MMRL] and repos generated with this script can use their own `update.json`, but it still depends on the hourly updates.
+
+> Do not write `versionCode` as a `string`, please write it as a `number`.
+
+```json
+{
+    "version": "1.36.1",
+    "versionCode": 13614,
+    "zipUrl": "https://forum.xda-developers.com/attachments/update-busybox-installer-v1-36-1-all-signed-zip.6000117/",
+    "changelog": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/README.md"
+}
+```
+
 ## Configure your module page in [MMRL][MMRL]
 
 [MMRL][MMRL] allows you to configure:

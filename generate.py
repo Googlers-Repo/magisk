@@ -42,12 +42,11 @@ def does_object_exists(repo: Repository, object_path: str) -> bool:
     except github.UnknownObjectException:
         return False
 
-def get_mmrl_json(repo: Repository, key: str):
+def get_json(repo: Repository, file: str, key: str):
     try:
-        mmrljson = repo.get_contents("mmrl.json")
-        mmrljson_raw = mmrljson.decoded_content.decode("UTF-8")
-        mmrl = json.loads(mmrljson_raw)
-        return mmrl[key]
+        jsonfile = repo.get_contents(file)
+        jsonfile_raw = jsonfile.decoded_content.decode("UTF-8")
+        return json.loads(jsonfile_raw)[key]
     except:
         return None
 
@@ -67,16 +66,30 @@ def make_module_json(repo: Repository):
         # Get the timestamp of the last update
         last_update_timestamp = datetime.timestamp(last_update_datetime)
 
+        details = {
+            "version": properties.get("version"),
+            "versionCode": properties.get("versionCode"),
+            "download": f"https://github.com/{repo.full_name}/archive/{repo.default_branch}.zip",
+        }
+
+        if does_object_exists(repo, "update.json"):
+            details = {
+                "version": get_json(repo, "update.json", "version"),
+                "versionCode": get_json(repo, "update.json", "versionCode"),
+                "download": get_json(repo, "update.json", "zipUrl"),
+            }
+
+
         module = {
             "id": properties.get("id"),
             "name": properties.get("name"),
-            "version": properties.get("version"),
-            "versionCode": properties.get("versionCode"),
             "author": properties.get("author"),
             "description": properties.get("description"),
+            **details,
             # Check if META-INF folder exists, which is required to install modules
             "valid": does_object_exists(repo, "META-INF"),
-            "download": f"https://github.com/{repo.full_name}/archive/{repo.default_branch}.zip",
+            # Check if a update.json exists
+            "hasUpdateJson": does_object_exists(repo, "update.json"),
             "last_update": int(last_update_timestamp * 1000),
             "readme": f"https://raw.githubusercontent.com/{repo.full_name}/{repo.default_branch}/README.md",
             "stars": int(repo.stargazers_count),
@@ -88,11 +101,11 @@ def make_module_json(repo: Repository):
                 "issues": f"{repo.html_url}/issues" if repo.has_issues else None,
             },
             "mmrl": {
-                "cover": get_mmrl_json(repo, "cover"),
-                "logo": get_mmrl_json(repo, "logo"),
-                "screenshots": get_mmrl_json(repo, "screenshots"),
-                "categories": get_mmrl_json(repo, "categories"),
-                "require": get_mmrl_json(repo, "require")
+                "cover": get_json(repo, "mmrl.json", "cover"),
+                "logo": get_json(repo, "mmrl.json", "logo"),
+                "screenshots": get_json(repo, "mmrl.json", "screenshots"),
+                "categories": get_json(repo, "mmrl.json", "categories"),
+                "require": get_json(repo, "mmrl.json", "require")
             },
             "fox": {
                 "minApi": properties.get("minApi"),
