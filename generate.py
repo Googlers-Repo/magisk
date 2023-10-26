@@ -23,6 +23,9 @@ g = Github(GIT_TOKEN)
 user = g.get_user(REPO_NAME)
 repos = user.get_repos()
 
+fverified = open('verified.json')
+verified = json.load(fverified)
+
 # Skeleton for the repository
 meta = {
     # Fetch the last repository update
@@ -79,15 +82,17 @@ def make_module_json(repo: Repository):
                 "download": get_json(repo, "update.json", "zipUrl"),
             }
 
+        mod_id = properties.get("id")
 
         module = {
-            "id": properties.get("id"),
+            "id": mod_id,
             "name": properties.get("name"),
             "author": properties.get("author"),
             "description": properties.get("description"),
             **details,
             # Check if META-INF folder exists, which is required to install modules
             "valid": does_object_exists(repo, "META-INF"),
+            "verified": mod_id in verified,
             # Check if a update.json exists
             "hasUpdateJson": does_object_exists(repo, "update.json"),
             "last_update": int(last_update_timestamp * 1000),
@@ -150,3 +155,4 @@ if not REPO_EXTRA_TRACKS  == "":
 f = open(f"{REPO_SCOPE}.json", "w")
 f.write(json.dumps(meta, indent=4))
 f.close()
+fverified.close()

@@ -60,3 +60,7 @@ Example
     ]
 }
 ```
+
+## Request a module verification
+
+Module verification request currently aren't open. 
