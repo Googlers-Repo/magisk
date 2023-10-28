@@ -83,12 +83,13 @@ def make_module_json(repo: Repository):
             }
 
         mod_id = properties.get("id")
-
+        desc = properties.get("description")
+        
         module = {
             "id": mod_id,
             "name": properties.get("name"),
             "author": properties.get("author"),
-            "description": properties.get("description"),
+            "description": desc if not (desc is None) else get_json(repo, "mmrl.json", "description"),
             **details,
             # Check if META-INF folder exists, which is required to install modules
             "valid": does_object_exists(repo, "META-INF"),
