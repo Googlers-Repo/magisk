@@ -99,8 +99,8 @@ jobs:
           
       - name: Setup Git
         run: |
-          git config --global user.email "jimmyboehm@dergoogler.com"
-          git config --global user.name "Googlers Repo Service"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
 
       - name: Commit Changes
         run: |
