@@ -136,7 +136,7 @@
             "hasUpdateJson": true,
             "last_update": 1693703724000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/README.md",
-            "stars": 333,
+            "stars": 334,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -3373,7 +3373,7 @@
             "hasUpdateJson": false,
             "last_update": 1684942356000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ViPER4Android-FX/master/README.md",
-            "stars": 370,
+            "stars": 371,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
