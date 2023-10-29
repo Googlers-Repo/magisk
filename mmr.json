@@ -721,7 +721,7 @@
             "hasUpdateJson": false,
             "last_update": 1587032621000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/callrecorder-axet/master/README.md",
-            "stars": 59,
+            "stars": 60,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -760,7 +760,7 @@
             "hasUpdateJson": false,
             "last_update": 1698300518000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/callrecorder-skvalex/master/README.md",
-            "stars": 280,
+            "stars": 281,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -2086,7 +2086,7 @@
             "hasUpdateJson": false,
             "last_update": 1656286469000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/movecert/master/README.md",
-            "stars": 523,
+            "stars": 524,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
