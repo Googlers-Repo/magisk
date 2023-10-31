@@ -3217,7 +3217,7 @@
             "hasUpdateJson": false,
             "last_update": 1571840288000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminal_systemizer/master/README.md",
-            "stars": 258,
+            "stars": 259,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -3568,7 +3568,7 @@
             "hasUpdateJson": false,
             "last_update": 1668440417000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/wifi-bonding/master/README.md",
-            "stars": 434,
+            "stars": 435,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
