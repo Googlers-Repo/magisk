@@ -331,7 +331,7 @@
             "hasUpdateJson": false,
             "last_update": 1633287965000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/airaudio/master/README.md",
-            "stars": 19,
+            "stars": 20,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -1423,7 +1423,7 @@
             "hasUpdateJson": false,
             "last_update": 1558593884000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/HEVCEnabler/master/README.md",
-            "stars": 14,
+            "stars": 15,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -1852,7 +1852,7 @@
             "hasUpdateJson": false,
             "last_update": 1673294532000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/README.md",
-            "stars": 1811,
+            "stars": 1812,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -3100,7 +3100,7 @@
             "hasUpdateJson": false,
             "last_update": 1581418007000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/tcpdump_static_aarch64/master/README.md",
-            "stars": 6,
+            "stars": 7,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
