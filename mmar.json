@@ -1306,7 +1306,7 @@
             "hasUpdateJson": true,
             "last_update": 1691803419000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/FluentEmojiMagisk/main/README.md",
-            "stars": 5,
+            "stars": 6,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
@@ -2242,7 +2242,7 @@
             "hasUpdateJson": false,
             "last_update": 1686805349000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/main/README.md",
-            "stars": 43,
+            "stars": 44,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
