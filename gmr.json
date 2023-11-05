@@ -573,6 +573,45 @@
             }
         },
         {
+            "id": "SoundEnhancement",
+            "name": "Sound Enhancement Sony Xperia 10",
+            "author": "Rei Ryuki the Fixer",
+            "description": "EQ global type soundfx ported from Sony Xperia 10 (I4113) and Sony Xperia 1 II (XQ-AT51) for any Android 9 and up.",
+            "version": "v7.7",
+            "versionCode": 77,
+            "download": "https://github.com/reiryuki/Sound-Enhancement-Sony-Xperia-10-Magisk-Module/archive/main.zip",
+            "valid": true,
+            "verified": false,
+            "hasUpdateJson": false,
+            "last_update": 1698835150000,
+            "readme": "https://raw.githubusercontent.com/reiryuki/Sound-Enhancement-Sony-Xperia-10-Magisk-Module/main/README.md",
+            "stars": 86,
+            "about": {
+                "repo_source": "Googlers Magisk Repo",
+                "language": "Shell",
+                "source": "https://github.com/reiryuki/Sound-Enhancement-Sony-Xperia-10-Magisk-Module.git",
+                "issues": "https://github.com/reiryuki/Sound-Enhancement-Sony-Xperia-10-Magisk-Module/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null,
+                "require": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
             "id": "lhroot",
             "name": "Linux Chroot Installer",
             "author": "FerryAr",
