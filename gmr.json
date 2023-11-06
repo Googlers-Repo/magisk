@@ -273,7 +273,7 @@
             "hasUpdateJson": true,
             "last_update": 1690045471000,
             "readme": "https://raw.githubusercontent.com/symbuzzer/systemless-hosts-KernelSU-module/main/README.md",
-            "stars": 76,
+            "stars": 77,
             "about": {
                 "repo_source": "Googlers Magisk Repo",
                 "language": "Shell",
@@ -427,7 +427,7 @@
             "valid": true,
             "verified": false,
             "hasUpdateJson": false,
-            "last_update": 1699234021000,
+            "last_update": 1699280072000,
             "readme": "https://raw.githubusercontent.com/cuynu/gphotos-unlimited-zygisk/master/README.md",
             "stars": 104,
             "about": {
@@ -624,7 +624,7 @@
             "hasUpdateJson": false,
             "last_update": 1698282768000,
             "readme": "https://raw.githubusercontent.com/FerryAr/lhroot/master/README.md",
-            "stars": 133,
+            "stars": 134,
             "about": {
                 "repo_source": "Googlers Magisk Repo",
                 "language": "Shell",
