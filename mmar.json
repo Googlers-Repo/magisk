@@ -58,7 +58,7 @@
             "hasUpdateJson": true,
             "last_update": 1683124699000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/AdGuardDNS4Magisk/main/README.md",
-            "stars": 11,
+            "stars": 12,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
@@ -370,7 +370,7 @@
             "hasUpdateJson": true,
             "last_update": 1691528864000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/main/README.md",
-            "stars": 111,
+            "stars": 112,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
@@ -838,7 +838,7 @@
             "hasUpdateJson": false,
             "last_update": 1673728563000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/DalvikHyperthreading/main/README.md",
-            "stars": 21,
+            "stars": 22,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
@@ -1384,7 +1384,7 @@
             "hasUpdateJson": false,
             "last_update": 1673245267000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/frozen_magisk_app/main/README.md",
-            "stars": 8,
+            "stars": 9,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
@@ -1774,7 +1774,7 @@
             "hasUpdateJson": false,
             "last_update": 1697217956000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HideNavBar/master/README.md",
-            "stars": 243,
+            "stars": 244,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
@@ -2312,15 +2312,15 @@
             "name": "Malwack | Anti-Malware & Ad Blocker",
             "author": "Person0z",
             "description": "Say goodbye to unwanted digital pests and send malware running with Malwack, your virtual fly swatter for the cyber world. It's like having a bouncer for your device \u2013 no entry for malware, bugs, or party crashers!",
-            "version": "v3.0",
-            "versionCode": 13,
+            "version": "v4.0",
+            "versionCode": 15,
             "download": "https://github.com/Magisk-Modules-Alt-Repo/Malwack/raw/main/install.zip",
             "valid": true,
             "verified": false,
             "hasUpdateJson": true,
-            "last_update": 1697656028000,
+            "last_update": 1699384468000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Malwack/main/README.md",
-            "stars": 36,
+            "stars": 37,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
@@ -2398,7 +2398,7 @@
             "hasUpdateJson": true,
             "last_update": 1695549966000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microg_installer/master/README.md",
-            "stars": 53,
+            "stars": 54,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
@@ -2437,7 +2437,7 @@
             "hasUpdateJson": false,
             "last_update": 1694329738000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MiXplorer/main/README.md",
-            "stars": 174,
+            "stars": 175,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
@@ -2476,7 +2476,7 @@
             "hasUpdateJson": false,
             "last_update": 1698535694000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/mkshrc/master/README.md",
-            "stars": 24,
+            "stars": 25,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
@@ -2601,7 +2601,7 @@
             "hasUpdateJson": false,
             "last_update": 1698270663000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/node/master/README.md",
-            "stars": 34,
+            "stars": 35,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "JavaScript",
@@ -3270,7 +3270,7 @@
             "hasUpdateJson": false,
             "last_update": 1690305811000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Simple_BootloopSaver/master/README.md",
-            "stars": 16,
+            "stars": 17,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
@@ -3309,7 +3309,7 @@
             "hasUpdateJson": false,
             "last_update": 1692753832000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/smallbattery/main/README.md",
-            "stars": 2,
+            "stars": 3,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
@@ -3504,7 +3504,7 @@
             "hasUpdateJson": false,
             "last_update": 1697566115000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ThemedProject/main/README.md",
-            "stars": 19,
+            "stars": 20,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
@@ -3738,7 +3738,7 @@
             "hasUpdateJson": false,
             "last_update": 1659745041000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/upx-ndk/master/README.md",
-            "stars": 1,
+            "stars": 2,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
@@ -3855,7 +3855,7 @@
             "hasUpdateJson": false,
             "last_update": 1698433306000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/wifi-bonding-nolog/master/README.md",
-            "stars": 7,
+            "stars": 8,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
@@ -3937,7 +3937,7 @@
             "hasUpdateJson": true,
             "last_update": 1697915394000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/xmlpak-RE/RE/README.md",
-            "stars": 12,
+            "stars": 13,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
@@ -4054,7 +4054,7 @@
             "hasUpdateJson": false,
             "last_update": 1673704299000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ytrevancedinject/main/README.md",
-            "stars": 26,
+            "stars": 27,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",

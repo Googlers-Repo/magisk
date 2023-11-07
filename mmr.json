@@ -136,7 +136,7 @@
             "hasUpdateJson": true,
             "last_update": 1698679366000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/README.md",
-            "stars": 340,
+            "stars": 341,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -214,7 +214,7 @@
             "hasUpdateJson": true,
             "last_update": 1687978189000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adreno-dev/master/README.md",
-            "stars": 66,
+            "stars": 67,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -682,7 +682,7 @@
             "hasUpdateJson": true,
             "last_update": 1694456430000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/README.md",
-            "stars": 766,
+            "stars": 767,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -799,7 +799,7 @@
             "hasUpdateJson": false,
             "last_update": 1691966533000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ccbins/master/README.md",
-            "stars": 94,
+            "stars": 95,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -838,7 +838,7 @@
             "hasUpdateJson": false,
             "last_update": 1673388734000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/CloudflareDNS4Magisk/master/README.md",
-            "stars": 101,
+            "stars": 102,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -1852,7 +1852,7 @@
             "hasUpdateJson": false,
             "last_update": 1673294532000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/README.md",
-            "stars": 1815,
+            "stars": 1816,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -2086,7 +2086,7 @@
             "hasUpdateJson": false,
             "last_update": 1656286469000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/movecert/master/README.md",
-            "stars": 527,
+            "stars": 528,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -2671,7 +2671,7 @@
             "hasUpdateJson": false,
             "last_update": 1639570144000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/riru-core/master/README.md",
-            "stars": 144,
+            "stars": 145,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -2827,7 +2827,7 @@
             "hasUpdateJson": false,
             "last_update": 1632298657000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/riru_storage_redirect/master/README.md",
-            "stars": 55,
+            "stars": 56,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -3022,7 +3022,7 @@
             "hasUpdateJson": false,
             "last_update": 1691227633000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ssh/master/README.md",
-            "stars": 152,
+            "stars": 153,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -3685,7 +3685,7 @@
             "hasUpdateJson": false,
             "last_update": 1658425594000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/xmlpak/master/README.md",
-            "stars": 140,
+            "stars": 141,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -3802,7 +3802,7 @@
             "hasUpdateJson": true,
             "last_update": 1699366374000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/zipsigner/master/README.md",
-            "stars": 53,
+            "stars": 54,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
