@@ -292,7 +292,7 @@
             "hasUpdateJson": true,
             "last_update": 1689053614000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ainur_narsil/master/README.md",
-            "stars": 108,
+            "stars": 109,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -2710,7 +2710,7 @@
             "hasUpdateJson": false,
             "last_update": 1613616737000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/riru_edxposed/master/README.md",
-            "stars": 71,
+            "stars": 72,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -3724,7 +3724,7 @@
             "hasUpdateJson": false,
             "last_update": 1556686471000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/xposed/master/README.md",
-            "stars": 113,
+            "stars": 114,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -3795,12 +3795,12 @@
             "author": "osm0sis & topjohnwu @ xda-developers",
             "description": "Wrapped dexed zipsigner.jar, and static arm/arm64 zip and zipalign binaries for Android built with the NDK",
             "version": "3.0-13",
-            "versionCode": "301301",
-            "download": "https://xdaforums.com/attachments/update-zipsigner-installer-v3-0-13-signed-zip.6029119/",
+            "versionCode": "301302",
+            "download": "https://xdaforums.com/attachments/update-zipsigner-installer-v3-0-13-signed-zip.6030016/",
             "valid": true,
             "verified": false,
             "hasUpdateJson": true,
-            "last_update": 1699135476000,
+            "last_update": 1699366374000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/zipsigner/master/README.md",
             "stars": 53,
             "about": {
