@@ -19,7 +19,7 @@
             "hasUpdateJson": false,
             "last_update": 1697485290000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/acc/master/README.md",
-            "stars": 289,
+            "stars": 290,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -799,7 +799,7 @@
             "hasUpdateJson": false,
             "last_update": 1691966533000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ccbins/master/README.md",
-            "stars": 95,
+            "stars": 96,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -3022,7 +3022,7 @@
             "hasUpdateJson": false,
             "last_update": 1691227633000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ssh/master/README.md",
-            "stars": 153,
+            "stars": 154,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
