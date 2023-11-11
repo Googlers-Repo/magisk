@@ -58,7 +58,7 @@
             "hasUpdateJson": true,
             "last_update": 1643646579000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/acp/master/README.md",
-            "stars": 68,
+            "stars": 69,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -1852,7 +1852,7 @@
             "hasUpdateJson": false,
             "last_update": 1673294532000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/README.md",
-            "stars": 1819,
+            "stars": 1820,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -3334,7 +3334,7 @@
             "hasUpdateJson": false,
             "last_update": 1644507409000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/v2ray/master/README.md",
-            "stars": 321,
+            "stars": 322,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -3685,7 +3685,7 @@
             "hasUpdateJson": false,
             "last_update": 1658425594000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/xmlpak/master/README.md",
-            "stars": 142,
+            "stars": 143,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
