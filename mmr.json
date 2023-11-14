@@ -136,7 +136,7 @@
             "hasUpdateJson": true,
             "last_update": 1698679366000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/README.md",
-            "stars": 344,
+            "stars": 343,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -643,7 +643,7 @@
             "hasUpdateJson": false,
             "last_update": 1643204930000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/BluetoothLibraryPatcher/master/README.md",
-            "stars": 39,
+            "stars": 40,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -682,7 +682,7 @@
             "hasUpdateJson": true,
             "last_update": 1699710957000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/README.md",
-            "stars": 768,
+            "stars": 767,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
