@@ -136,7 +136,7 @@
             "hasUpdateJson": true,
             "last_update": 1698679366000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/README.md",
-            "stars": 344,
+            "stars": 345,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -1033,7 +1033,7 @@
             "hasUpdateJson": false,
             "last_update": 1643991324000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Detach/master/README.md",
-            "stars": 224,
+            "stars": 225,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -3295,7 +3295,7 @@
             "hasUpdateJson": true,
             "last_update": 1699137305000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/twrp-keep/master/README.md",
-            "stars": 170,
+            "stars": 171,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
