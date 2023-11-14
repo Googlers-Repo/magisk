@@ -136,7 +136,7 @@
             "hasUpdateJson": true,
             "last_update": 1698679366000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/README.md",
-            "stars": 345,
+            "stars": 344,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -1033,7 +1033,7 @@
             "hasUpdateJson": false,
             "last_update": 1643991324000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Detach/master/README.md",
-            "stars": 225,
+            "stars": 226,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -1579,7 +1579,7 @@
             "hasUpdateJson": false,
             "last_update": 1569912326000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/IPControl/master/README.md",
-            "stars": 59,
+            "stars": 60,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -1618,7 +1618,7 @@
             "hasUpdateJson": false,
             "last_update": 1565052950000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/KaliNethunter/master/README.md",
-            "stars": 233,
+            "stars": 234,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -1852,7 +1852,7 @@
             "hasUpdateJson": false,
             "last_update": 1673294532000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/README.md",
-            "stars": 1817,
+            "stars": 1818,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -3022,7 +3022,7 @@
             "hasUpdateJson": false,
             "last_update": 1691227633000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ssh/master/README.md",
-            "stars": 156,
+            "stars": 157,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -3178,7 +3178,7 @@
             "hasUpdateJson": false,
             "last_update": 1578134354000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminal_debloater/master/README.md",
-            "stars": 199,
+            "stars": 200,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -3217,7 +3217,7 @@
             "hasUpdateJson": false,
             "last_update": 1571840288000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminal_systemizer/master/README.md",
-            "stars": 260,
+            "stars": 261,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -3646,7 +3646,7 @@
             "hasUpdateJson": false,
             "last_update": 1604117671000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/wirelessFirmware/master/README.md",
-            "stars": 32,
+            "stars": 33,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -3724,7 +3724,7 @@
             "hasUpdateJson": false,
             "last_update": 1556686471000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/xposed/master/README.md",
-            "stars": 114,
+            "stars": 115,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -3763,7 +3763,7 @@
             "hasUpdateJson": false,
             "last_update": 1580548677000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/xposed_dalvik/master/README.md",
-            "stars": 6,
+            "stars": 7,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
