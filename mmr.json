@@ -2320,7 +2320,7 @@
             "hasUpdateJson": false,
             "last_update": 1676679789000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/OneController/master/README.md",
-            "stars": 192,
+            "stars": 193,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -3490,7 +3490,7 @@
             "hasUpdateJson": false,
             "last_update": 1573283495000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/vold-posix/master/README.md",
-            "stars": 20,
+            "stars": 21,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
