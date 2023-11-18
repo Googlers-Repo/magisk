@@ -649,6 +649,45 @@
                 "changeBoot": null,
                 "mmtReborn": null
             }
+        },
+        {
+            "id": "Ad-Blocker",
+            "name": "Adblock for ksu and Magisk",
+            "author": "Vaz15k",
+            "description": "Based on Adaway hosts",
+            "version": "v1.3",
+            "versionCode": 4,
+            "download": "https://raw.githubusercontent.com/Vaz15k/Systemless-Ad-Blocker/master/adblock.zip",
+            "valid": true,
+            "verified": true,
+            "hasUpdateJson": true,
+            "last_update": 1699961708000,
+            "readme": "https://raw.githubusercontent.com/Vaz15k/Systemless-Ad-Blocker/master/README.md",
+            "stars": 2,
+            "about": {
+                "repo_source": "Googlers Magisk Repo",
+                "language": "Shell",
+                "source": "https://github.com/Vaz15k/Systemless-Ad-Blocker.git",
+                "issues": "https://github.com/Vaz15k/Systemless-Ad-Blocker/issues"
+            },
+            "mmrl": {
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null,
+                "require": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
         }
     ]
 }
