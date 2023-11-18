@@ -312,7 +312,7 @@
             "hasUpdateJson": true,
             "last_update": 1691177129000,
             "readme": "https://raw.githubusercontent.com/symbuzzer/livebootmodule/main/README.md",
-            "stars": 14,
+            "stars": 15,
             "about": {
                 "repo_source": "Googlers Magisk Repo",
                 "language": "Shell",
@@ -351,7 +351,7 @@
             "hasUpdateJson": false,
             "last_update": 1700312602000,
             "readme": "https://raw.githubusercontent.com/VR-25/acc/dev/README.md",
-            "stars": 1300,
+            "stars": 1301,
             "about": {
                 "repo_source": "Googlers Magisk Repo",
                 "language": "Shell",
