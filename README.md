@@ -61,6 +61,12 @@ Example
 }
 ```
 
+## Usage of modules in others repos
+
+Modules that are managed by **Googlers Repo**, **Der_Googler (DerGoogler)** etc are not allowed to show up in other repos. A exemption for this rule is [**Magisk Modules Alt Repo**](https://github.com/Magisk-Modules-Alt-Repo), other repos are not allowed to host our modules.
+
+> Mirrors of the [**Magisk Modules Alt Repo**](https://github.com/Magisk-Modules-Alt-Repo) are NOT an exception
+
 ## Request a module verification
 
 Module verification request currently aren't open. 
