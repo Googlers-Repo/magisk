@@ -58,7 +58,7 @@
             "hasUpdateJson": true,
             "last_update": 1643646579000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/acp/master/README.md",
-            "stars": 70,
+            "stars": 69,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -136,7 +136,7 @@
             "hasUpdateJson": true,
             "last_update": 1698679366000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/README.md",
-            "stars": 343,
+            "stars": 342,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -682,7 +682,7 @@
             "hasUpdateJson": true,
             "last_update": 1699710957000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/README.md",
-            "stars": 769,
+            "stars": 767,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -760,7 +760,7 @@
             "hasUpdateJson": false,
             "last_update": 1699533888000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/callrecorder-skvalex/master/README.md",
-            "stars": 287,
+            "stars": 285,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -1852,7 +1852,7 @@
             "hasUpdateJson": false,
             "last_update": 1673294532000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/README.md",
-            "stars": 1821,
+            "stars": 1819,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
