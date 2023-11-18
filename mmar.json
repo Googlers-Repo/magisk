@@ -214,7 +214,7 @@
             "hasUpdateJson": false,
             "last_update": 1691936900000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-misc-settings/master/README.md",
-            "stars": 113,
+            "stars": 111,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
@@ -370,7 +370,7 @@
             "hasUpdateJson": true,
             "last_update": 1691528864000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/main/README.md",
-            "stars": 117,
+            "stars": 116,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
@@ -760,7 +760,7 @@
             "hasUpdateJson": false,
             "last_update": 1644751003000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/custom-certificate-authorities/master/README.md",
-            "stars": 40,
+            "stars": 39,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
@@ -877,7 +877,7 @@
             "hasUpdateJson": false,
             "last_update": 1686425610000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/data_backup/main/README.md",
-            "stars": 36,
+            "stars": 35,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
@@ -1813,7 +1813,7 @@
             "hasUpdateJson": false,
             "last_update": 1693645620000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/isodrive/main/README.md",
-            "stars": 24,
+            "stars": 22,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
@@ -2242,7 +2242,7 @@
             "hasUpdateJson": false,
             "last_update": 1686805349000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/main/README.md",
-            "stars": 45,
+            "stars": 44,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
