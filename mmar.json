@@ -58,7 +58,7 @@
             "hasUpdateJson": true,
             "last_update": 1683124699000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/AdGuardDNS4Magisk/main/README.md",
-            "stars": 12,
+            "stars": 13,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
@@ -2685,7 +2685,7 @@
             "hasUpdateJson": false,
             "last_update": 1679266482000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NoStorageRestrict/main/README.md",
-            "stars": 157,
+            "stars": 158,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
@@ -3270,7 +3270,7 @@
             "hasUpdateJson": false,
             "last_update": 1690305811000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Simple_BootloopSaver/master/README.md",
-            "stars": 20,
+            "stars": 21,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
