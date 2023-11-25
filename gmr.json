@@ -273,7 +273,7 @@
             "hasUpdateJson": true,
             "last_update": 1690045471000,
             "readme": "https://raw.githubusercontent.com/symbuzzer/systemless-hosts-KernelSU-module/main/README.md",
-            "stars": 93,
+            "stars": 94,
             "about": {
                 "repo_source": "Googlers Magisk Repo",
                 "language": "Shell",
@@ -351,7 +351,7 @@
             "hasUpdateJson": false,
             "last_update": 1700312602000,
             "readme": "https://raw.githubusercontent.com/VR-25/acc/dev/README.md",
-            "stars": 1314,
+            "stars": 1315,
             "about": {
                 "repo_source": "Googlers Magisk Repo",
                 "language": "Shell",
@@ -429,7 +429,7 @@
             "hasUpdateJson": false,
             "last_update": 1699281243000,
             "readme": "https://raw.githubusercontent.com/cuynu/gphotos-unlimited-zygisk/master/README.md",
-            "stars": 125,
+            "stars": 126,
             "about": {
                 "repo_source": "Googlers Magisk Repo",
                 "language": "C++",
