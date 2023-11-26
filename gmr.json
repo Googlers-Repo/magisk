@@ -16,7 +16,7 @@
             "download": "https://github.com/Googlers-Repo/AntiAMTS-Magisk/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1698606189000,
             "readme": "https://raw.githubusercontent.com/Googlers-Repo/AntiAMTS-Magisk/master/README.md",
             "stars": 4,
@@ -27,6 +27,8 @@
                 "issues": "https://github.com/Googlers-Repo/AntiAMTS-Magisk/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -55,8 +57,8 @@
             "download": "https://github.com/Googlers-Repo/code-server/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
-            "last_update": 1698313046000,
+            "updateJson": null,
+            "last_update": 1701008270000,
             "readme": "https://raw.githubusercontent.com/Googlers-Repo/code-server/master/README.md",
             "stars": 1,
             "about": {
@@ -66,6 +68,29 @@
                 "issues": "https://github.com/Googlers-Repo/code-server/issues"
             },
             "mmrl": {
+                "author": {
+                    "name": "DerGoogler",
+                    "avatar": "https://avatars.githubusercontent.com/u/54764558?v=4",
+                    "bio": "21 y/o well known Android modder and Magisk/KernelSU developer from Germany.",
+                    "followers": 83,
+                    "verified": true
+                },
+                "contributors": [
+                    {
+                        "name": "vhqtvn",
+                        "avatar": "https://avatars.githubusercontent.com/u/8930337?v=4",
+                        "bio": null,
+                        "followers": 92,
+                        "verified": false
+                    },
+                    {
+                        "name": "coder",
+                        "avatar": "https://avatars.githubusercontent.com/u/95932066?v=4",
+                        "bio": "Coder provisions software development environments via Terraform on Linux, macOS, Windows, X86, ARM, and of course, Kubernetes.",
+                        "followers": 740,
+                        "verified": false
+                    }
+                ],
                 "cover": "https://coder.com/og-image.png",
                 "logo": "https://avatars.githubusercontent.com/u/95932066?s=200&v=4",
                 "screenshots": [
@@ -104,7 +129,7 @@
             "download": "https://github.com/Googlers-Repo/gcc/archive/main.zip",
             "valid": true,
             "verified": true,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1697896447000,
             "readme": "https://raw.githubusercontent.com/Googlers-Repo/gcc/main/README.md",
             "stars": 2,
@@ -115,6 +140,8 @@
                 "issues": "https://github.com/Googlers-Repo/gcc/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -145,8 +172,8 @@
             "download": "https://github.com/Googlers-Repo/mmrl_install_tools/archive/master.zip",
             "valid": true,
             "verified": true,
-            "hasUpdateJson": false,
-            "last_update": 1701007182000,
+            "updateJson": null,
+            "last_update": 1701008083000,
             "readme": "https://raw.githubusercontent.com/Googlers-Repo/mmrl_install_tools/master/README.md",
             "stars": 4,
             "about": {
@@ -156,6 +183,14 @@
                 "issues": "https://github.com/Googlers-Repo/mmrl_install_tools/issues"
             },
             "mmrl": {
+                "author": {
+                    "name": "DerGoogler",
+                    "avatar": "https://avatars.githubusercontent.com/u/54764558?v=4",
+                    "bio": "21 y/o well known Android modder and Magisk/KernelSU developer from Germany.",
+                    "followers": 83,
+                    "verified": true
+                },
+                "contributors": null,
                 "cover": "https://mmrl.dergoogler.com/assets/MMRL-Cover.png",
                 "logo": "https://github.com/DerGoogler/MMRL/blob/master/Android/app/src/main/ic_launcher-playstore.png?raw=true",
                 "screenshots": [
@@ -192,7 +227,7 @@
             "download": "https://github.com/Googlers-Repo/test-module/archive/master.zip",
             "valid": false,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1696070598000,
             "readme": "https://raw.githubusercontent.com/Googlers-Repo/test-module/master/README.md",
             "stars": 0,
@@ -203,6 +238,8 @@
                 "issues": "https://github.com/Googlers-Repo/test-module/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -231,7 +268,7 @@
             "download": "https://github.com/Googlers-Repo/which-module/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1697086092000,
             "readme": "https://raw.githubusercontent.com/Googlers-Repo/which-module/master/README.md",
             "stars": 0,
@@ -242,6 +279,8 @@
                 "issues": "https://github.com/Googlers-Repo/which-module/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -267,10 +306,10 @@
             "description": "Required module to use applications such as AdAway on KernelSU",
             "version": "v1.1.1",
             "versionCode": 111,
-            "download": "https://github.com/symbuzzer/systemless-hosts-KernelSU-module/releases/latest/download/systemless-hosts-KernelSU-module.zip",
+            "download": "https://github.com/symbuzzer/systemless-hosts-KernelSU-module/archive/main.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": true,
+            "updateJson": "https://raw.githubusercontent.com/symbuzzer/systemless-hosts-KernelSU-module/main/update.json",
             "last_update": 1690045471000,
             "readme": "https://raw.githubusercontent.com/symbuzzer/systemless-hosts-KernelSU-module/main/README.md",
             "stars": 95,
@@ -281,6 +320,8 @@
                 "issues": "https://github.com/symbuzzer/systemless-hosts-KernelSU-module/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -305,11 +346,11 @@
             "author": "Ali Beyaz (avalibeyaz.com/github)",
             "description": "A Magisk and KernelSU module that enables unix-style (verbose) boot animation for Android devices",
             "version": "v1.1.1",
-            "versionCode": "111",
-            "download": "https://github.com/symbuzzer/livebootmodule/releases/latest/download/livebootmodule.zip",
+            "versionCode": 111,
+            "download": "https://github.com/symbuzzer/livebootmodule/archive/main.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": true,
+            "updateJson": "https://raw.githubusercontent.com/symbuzzer/livebootmodule/main/update.json",
             "last_update": 1691177129000,
             "readme": "https://raw.githubusercontent.com/symbuzzer/livebootmodule/main/README.md",
             "stars": 17,
@@ -320,6 +361,8 @@
                 "issues": "https://github.com/symbuzzer/livebootmodule/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -348,7 +391,7 @@
             "download": "https://github.com/VR-25/acc/archive/dev.zip",
             "valid": true,
             "verified": true,
-            "hasUpdateJson": false,
+            "updateJson": "https://raw.githubusercontent.com/VR-25/acc/master/module.json",
             "last_update": 1700312602000,
             "readme": "https://raw.githubusercontent.com/VR-25/acc/dev/README.md",
             "stars": 1317,
@@ -359,6 +402,8 @@
                 "issues": "https://github.com/VR-25/acc/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -387,7 +432,7 @@
             "download": "https://github.com/VR-25/djs/archive/master.zip",
             "valid": true,
             "verified": true,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1639484648000,
             "readme": "https://raw.githubusercontent.com/VR-25/djs/master/README.md",
             "stars": 77,
@@ -398,6 +443,8 @@
                 "issues": "https://github.com/VR-25/djs/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -426,7 +473,7 @@
             "download": "https://github.com/cuynu/gphotos-unlimited-zygisk/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1699281243000,
             "readme": "https://raw.githubusercontent.com/cuynu/gphotos-unlimited-zygisk/master/README.md",
             "stars": 128,
@@ -437,6 +484,8 @@
                 "issues": "https://github.com/cuynu/gphotos-unlimited-zygisk/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -465,7 +514,7 @@
             "download": "https://github.com/NotZeetaa/YAKT/archive/main.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1700431696000,
             "readme": "https://raw.githubusercontent.com/NotZeetaa/YAKT/main/README.md",
             "stars": 134,
@@ -476,6 +525,8 @@
                 "issues": "https://github.com/NotZeetaa/YAKT/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -504,7 +555,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/energizedprotection/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1644066160000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/energizedprotection/master/README.md",
             "stars": 275,
@@ -515,6 +566,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/energizedprotection/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -543,7 +596,7 @@
             "download": "https://github.com/Rikj000/Magisk-Manager-for-Recovery-Mode/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1699087378000,
             "readme": "https://raw.githubusercontent.com/Rikj000/Magisk-Manager-for-Recovery-Mode/master/README.md",
             "stars": 204,
@@ -554,6 +607,8 @@
                 "issues": null
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -582,7 +637,7 @@
             "download": "https://github.com/reiryuki/Sound-Enhancement-Sony-Xperia-10-Magisk-Module/archive/main.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1700906624000,
             "readme": "https://raw.githubusercontent.com/reiryuki/Sound-Enhancement-Sony-Xperia-10-Magisk-Module/main/README.md",
             "stars": 87,
@@ -593,6 +648,8 @@
                 "issues": "https://github.com/reiryuki/Sound-Enhancement-Sony-Xperia-10-Magisk-Module/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -621,7 +678,7 @@
             "download": "https://github.com/FerryAr/lhroot/archive/master.zip",
             "valid": true,
             "verified": true,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1698282768000,
             "readme": "https://raw.githubusercontent.com/FerryAr/lhroot/master/README.md",
             "stars": 139,
@@ -632,6 +689,8 @@
                 "issues": "https://github.com/FerryAr/lhroot/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -657,10 +716,10 @@
             "description": "Based on Adaway hosts",
             "version": "v1.3",
             "versionCode": 4,
-            "download": "https://raw.githubusercontent.com/Vaz15k/Systemless-Ad-Blocker/master/adblock.zip",
+            "download": "https://github.com/Vaz15k/Systemless-Ad-Blocker/archive/master.zip",
             "valid": true,
             "verified": true,
-            "hasUpdateJson": true,
+            "updateJson": "https://raw.githubusercontent.com/Vaz15k/Systemless-Ad-Blocker/master/update.json",
             "last_update": 1699961708000,
             "readme": "https://raw.githubusercontent.com/Vaz15k/Systemless-Ad-Blocker/master/README.md",
             "stars": 2,
@@ -671,6 +730,8 @@
                 "issues": "https://github.com/Vaz15k/Systemless-Ad-Blocker/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,

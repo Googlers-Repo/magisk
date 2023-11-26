@@ -16,7 +16,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/acc/archive/master.zip",
             "valid": true,
             "verified": true,
-            "hasUpdateJson": false,
+            "updateJson": "https://raw.githubusercontent.com/VR-25/acc/master/module.json",
             "last_update": 1697485290000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/acc/master/README.md",
             "stars": 290,
@@ -27,6 +27,8 @@
                 "issues": null
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -52,10 +54,10 @@
             "description": "Fixes music and streaming apps (Spotify, Pandora, etc) that aren't processing audio effects for various equalizer applications through the modification of audio policy",
             "version": "v2.5",
             "versionCode": 39,
-            "download": "https://raw.githubusercontent.com/Magisk-Modules-Repo/acp/master/install.zip",
+            "download": "https://github.com/Magisk-Modules-Repo/acp/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": true,
+            "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Repo/acp/master/update.json",
             "last_update": 1643646579000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/acp/master/README.md",
             "stars": 69,
@@ -66,6 +68,8 @@
                 "issues": null
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -94,7 +98,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/active_edge_system_mod/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1634279056000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/active_edge_system_mod/master/README.md",
             "stars": 48,
@@ -105,6 +109,8 @@
                 "issues": null
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -129,11 +135,11 @@
             "author": "osm0sis & Surge1223 @ xda-developers",
             "description": "Static arm/arm64 adb and fastboot binaries for Android built with the NDK",
             "version": "1.0.41",
-            "versionCode": "104114",
-            "download": "https://xdaforums.com/attachments/update-adb-installer-v1-0-41-signed-zip.6027118/",
+            "versionCode": 104114,
+            "download": "https://github.com/Magisk-Modules-Repo/adb-ndk/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": true,
+            "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/update.json",
             "last_update": 1698679366000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/README.md",
             "stars": 344,
@@ -144,6 +150,8 @@
                 "issues": null
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -172,7 +180,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/adreno-630-gpu-driver/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1572706444000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adreno-630-gpu-driver/master/README.md",
             "stars": 14,
@@ -183,6 +191,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/adreno-630-gpu-driver/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -206,12 +216,12 @@
             "name": "Adreno GPU Developer Preview Drivers",
             "author": "osm0sis @ xda-developers",
             "description": "Replace ROM Adreno GPU drivers from Qualcomm",
-            "version": "#version#",
-            "versionCode": "34",
-            "download": "https://xdaforums.com/attachments/update-adreno-systemless-installer-signed-zip.5919665/",
+            "version": "",
+            "versionCode": 34,
+            "download": "https://github.com/Magisk-Modules-Repo/adreno-dev/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": true,
+            "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adreno-dev/master/update.json",
             "last_update": 1699710805000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adreno-dev/master/README.md",
             "stars": 67,
@@ -222,6 +232,8 @@
                 "issues": null
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -245,12 +257,12 @@
             "name": "JamesDSP Manager",
             "author": "james34602, zackptg5, ahrion",
             "description": "JamesDSPManager is a reformed audio engine based of AOSP and OmniROM DSPManager source code with enhanced features and tuning",
-            "version": "v5.8",
+            "version": "v5.8 (9-10-2023/9-10-2023)",
             "versionCode": 97,
-            "download": "https://raw.githubusercontent.com/Zackptg5/JamesDSPManager/master/install.zip",
+            "download": "https://github.com/Magisk-Modules-Repo/ainur_jamesdsp/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": true,
+            "updateJson": "https://raw.githubusercontent.com/Zackptg5/JamesDSPManager/master/update.json",
             "last_update": 1694469898000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ainur_jamesdsp/master/README.md",
             "stars": 71,
@@ -261,6 +273,8 @@
                 "issues": null
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -284,12 +298,12 @@
             "name": "Ainur Narsil",
             "author": "UltraM8, Zackptg5, LazerL0rd, and JohnFawkes",
             "description": "NARSIL is system-wide audio modification that helps keeping android playback tract clean from most sound FX (OpenSL & hardware DSPs). This might be especially handy for devices with great internal codecs & DACs - leaving pure hardware audio tuned by manufacturer.",
-            "version": "MK I (09.09.2021)",
-            "versionCode": 53,
-            "download": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ainur_narsil/master/install.zip",
+            "version": "MK I (11.07.2023)",
+            "versionCode": 56,
+            "download": "https://github.com/Magisk-Modules-Repo/ainur_narsil/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": true,
+            "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ainur_narsil/master/update.json",
             "last_update": 1689053614000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ainur_narsil/master/README.md",
             "stars": 111,
@@ -300,6 +314,8 @@
                 "issues": null
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -328,7 +344,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/airaudio/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1633287965000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/airaudio/master/README.md",
             "stars": 21,
@@ -339,6 +355,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/airaudio/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -364,10 +382,10 @@
             "description": "AudModLib is a framework that allows the seamless integration of multiple audio mods in Magisk.",
             "version": "v5.1",
             "versionCode": 59,
-            "download": "https://raw.githubusercontent.com/Zackptg5/Audio-Modification-Library/master/install.zip",
+            "download": "https://github.com/Magisk-Modules-Repo/aml/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": true,
+            "updateJson": "https://raw.githubusercontent.com/Zackptg5/Audio-Modification-Library/master/update.json",
             "last_update": 1689427589000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/aml/master/README.md",
             "stars": 48,
@@ -378,6 +396,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/aml/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -406,7 +426,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/aospill/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1635105924000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/aospill/master/README.md",
             "stars": 7,
@@ -417,6 +437,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/aospill/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -445,7 +467,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/AppOpsPlugin/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1563144810000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/AppOpsPlugin/master/README.md",
             "stars": 7,
@@ -456,6 +478,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/AppOpsPlugin/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -484,7 +508,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/apt-x/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1554995684000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/apt-x/master/README.md",
             "stars": 7,
@@ -495,6 +519,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/apt-x/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -523,7 +549,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/ARCore_enabler/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1581871355000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ARCore_enabler/master/README.md",
             "stars": 66,
@@ -534,6 +560,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/ARCore_enabler/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -562,7 +590,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/ASUS-Style-Suite/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1554326657000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ASUS-Style-Suite/master/README.md",
             "stars": 5,
@@ -573,6 +601,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/ASUS-Style-Suite/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -601,7 +631,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/benchkit/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1618613114000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/benchkit/master/README.md",
             "stars": 63,
@@ -612,6 +642,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/benchkit/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -640,7 +672,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/BluetoothLibraryPatcher/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": "https://raw.githubusercontent.com/3arthur6/BluetoothLibraryPatcher/master/update.json",
             "last_update": 1643204930000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/BluetoothLibraryPatcher/master/README.md",
             "stars": 40,
@@ -651,6 +683,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/BluetoothLibraryPatcher/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -675,11 +709,11 @@
             "author": "osm0sis @ xda-developers",
             "description": "Static busybox binary for all Android architectures built with the NDK",
             "version": "1.36.1",
-            "versionCode": "13614",
-            "download": "https://xdaforums.com/attachments/update-busybox-installer-v1-36-1-all-signed-zip.6000117/",
+            "versionCode": 13614,
+            "download": "https://github.com/Magisk-Modules-Repo/busybox-ndk/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": true,
+            "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/update.json",
             "last_update": 1699710957000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/README.md",
             "stars": 772,
@@ -690,6 +724,8 @@
                 "issues": null
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -718,7 +754,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/callrecorder-axet/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1587032621000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/callrecorder-axet/master/README.md",
             "stars": 61,
@@ -729,6 +765,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/callrecorder-axet/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -757,7 +795,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/callrecorder-skvalex/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": "https://raw.githubusercontent.com/skvalex/callrecorder/updates/magisk.json",
             "last_update": 1699533888000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/callrecorder-skvalex/master/README.md",
             "stars": 288,
@@ -768,6 +806,8 @@
                 "issues": null
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -796,7 +836,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/ccbins/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1691966533000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ccbins/master/README.md",
             "stars": 100,
@@ -807,6 +847,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/ccbins/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -835,7 +877,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/CloudflareDNS4Magisk/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1673388734000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/CloudflareDNS4Magisk/master/README.md",
             "stars": 101,
@@ -846,6 +888,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/CloudflareDNS4Magisk/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -874,7 +918,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/CloudflareDNS4Magisk-IPv6/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": "https://raw.githubusercontent.com/xerta555/CloudflareDNS4Magisk-IPv6/master/Update.json",
             "last_update": 1673388770000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/CloudflareDNS4Magisk-IPv6/master/README.md",
             "stars": 42,
@@ -885,6 +929,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/CloudflareDNS4Magisk-IPv6/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -913,7 +959,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/com.catchingnow.icebox/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1557655646000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/com.catchingnow.icebox/master/README.md",
             "stars": 11,
@@ -924,6 +970,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/com.catchingnow.icebox/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -952,7 +1000,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/com.piyushgarg.rclone/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1630828774000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/com.piyushgarg.rclone/master/README.md",
             "stars": 239,
@@ -963,6 +1011,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/com.piyushgarg.rclone/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -991,7 +1041,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/ctenabler/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1591010796000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ctenabler/master/README.md",
             "stars": 9,
@@ -1002,6 +1052,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/ctenabler/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -1030,7 +1082,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/Detach/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": "https://raw.githubusercontent.com/xerta555/Detach-Files/blob/master/Updater.json",
             "last_update": 1643991324000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Detach/master/README.md",
             "stars": 226,
@@ -1041,6 +1093,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/Detach/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -1069,7 +1123,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/disable-mdnsd/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1559311937000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/disable-mdnsd/master/README.md",
             "stars": 9,
@@ -1080,6 +1134,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/disable-mdnsd/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -1108,7 +1164,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/disable-screenshot-camera-sounds/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1576219272000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/disable-screenshot-camera-sounds/master/README.md",
             "stars": 10,
@@ -1119,6 +1175,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/disable-screenshot-camera-sounds/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -1147,7 +1205,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/djs/archive/master.zip",
             "valid": true,
             "verified": true,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1639485482000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/djs/master/README.md",
             "stars": 40,
@@ -1158,6 +1216,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/djs/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -1186,7 +1246,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/energizedprotection/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1644066160000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/energizedprotection/master/README.md",
             "stars": 275,
@@ -1197,6 +1257,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/energizedprotection/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -1225,7 +1287,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/ExSDCard/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1603352462000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ExSDCard/master/README.md",
             "stars": 46,
@@ -1236,6 +1298,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/ExSDCard/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -1264,7 +1328,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/Fdroid-Priv/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1626865690000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Fdroid-Priv/master/README.md",
             "stars": 118,
@@ -1275,6 +1339,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/Fdroid-Priv/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -1303,7 +1369,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/foxy-boot/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1558352762000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/foxy-boot/master/README.md",
             "stars": 19,
@@ -1314,6 +1380,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/foxy-boot/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -1342,7 +1410,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/G-VisualMod/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1612675127000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/G-VisualMod/master/README.md",
             "stars": 331,
@@ -1353,6 +1421,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/G-VisualMod/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -1381,7 +1451,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/GoogleDialerFramework/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Repo/GoogleDialerFramework/master/update_info.json",
             "last_update": 1666307084000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/GoogleDialerFramework/master/README.md",
             "stars": 62,
@@ -1392,6 +1462,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/GoogleDialerFramework/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -1420,7 +1492,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/HEVCEnabler/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1558593884000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/HEVCEnabler/master/README.md",
             "stars": 15,
@@ -1431,6 +1503,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/HEVCEnabler/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -1459,7 +1533,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/hidden_settings/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1577599943000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/hidden_settings/master/README.md",
             "stars": 30,
@@ -1470,6 +1544,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/hidden_settings/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -1498,7 +1574,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/HideGesBar/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1592364980000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/HideGesBar/master/README.md",
             "stars": 4,
@@ -1509,6 +1585,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/HideGesBar/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -1537,7 +1615,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/HideNavBar/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1661404564000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/HideNavBar/master/README.md",
             "stars": 459,
@@ -1548,6 +1626,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/HideNavBar/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -1576,7 +1656,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/IPControl/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1569912326000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/IPControl/master/README.md",
             "stars": 60,
@@ -1587,6 +1667,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/IPControl/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -1615,7 +1697,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/KaliNethunter/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1565052950000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/KaliNethunter/master/README.md",
             "stars": 241,
@@ -1626,6 +1708,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/KaliNethunter/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -1654,7 +1738,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/kfmark/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1561546153000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/kfmark/master/README.md",
             "stars": 2,
@@ -1665,6 +1749,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/kfmark/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -1693,7 +1779,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/liboemcryptodisabler/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1608463908000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/liboemcryptodisabler/master/README.md",
             "stars": 80,
@@ -1704,6 +1790,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/liboemcryptodisabler/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -1732,7 +1820,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/libsecure_storage/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1589034549000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/libsecure_storage/master/README.md",
             "stars": 9,
@@ -1743,6 +1831,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/libsecure_storage/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -1771,7 +1861,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/logcat/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1556251162000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/logcat/master/README.md",
             "stars": 8,
@@ -1782,6 +1872,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/logcat/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -1810,7 +1902,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/magisk-drm-disabler/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1612778235000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/magisk-drm-disabler/master/README.md",
             "stars": 48,
@@ -1821,6 +1913,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/magisk-drm-disabler/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -1849,7 +1943,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1673294532000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/README.md",
             "stars": 1827,
@@ -1860,6 +1954,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -1888,7 +1984,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/microG_installer/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1643402148000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/microG_installer/master/README.md",
             "stars": 71,
@@ -1899,6 +1995,8 @@
                 "issues": null
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -1927,7 +2025,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/miracast-enabler/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1563509191000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/miracast-enabler/master/README.md",
             "stars": 19,
@@ -1938,6 +2036,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/miracast-enabler/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -1966,7 +2066,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/miui-10-sounds/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1621965138000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/miui-10-sounds/master/README.md",
             "stars": 6,
@@ -1977,6 +2077,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/miui-10-sounds/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -2005,7 +2107,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/mm/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1554374616000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/mm/master/README.md",
             "stars": 156,
@@ -2016,6 +2118,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/mm/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -2044,7 +2148,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/motoclockwidget/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1594398059000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/motoclockwidget/master/README.md",
             "stars": 7,
@@ -2055,6 +2159,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/motoclockwidget/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -2083,10 +2189,10 @@
             "download": "https://github.com/Magisk-Modules-Repo/movecert/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1656286469000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/movecert/master/README.md",
-            "stars": 542,
+            "stars": 543,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -2094,6 +2200,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/movecert/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -2118,11 +2226,11 @@
             "author": "osm0sis @ xda-developers",
             "description": "Static arm/arm64 mtd-utils (flash_erase, flash_lock, flash_unlock, nanddump and nandwrite) binaries for Android built with the NDK",
             "version": "2.1.6",
-            "versionCode": "2161",
-            "download": "https://xdaforums.com/attachments/update-mtd-utils-installer-v2-1-6-signed-zip.6031562/",
+            "versionCode": 2161,
+            "download": "https://github.com/Magisk-Modules-Repo/mtd-ndk/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": true,
+            "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Repo/mtd-ndk/master/update.json",
             "last_update": 1699714765000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/mtd-ndk/master/README.md",
             "stars": 45,
@@ -2133,6 +2241,8 @@
                 "issues": null
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -2156,12 +2266,12 @@
             "name": "Nano for Android NDK",
             "author": "osm0sis @ xda-developers",
             "description": "Static arm/arm64 nano binary for Android built with the NDK",
-            "version": "7.2",
-            "versionCode": "7204",
-            "download": "https://xdaforums.com/attachments/update-nano-terminal-editor-v7-2-signed-zip.6031024/",
+            "version": 7.2,
+            "versionCode": 7204,
+            "download": "https://github.com/Magisk-Modules-Repo/nano-ndk/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": true,
+            "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Repo/nano-ndk/master/update.json",
             "last_update": 1699585603000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/nano-ndk/master/README.md",
             "stars": 107,
@@ -2172,6 +2282,8 @@
                 "issues": null
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -2195,12 +2307,12 @@
             "name": "Nexus Media",
             "author": "osm0sis @ xda-developers",
             "description": "Replace ROM ringtones/notification/system sounds and bootanimation with those from old Nexus devices (chosen at flash-time)",
-            "version": "#device#",
-            "versionCode": "42",
-            "download": "https://xdaforums.com/attachments/update-nexus-media-installer-signed-zip.5919659/",
+            "version": "",
+            "versionCode": 42,
+            "download": "https://github.com/Magisk-Modules-Repo/nexusmedia/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": true,
+            "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Repo/nexusmedia/master/update.json",
             "last_update": 1699710844000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/nexusmedia/master/README.md",
             "stars": 22,
@@ -2211,6 +2323,8 @@
                 "issues": null
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -2239,7 +2353,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/NfcScreenOff/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1646764356000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/NfcScreenOff/master/README.md",
             "stars": 44,
@@ -2250,6 +2364,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/NfcScreenOff/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -2278,7 +2394,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/noneDisplayCutout/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1612255684000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/noneDisplayCutout/master/README.md",
             "stars": 26,
@@ -2289,6 +2405,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/noneDisplayCutout/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -2317,7 +2435,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/OneController/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1676679789000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/OneController/master/README.md",
             "stars": 194,
@@ -2328,6 +2446,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/OneController/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -2356,7 +2476,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/OneUISounds/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1563026586000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/OneUISounds/master/README.md",
             "stars": 6,
@@ -2367,6 +2487,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/OneUISounds/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -2395,7 +2517,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/oosbar/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1637769337000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/oosbar/master/README.md",
             "stars": 8,
@@ -2406,6 +2528,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/oosbar/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -2434,7 +2558,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/overlayfix/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1637106254000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/overlayfix/master/README.md",
             "stars": 24,
@@ -2445,6 +2569,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/overlayfix/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -2473,7 +2599,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/Oxy-ify/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1600714096000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Oxy-ify/master/README.md",
             "stars": 27,
@@ -2484,6 +2610,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/Oxy-ify/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -2512,7 +2640,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/Pix3lify/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1570707773000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Pix3lify/master/README.md",
             "stars": 106,
@@ -2523,6 +2651,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/Pix3lify/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -2551,7 +2681,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/PIXELARITY/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1585933115000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/PIXELARITY/master/README.md",
             "stars": 17,
@@ -2562,6 +2692,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/PIXELARITY/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -2590,7 +2722,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/PS4RE/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1560369370000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/PS4RE/master/README.md",
             "stars": 4,
@@ -2601,6 +2733,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/PS4RE/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -2629,7 +2763,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/quickstepswitcher/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1635597762000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/quickstepswitcher/master/README.md",
             "stars": 34,
@@ -2640,6 +2774,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/quickstepswitcher/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -2668,7 +2804,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/riru-core/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1639570144000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/riru-core/master/README.md",
             "stars": 145,
@@ -2679,6 +2815,8 @@
                 "issues": null
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -2707,7 +2845,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/riru_edxposed/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1613616737000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/riru_edxposed/master/README.md",
             "stars": 72,
@@ -2718,6 +2856,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/riru_edxposed/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -2746,7 +2886,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/riru_location_report_enabler/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1616410697000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/riru_location_report_enabler/master/README.md",
             "stars": 11,
@@ -2757,6 +2897,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/riru_location_report_enabler/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -2785,7 +2927,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/riru_lsposed/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1638705863000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/riru_lsposed/master/README.md",
             "stars": 195,
@@ -2796,6 +2938,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/riru_lsposed/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -2824,7 +2968,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/riru_storage_redirect/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1632298657000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/riru_storage_redirect/master/README.md",
             "stars": 56,
@@ -2835,6 +2979,8 @@
                 "issues": null
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -2863,7 +3009,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/sap/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1573497054000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/sap/master/README.md",
             "stars": 0,
@@ -2874,6 +3020,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/sap/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -2902,7 +3050,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/sony-device-dummy/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1579234586000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/sony-device-dummy/master/README.md",
             "stars": 19,
@@ -2913,6 +3061,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/sony-device-dummy/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -2941,7 +3091,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/sonymusic/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1587373770000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/sonymusic/master/README.md",
             "stars": 7,
@@ -2952,6 +3102,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/sonymusic/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -2980,7 +3132,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/sqlite3/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1553868882000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/sqlite3/master/README.md",
             "stars": 19,
@@ -2991,6 +3143,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/sqlite3/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -3019,7 +3173,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/ssh/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": "https://gitlab.com/d4rcm4rc/MagiskSSH/-/raw/master/update.json",
             "last_update": 1691227633000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ssh/master/README.md",
             "stars": 157,
@@ -3030,6 +3184,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/ssh/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -3058,7 +3214,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/Systemless_TZData/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1612729412000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Systemless_TZData/master/README.md",
             "stars": 22,
@@ -3069,6 +3225,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/Systemless_TZData/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -3097,7 +3255,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/tcpdump_static_aarch64/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1581418007000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/tcpdump_static_aarch64/master/README.md",
             "stars": 7,
@@ -3108,6 +3266,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/tcpdump_static_aarch64/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -3136,7 +3296,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/terminalmods/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1659728121000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminalmods/master/README.md",
             "stars": 55,
@@ -3147,6 +3307,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/terminalmods/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -3175,7 +3337,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/terminal_debloater/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1578134354000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminal_debloater/master/README.md",
             "stars": 200,
@@ -3186,6 +3348,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/terminal_debloater/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -3214,7 +3378,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/terminal_systemizer/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1571840288000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminal_systemizer/master/README.md",
             "stars": 262,
@@ -3225,6 +3389,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/terminal_systemizer/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -3253,7 +3419,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/twrp-helper/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1560196409000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/twrp-helper/master/README.md",
             "stars": 25,
@@ -3264,6 +3430,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/twrp-helper/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -3288,11 +3456,11 @@
             "author": "osm0sis @ xda-developers",
             "description": "Keep TWRP installed after an A/B OTA - Flash this after each OTA has installed, but before you install Magisk to Inactive Slot from the Magisk app",
             "version": "Magisk",
-            "versionCode": "2",
-            "download": "https://xdaforums.com/attachments/twrp_a_b_retention_script-magisk-1-zip.6029124/",
+            "versionCode": 1,
+            "download": "https://github.com/Magisk-Modules-Repo/twrp-keep/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": true,
+            "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Repo/twrp-keep/master/update.json",
             "last_update": 1699137305000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/twrp-keep/master/README.md",
             "stars": 171,
@@ -3303,6 +3471,8 @@
                 "issues": null
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -3331,7 +3501,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/v2ray/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1644507409000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/v2ray/master/README.md",
             "stars": 322,
@@ -3342,6 +3512,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/v2ray/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -3370,7 +3542,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/ViPER4Android-FX/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1684942356000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ViPER4Android-FX/master/README.md",
             "stars": 374,
@@ -3381,6 +3553,8 @@
                 "issues": null
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -3409,7 +3583,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/ViPER4AndroidFX-Legacy/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1565532645000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ViPER4AndroidFX-Legacy/master/README.md",
             "stars": 29,
@@ -3420,6 +3594,8 @@
                 "issues": null
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -3448,7 +3624,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/ViPER4AndroidXHiFi/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1565532193000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ViPER4AndroidXHiFi/master/README.md",
             "stars": 3,
@@ -3459,6 +3635,8 @@
                 "issues": null
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -3487,7 +3665,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/vold-posix/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1573283495000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/vold-posix/master/README.md",
             "stars": 21,
@@ -3498,6 +3676,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/vold-posix/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -3526,7 +3706,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/WDAnimationcxair/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1613281622000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/WDAnimationcxair/master/README.md",
             "stars": 28,
@@ -3537,6 +3717,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/WDAnimationcxair/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -3565,7 +3747,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/wifi-bonding/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/wifi-bonding/version.json",
             "last_update": 1668440417000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/wifi-bonding/master/README.md",
             "stars": 442,
@@ -3576,6 +3758,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/wifi-bonding/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -3604,7 +3788,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/wifi5ghzdisabler/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1635503401000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/wifi5ghzdisabler/master/README.md",
             "stars": 9,
@@ -3615,6 +3799,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/wifi5ghzdisabler/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -3643,7 +3829,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/wirelessFirmware/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1604117671000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/wirelessFirmware/master/README.md",
             "stars": 33,
@@ -3654,6 +3840,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/wirelessFirmware/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -3682,7 +3870,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/xmlpak/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Repo/xmlpak/master/updater.json",
             "last_update": 1658425594000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/xmlpak/master/README.md",
             "stars": 146,
@@ -3693,6 +3881,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/xmlpak/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -3721,7 +3911,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/xposed/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1556686471000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/xposed/master/README.md",
             "stars": 115,
@@ -3732,6 +3922,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/xposed/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -3760,7 +3952,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/xposed_dalvik/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1580548677000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/xposed_dalvik/master/README.md",
             "stars": 7,
@@ -3771,6 +3963,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/xposed_dalvik/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -3795,11 +3989,11 @@
             "author": "osm0sis & topjohnwu @ xda-developers",
             "description": "Wrapped dexed zipsigner.jar, and static arm/arm64 zip and zipalign binaries for Android built with the NDK",
             "version": "3.0-13",
-            "versionCode": "301302",
-            "download": "https://xdaforums.com/attachments/update-zipsigner-installer-v3-0-13-signed-zip.6030016/",
+            "versionCode": 301302,
+            "download": "https://github.com/Magisk-Modules-Repo/zipsigner/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": true,
+            "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Repo/zipsigner/master/update.json",
             "last_update": 1699366374000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/zipsigner/master/README.md",
             "stars": 55,
@@ -3810,6 +4004,8 @@
                 "issues": null
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
@@ -3838,7 +4034,7 @@
             "download": "https://github.com/Magisk-Modules-Repo/zsh_arm64/archive/master.zip",
             "valid": true,
             "verified": false,
-            "hasUpdateJson": false,
+            "updateJson": null,
             "last_update": 1565287472000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/zsh_arm64/master/README.md",
             "stars": 9,
@@ -3849,6 +4045,8 @@
                 "issues": "https://github.com/Magisk-Modules-Repo/zsh_arm64/issues"
             },
             "mmrl": {
+                "author": null,
+                "contributors": null,
                 "cover": null,
                 "logo": null,
                 "screenshots": null,
