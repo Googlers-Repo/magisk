@@ -26,6 +26,9 @@ repos = user.get_repos()
 fverified = open('verified.json')
 verified = json.load(fverified)
 
+f_user_verified = open('user_verified.json')
+user_verified = json.load(f_user_verified)
+
 # Skeleton for the repository
 meta = {
     # Fetch the last repository update
@@ -45,13 +48,39 @@ def does_object_exists(repo: Repository, object_path: str) -> bool:
     except github.UnknownObjectException:
         return False
 
-def get_json(repo: Repository, file: str, key: str):
+def get_mmrl_json(repo: Repository, key: str, default: str | None) -> str | None:
     try:
-        jsonfile = repo.get_contents(file)
+        jsonfile = repo.get_contents("mmrl.json")
         jsonfile_raw = jsonfile.decoded_content.decode("UTF-8")
         return json.loads(jsonfile_raw)[key]
     except:
+        return default
+
+def get_user(username: str | None):
+    if not (username is None):
+        _user = g.get_user(username)
+        return {
+            "name": _user.login,
+            "avatar": _user.avatar_url,
+            "bio": _user.bio,
+            "followers": _user.followers,
+            "verified": _user.login in user_verified,
+        }
+    else:
         return None
+
+def get_contri(usernames: any):
+    if not (usernames is None):
+        contributors = []
+        for username in usernames:
+            try:
+                contributors.append(get_user(username))
+            except:
+                continue
+        return contributors
+    else:
+        return None
+
 
 def make_module_json(repo: Repository):
     if does_object_exists(repo, "module.prop"):
@@ -69,34 +98,20 @@ def make_module_json(repo: Repository):
         # Get the timestamp of the last update
         last_update_timestamp = datetime.timestamp(last_update_datetime)
 
-        details = {
-            "version": properties.get("version"),
-            "versionCode": properties.get("versionCode"),
-            "download": f"https://github.com/{repo.full_name}/archive/{repo.default_branch}.zip",
-        }
-
-        if does_object_exists(repo, "update.json"):
-            details = {
-                "version": get_json(repo, "update.json", "version"),
-                "versionCode": get_json(repo, "update.json", "versionCode"),
-                "download": get_json(repo, "update.json", "zipUrl"),
-            }
-
         mod_id = properties.get("id")
-        desc = properties.get("description")
-        desc_override = get_json(repo, "mmrl.json", "description")
-        
+
         module = {
             "id": mod_id,
             "name": properties.get("name"),
             "author": properties.get("author"),
-            "description": desc_override if not (desc_override is None) else desc,
-            **details,
+            "description": get_mmrl_json(repo, "description", properties.get("description")),
+            "version": properties.get("version"),
+            "versionCode": properties.get("versionCode"),
+            "download": f"https://github.com/{repo.full_name}/archive/{repo.default_branch}.zip",
             # Check if META-INF folder exists, which is required to install modules
             "valid": does_object_exists(repo, "META-INF"),
             "verified": mod_id in verified,
-            # Check if a update.json exists
-            "hasUpdateJson": does_object_exists(repo, "update.json"),
+            "updateJson": properties.get("updateJson"),
             "last_update": int(last_update_timestamp * 1000),
             "readme": f"https://raw.githubusercontent.com/{repo.full_name}/{repo.default_branch}/README.md",
             "stars": int(repo.stargazers_count),
@@ -108,11 +123,13 @@ def make_module_json(repo: Repository):
                 "issues": f"{repo.html_url}/issues" if repo.has_issues else None,
             },
             "mmrl": {
-                "cover": get_json(repo, "mmrl.json", "cover"),
-                "logo": get_json(repo, "mmrl.json", "logo"),
-                "screenshots": get_json(repo, "mmrl.json", "screenshots"),
-                "categories": get_json(repo, "mmrl.json", "categories"),
-                "require": get_json(repo, "mmrl.json", "require")
+                "author": get_user(get_mmrl_json(repo, "author", None)),
+                "contributors": get_contri(get_mmrl_json(repo, "contributors", None)),
+                "cover": get_mmrl_json(repo, "cover", None),
+                "logo": get_mmrl_json(repo, "logo", None),
+                "screenshots": get_mmrl_json(repo, "screenshots", None),
+                "categories": get_mmrl_json(repo, "categories", None),
+                "require": get_mmrl_json(repo, "require", None)
             },
             "fox": {
                 "minApi": properties.get("minApi"),
@@ -146,7 +163,6 @@ if not REPO_EXTRA_TRACKS  == "":
 
     for item in json_array:
         try:
-            g = Github(GIT_TOKEN)
             user = g.get_user(item["user"])
             repo = user.get_repo(item["repo"])
             make_module_json(repo)
@@ -158,3 +174,4 @@ f = open(f"{REPO_SCOPE}.json", "w")
 f.write(json.dumps(meta, indent=4))
 f.close()
 fverified.close()
+f_user_verified.close()

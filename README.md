@@ -29,6 +29,8 @@ Your module `last_updated` will be updated when you change something in the `mod
 
 [MMRL][MMRL] allows you to configure:
 
+- `author` - github username (string)
+- `contributors` - github usernames (array)
 - `logo` - url (string)
 - `cover` - url (string)
 - `screenshots` - url (array)
@@ -42,22 +44,20 @@ Example
 
 ```json
 {
-    "logo": "https://github.com/DerGoogler/MMRL/blob/master/Android/app/src/main/ic_launcher-playstore.png?raw=true",
-    "cover": "https://mmrl.dergoogler.com/assets/MMRL-Cover.png",
+    "author": "DerGoogler",
+    "contributors": ["vhqtvn", "coder"],
+    "logo": "https://avatars.githubusercontent.com/u/95932066?s=200&v=4",
+    "cover": "https://coder.com/og-image.png",
     "screenshots": [
-        "https://github.com/Googlers-Repo/googlers-repo.github.io/assets/54764558/f5b7d396-781e-463a-b4ed-dc345cc15ba3I",
-        "https://github.com/Googlers-Repo/googlers-repo.github.io/assets/54764558/0a03c54a-3064-4ed0-a69b-90db437bd9f0",
-        "https://github.com/Googlers-Repo/googlers-repo.github.io/assets/54764558/8fbc9621-fe85-4b66-8070-271599f87d38"
+        "https://raw.githubusercontent.com/coder/code-server/main/docs/assets/screenshot-1.png",
+        "https://raw.githubusercontent.com/coder/code-server/main/docs/assets/screenshot-2.png"
     ],
     "categories": [
         "Tools",
-        "System",
-        "Configurable"
+        "Customization",
+        "Miscellaneous"
     ],
-    "require": [
-        "mkshrc",
-        "gcc_on_android"
-    ]
+    "require": ["mkshrc", "node_on_android"]
 }
 ```
 
@@ -69,4 +69,8 @@ Modules that are managed by **Googlers Repo**, **Der_Googler (DerGoogler)** etc 
 
 ## Request a module verification
 
-Module verification request currently aren't open. 
+Module verification request currently aren't open.
+
+## Request a developer verification
+
+Developer verification request currently aren't open.
