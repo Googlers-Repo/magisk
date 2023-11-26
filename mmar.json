@@ -2600,7 +2600,7 @@
             "valid": true,
             "verified": true,
             "updateJson": null,
-            "last_update": 1700406810000,
+            "last_update": 1701020965000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/mkshrc/master/README.md",
             "stars": 29,
             "about": {
@@ -2610,7 +2610,13 @@
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/mkshrc/issues"
             },
             "mmrl": {
-                "author": null,
+                "author": {
+                    "name": "DerGoogler",
+                    "avatar": "https://avatars.githubusercontent.com/u/54764558?v=4",
+                    "bio": "21 y/o well known Android modder and Magisk/KernelSU developer from Germany.",
+                    "followers": 83,
+                    "verified": true
+                },
                 "contributors": null,
                 "cover": "https://miro.medium.com/v2/resize:fit:1200/format:png/1*R6CVgKDLTenXSGUxgt0t7Q.png",
                 "logo": null,
@@ -2731,7 +2737,7 @@
             "valid": true,
             "verified": true,
             "updateJson": null,
-            "last_update": 1700327868000,
+            "last_update": 1701020945000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/node/master/README.md",
             "stars": 36,
             "about": {
@@ -2741,7 +2747,13 @@
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/node/issues"
             },
             "mmrl": {
-                "author": null,
+                "author": {
+                    "name": "DerGoogler",
+                    "avatar": "https://avatars.githubusercontent.com/u/54764558?v=4",
+                    "bio": "21 y/o well known Android modder and Magisk/KernelSU developer from Germany.",
+                    "followers": 83,
+                    "verified": true
+                },
                 "contributors": null,
                 "cover": "https://github.com/DerGoogler/cdn/blob/master/images/Node.js.Cover.png?raw=true",
                 "logo": "https://avatars.githubusercontent.com/u/9950313?s=200&v=4",
@@ -4090,7 +4102,7 @@
             "valid": true,
             "verified": true,
             "updateJson": null,
-            "last_update": 1698271194000,
+            "last_update": 1701021094000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/xhhttp/master/README.md",
             "stars": 13,
             "about": {
@@ -4100,8 +4112,22 @@
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/xhhttp/issues"
             },
             "mmrl": {
-                "author": null,
-                "contributors": null,
+                "author": {
+                    "name": "DerGoogler",
+                    "avatar": "https://avatars.githubusercontent.com/u/54764558?v=4",
+                    "bio": "21 y/o well known Android modder and Magisk/KernelSU developer from Germany.",
+                    "followers": 83,
+                    "verified": true
+                },
+                "contributors": [
+                    {
+                        "name": "ducaale",
+                        "avatar": "https://avatars.githubusercontent.com/u/16341131?v=4",
+                        "bio": null,
+                        "followers": 66,
+                        "verified": false
+                    }
+                ],
                 "cover": null,
                 "logo": null,
                 "screenshots": [
