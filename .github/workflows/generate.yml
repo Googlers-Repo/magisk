@@ -1,9 +1,9 @@
 name: Generate MMAR Modules Meta JSON
 on:
-  push:
   workflow_dispatch:
   schedule:
-    - cron: '0 * * * *'
+    - cron: "0 */2 * * *"
+    
 
 permissions:
   contents: write
@@ -46,10 +46,10 @@ jobs:
           REPO_TITLE: Magisk Modules Alt Repo
           REPO_WEBSITE: https://github.com/Magisk-Modules-Alt-Repo
           REPO_SUPPORT: https://github.com/Magisk-Modules-Alt-Repo/json/issues
-          REPO_DONATE: null
+          REPO_DONATE: ""
           REPO_SUBMIT_MODULE: https://github.com/Magisk-Modules-Alt-Repo/submission
           REPO_SCOPE: mmar
-          REPO_EXTRA_TRACKS: null
+          REPO_EXTRA_TRACKS: ""
           GIT_TOKEN: "${{ secrets.TOKEN }}"
 
       - name: Generate GMR JSON
@@ -59,8 +59,8 @@ jobs:
           REPO_TITLE: Googlers Magisk Repo
           REPO_WEBSITE: https://github.com/Googlers-Repo
           REPO_SUPPORT: https://github.com/Googlers-Repo/json/issues
-          REPO_DONATE: null
-          REPO_SUBMIT_MODULE: null
+          REPO_DONATE: ""
+          REPO_SUBMIT_MODULE: ""
           REPO_SCOPE: gmr
           REPO_EXTRA_TRACKS: gmr-tracks
           GIT_TOKEN: "${{ secrets.TOKEN }}"
@@ -71,11 +71,11 @@ jobs:
           REPO_NAME: Magisk-Modules-Repo
           REPO_TITLE: Magisk Modules Repo (Official)
           REPO_WEBSITE: https://github.com/Magisk-Modules-Repo
-          REPO_SUPPORT: null
-          REPO_DONATE: null
-          REPO_SUBMIT_MODULE: null
+          REPO_SUPPORT: ""
+          REPO_DONATE: ""
+          REPO_SUBMIT_MODULE: ""
           REPO_SCOPE: mmr
-          REPO_EXTRA_TRACKS: null
+          REPO_EXTRA_TRACKS: ""
           GIT_TOKEN: "${{ secrets.TOKEN }}"
 
       # Migrates
