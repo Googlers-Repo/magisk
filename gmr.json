@@ -146,7 +146,7 @@
             "valid": true,
             "verified": true,
             "hasUpdateJson": false,
-            "last_update": 1701000916000,
+            "last_update": 1701007182000,
             "readme": "https://raw.githubusercontent.com/Googlers-Repo/mmrl_install_tools/master/README.md",
             "stars": 4,
             "about": {
@@ -351,7 +351,7 @@
             "hasUpdateJson": false,
             "last_update": 1700312602000,
             "readme": "https://raw.githubusercontent.com/VR-25/acc/dev/README.md",
-            "stars": 1316,
+            "stars": 1317,
             "about": {
                 "repo_source": "Googlers Magisk Repo",
                 "language": "Shell",
@@ -429,7 +429,7 @@
             "hasUpdateJson": false,
             "last_update": 1699281243000,
             "readme": "https://raw.githubusercontent.com/cuynu/gphotos-unlimited-zygisk/master/README.md",
-            "stars": 127,
+            "stars": 128,
             "about": {
                 "repo_source": "Googlers Magisk Repo",
                 "language": "C++",

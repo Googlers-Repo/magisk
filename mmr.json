@@ -136,7 +136,7 @@
             "hasUpdateJson": true,
             "last_update": 1698679366000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/README.md",
-            "stars": 343,
+            "stars": 344,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -799,7 +799,7 @@
             "hasUpdateJson": false,
             "last_update": 1691966533000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ccbins/master/README.md",
-            "stars": 99,
+            "stars": 100,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -1852,7 +1852,7 @@
             "hasUpdateJson": false,
             "last_update": 1673294532000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/README.md",
-            "stars": 1826,
+            "stars": 1827,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -2164,7 +2164,7 @@
             "hasUpdateJson": true,
             "last_update": 1699585603000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/nano-ndk/master/README.md",
-            "stars": 106,
+            "stars": 107,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -2515,7 +2515,7 @@
             "hasUpdateJson": false,
             "last_update": 1570707773000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Pix3lify/master/README.md",
-            "stars": 105,
+            "stars": 106,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -3217,7 +3217,7 @@
             "hasUpdateJson": false,
             "last_update": 1571840288000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminal_systemizer/master/README.md",
-            "stars": 261,
+            "stars": 262,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
