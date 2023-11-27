@@ -921,7 +921,7 @@
             "updateJson": "https://raw.githubusercontent.com/xerta555/CloudflareDNS4Magisk-IPv6/master/Update.json",
             "last_update": 1673388770000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/CloudflareDNS4Magisk-IPv6/master/README.md",
-            "stars": 42,
+            "stars": 43,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
