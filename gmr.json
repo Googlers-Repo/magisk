@@ -353,7 +353,7 @@
             "updateJson": "https://raw.githubusercontent.com/symbuzzer/livebootmodule/main/update.json",
             "last_update": 1691177129000,
             "readme": "https://raw.githubusercontent.com/symbuzzer/livebootmodule/main/README.md",
-            "stars": 18,
+            "stars": 19,
             "about": {
                 "repo_source": "Googlers Magisk Repo",
                 "language": "Shell",
