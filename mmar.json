@@ -2561,7 +2561,7 @@
             "updateJson": null,
             "last_update": 1694329738000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MiXplorer/main/README.md",
-            "stars": 178,
+            "stars": 177,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
@@ -3653,7 +3653,7 @@
             "updateJson": "https://tsukimio.github.io/systemui-bootloop/update.json",
             "last_update": 1643775613000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/systemui-bootloop/main/README.md",
-            "stars": 24,
+            "stars": 25,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
