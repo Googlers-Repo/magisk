@@ -880,7 +880,7 @@
             "updateJson": null,
             "last_update": 1673388734000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/CloudflareDNS4Magisk/master/README.md",
-            "stars": 101,
+            "stars": 102,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -1085,7 +1085,7 @@
             "updateJson": "https://raw.githubusercontent.com/xerta555/Detach-Files/blob/master/Updater.json",
             "last_update": 1643991324000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Detach/master/README.md",
-            "stars": 226,
+            "stars": 227,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
