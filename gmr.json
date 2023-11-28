@@ -87,7 +87,7 @@
                         "name": "coder",
                         "avatar": "https://avatars.githubusercontent.com/u/95932066?v=4",
                         "bio": "Coder provisions software development environments via Terraform on Linux, macOS, Windows, X86, ARM, and of course, Kubernetes.",
-                        "followers": 742,
+                        "followers": 743,
                         "verified": false
                     }
                 ],
@@ -167,13 +167,13 @@
             "name": "MMRL Install Tools",
             "author": "Der_Googler",
             "description": "Required module if you want to install modules from Explore",
-            "version": "1.4.4",
-            "versionCode": 144,
+            "version": "1.4.5",
+            "versionCode": 145,
             "download": "https://github.com/Googlers-Repo/mmrl_install_tools/archive/master.zip",
             "valid": true,
             "verified": true,
             "updateJson": null,
-            "last_update": 1701008083000,
+            "last_update": 1701168840000,
             "readme": "https://raw.githubusercontent.com/Googlers-Repo/mmrl_install_tools/master/README.md",
             "stars": 5,
             "about": {
