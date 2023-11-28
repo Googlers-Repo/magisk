@@ -1618,7 +1618,7 @@
             "updateJson": null,
             "last_update": 1661404564000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/HideNavBar/master/README.md",
-            "stars": 460,
+            "stars": 461,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -3668,7 +3668,7 @@
             "updateJson": null,
             "last_update": 1573283495000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/vold-posix/master/README.md",
-            "stars": 21,
+            "stars": 22,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
