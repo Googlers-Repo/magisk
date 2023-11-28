@@ -142,7 +142,7 @@
             "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/update.json",
             "last_update": 1698679366000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/README.md",
-            "stars": 344,
+            "stars": 345,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -880,7 +880,7 @@
             "updateJson": null,
             "last_update": 1673388734000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/CloudflareDNS4Magisk/master/README.md",
-            "stars": 102,
+            "stars": 103,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
