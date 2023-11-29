@@ -1659,7 +1659,7 @@
             "updateJson": null,
             "last_update": 1569912326000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/IPControl/master/README.md",
-            "stars": 60,
+            "stars": 61,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -2192,7 +2192,7 @@
             "updateJson": null,
             "last_update": 1656286469000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/movecert/master/README.md",
-            "stars": 545,
+            "stars": 546,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -2356,7 +2356,7 @@
             "updateJson": null,
             "last_update": 1646764356000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/NfcScreenOff/master/README.md",
-            "stars": 44,
+            "stars": 45,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
