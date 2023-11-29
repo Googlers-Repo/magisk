@@ -476,7 +476,7 @@
             "updateJson": null,
             "last_update": 1699281243000,
             "readme": "https://raw.githubusercontent.com/cuynu/gphotos-unlimited-zygisk/master/README.md",
-            "stars": 131,
+            "stars": 132,
             "about": {
                 "repo_source": "Googlers Magisk Repo",
                 "language": "C++",
@@ -599,7 +599,7 @@
             "updateJson": null,
             "last_update": 1699087378000,
             "readme": "https://raw.githubusercontent.com/Rikj000/Magisk-Manager-for-Recovery-Mode/master/README.md",
-            "stars": 205,
+            "stars": 206,
             "about": {
                 "repo_source": "Googlers Magisk Repo",
                 "language": "Shell",
