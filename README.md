@@ -6,9 +6,9 @@ These are for [MMRL][MMRL]. Modules that don't include a `META-INF` folder will 
 
 Your module `last_updated` will be updated when you change something in the `module.prop`
 
-- [Magisk Modules Alt Repo](https://api.mmrl.dergoogler.com/magisk/mmar.json)
-- [Googlers Repo](https://api.mmrl.dergoogler.com/magisk/gmr.json)
-- [Magisk Modules Official Repo](https://api.mmrl.dergoogler.com/magisk/mmr.json)
+- [Magisk Modules Alt Repo](https://gr.dergoogler.com/magisk/mmar.json)
+- [Googlers Repo](https://gr.dergoogler.com/magisk/gmr.json)
+- [Magisk Modules Official Repo](https://gr.dergoogler.com/magisk/mmr.json)
 
 ## Use your `update.json`
 
