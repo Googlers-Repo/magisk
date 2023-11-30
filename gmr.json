@@ -87,7 +87,7 @@
                         "name": "coder",
                         "avatar": "https://avatars.githubusercontent.com/u/95932066?v=4",
                         "bio": "Coder provisions software development environments via Terraform on Linux, macOS, Windows, X86, ARM, and of course, Kubernetes.",
-                        "followers": 746,
+                        "followers": 747,
                         "verified": false
                     }
                 ],
@@ -394,7 +394,7 @@
             "updateJson": "https://raw.githubusercontent.com/VR-25/acc/master/module.json",
             "last_update": 1701327674000,
             "readme": "https://raw.githubusercontent.com/VR-25/acc/dev/README.md",
-            "stars": 1326,
+            "stars": 1325,
             "about": {
                 "repo_source": "Googlers Magisk Repo",
                 "language": "Shell",
@@ -435,7 +435,7 @@
             "updateJson": null,
             "last_update": 1639484648000,
             "readme": "https://raw.githubusercontent.com/VR-25/djs/master/README.md",
-            "stars": 77,
+            "stars": 76,
             "about": {
                 "repo_source": "Googlers Magisk Repo",
                 "language": "Shell",
