@@ -19,7 +19,7 @@
             "updateJson": "https://raw.githubusercontent.com/VR-25/acc/master/module.json",
             "last_update": 1697485290000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/acc/master/README.md",
-            "stars": 291,
+            "stars": 292,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -1618,7 +1618,7 @@
             "updateJson": null,
             "last_update": 1661404564000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/HideNavBar/master/README.md",
-            "stars": 461,
+            "stars": 462,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
