@@ -798,7 +798,7 @@
             "updateJson": "https://raw.githubusercontent.com/skvalex/callrecorder/updates/magisk.json",
             "last_update": 1699533888000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/callrecorder-skvalex/master/README.md",
-            "stars": 289,
+            "stars": 288,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -1946,7 +1946,7 @@
             "updateJson": null,
             "last_update": 1673294532000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/README.md",
-            "stars": 1828,
+            "stars": 1827,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
