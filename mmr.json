@@ -1249,7 +1249,7 @@
             "updateJson": null,
             "last_update": 1644066160000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/energizedprotection/master/README.md",
-            "stars": 276,
+            "stars": 277,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -3463,7 +3463,7 @@
             "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Repo/twrp-keep/master/update.json",
             "last_update": 1699137305000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/twrp-keep/master/README.md",
-            "stars": 172,
+            "stars": 173,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
