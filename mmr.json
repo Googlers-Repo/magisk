@@ -306,7 +306,7 @@
             "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ainur_narsil/master/update.json",
             "last_update": 1689053614000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ainur_narsil/master/README.md",
-            "stars": 111,
+            "stars": 110,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -3381,7 +3381,7 @@
             "updateJson": null,
             "last_update": 1571840288000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminal_systemizer/master/README.md",
-            "stars": 262,
+            "stars": 263,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
