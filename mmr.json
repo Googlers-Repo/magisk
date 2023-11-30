@@ -716,7 +716,7 @@
             "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/update.json",
             "last_update": 1699710957000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/README.md",
-            "stars": 774,
+            "stars": 775,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -1946,7 +1946,7 @@
             "updateJson": null,
             "last_update": 1673294532000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/README.md",
-            "stars": 1827,
+            "stars": 1828,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -3996,7 +3996,7 @@
             "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Repo/zipsigner/master/update.json",
             "last_update": 1699366374000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/zipsigner/master/README.md",
-            "stars": 56,
+            "stars": 57,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
