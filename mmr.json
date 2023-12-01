@@ -142,7 +142,7 @@
             "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/update.json",
             "last_update": 1698679366000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/README.md",
-            "stars": 345,
+            "stars": 346,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
