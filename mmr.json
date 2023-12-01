@@ -3750,7 +3750,7 @@
             "updateJson": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/wifi-bonding/version.json",
             "last_update": 1668440417000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/wifi-bonding/master/README.md",
-            "stars": 442,
+            "stars": 443,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
