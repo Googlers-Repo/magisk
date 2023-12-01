@@ -87,7 +87,7 @@
                         "name": "coder",
                         "avatar": "https://avatars.githubusercontent.com/u/95932066?v=4",
                         "bio": "Coder provisions software development environments via Terraform on Linux, macOS, Windows, X86, ARM, and of course, Kubernetes.",
-                        "followers": 748,
+                        "followers": 749,
                         "verified": false
                     }
                 ],
@@ -173,7 +173,7 @@
             "valid": true,
             "verified": true,
             "updateJson": null,
-            "last_update": 1701361830000,
+            "last_update": 1701441811000,
             "readme": "https://raw.githubusercontent.com/Googlers-Repo/mmrl_install_tools/master/README.md",
             "stars": 5,
             "about": {
@@ -394,7 +394,7 @@
             "updateJson": "https://raw.githubusercontent.com/VR-25/acc/master/module.json",
             "last_update": 1701327674000,
             "readme": "https://raw.githubusercontent.com/VR-25/acc/dev/README.md",
-            "stars": 1324,
+            "stars": 1325,
             "about": {
                 "repo_source": "Googlers Magisk Repo",
                 "language": "Shell",
@@ -599,7 +599,7 @@
             "updateJson": null,
             "last_update": 1701374675000,
             "readme": "https://raw.githubusercontent.com/Rikj000/Magisk-Manager-for-Recovery-Mode/master/README.md",
-            "stars": 207,
+            "stars": 208,
             "about": {
                 "repo_source": "Googlers Magisk Repo",
                 "language": "Shell",
