@@ -306,7 +306,7 @@
             "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ainur_narsil/master/update.json",
             "last_update": 1689053614000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ainur_narsil/master/README.md",
-            "stars": 110,
+            "stars": 109,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -716,7 +716,7 @@
             "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/update.json",
             "last_update": 1699710957000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/README.md",
-            "stars": 774,
+            "stars": 775,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
