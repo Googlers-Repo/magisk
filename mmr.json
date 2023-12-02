@@ -60,7 +60,7 @@
             "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Repo/acp/master/update.json",
             "last_update": 1643646579000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/acp/master/README.md",
-            "stars": 69,
+            "stars": 70,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -1946,7 +1946,7 @@
             "updateJson": null,
             "last_update": 1673294532000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/README.md",
-            "stars": 1831,
+            "stars": 1832,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
