@@ -1618,7 +1618,7 @@
             "updateJson": null,
             "last_update": 1661404564000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/HideNavBar/master/README.md",
-            "stars": 462,
+            "stars": 463,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -3832,7 +3832,7 @@
             "updateJson": null,
             "last_update": 1604117671000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/wirelessFirmware/master/README.md",
-            "stars": 33,
+            "stars": 34,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
