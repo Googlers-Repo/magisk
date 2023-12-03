@@ -224,7 +224,7 @@
             "updateJson": null,
             "last_update": 1693302157000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer/main/README.md",
-            "stars": 42,
+            "stars": 43,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
@@ -1952,47 +1952,6 @@
                 "language": "Shell",
                 "source": "https://github.com/Magisk-Modules-Alt-Repo/isodrive.git",
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/isodrive/issues"
-            },
-            "mmrl": {
-                "author": null,
-                "contributors": null,
-                "cover": null,
-                "logo": null,
-                "screenshots": null,
-                "categories": null,
-                "require": null
-            },
-            "fox": {
-                "minApi": null,
-                "maxApi": null,
-                "minMagisk": null,
-                "needRamdisk": null,
-                "support": null,
-                "donate": null,
-                "config": null,
-                "changeBoot": null,
-                "mmtReborn": null
-            }
-        },
-        {
-            "id": "KTSR",
-            "name": "King Tweaks Reborn\u2122",
-            "author": "pedro (pedrozzz0 @ GitHub)",
-            "description": null,
-            "version": "2.1.0-r1-(h4rm4nd3r",
-            "versionCode": 250,
-            "download": "https://github.com/Magisk-Modules-Alt-Repo/King-Tweaks/archive/master.zip",
-            "valid": false,
-            "verified": false,
-            "updateJson": null,
-            "last_update": 1659136922000,
-            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/King-Tweaks/master/README.md",
-            "stars": 23,
-            "about": {
-                "repo_source": "Magisk Modules Alt Repo",
-                "language": null,
-                "source": "https://github.com/Magisk-Modules-Alt-Repo/King-Tweaks.git",
-                "issues": "https://github.com/Magisk-Modules-Alt-Repo/King-Tweaks/issues"
             },
             "mmrl": {
                 "author": null,
