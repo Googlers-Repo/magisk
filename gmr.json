@@ -312,7 +312,7 @@
             "updateJson": "https://raw.githubusercontent.com/symbuzzer/systemless-hosts-KernelSU-module/main/update.json",
             "last_update": 1690045471000,
             "readme": "https://raw.githubusercontent.com/symbuzzer/systemless-hosts-KernelSU-module/main/README.md",
-            "stars": 99,
+            "stars": 100,
             "about": {
                 "repo_source": "Googlers Magisk Repo",
                 "language": "Shell",
@@ -353,7 +353,7 @@
             "updateJson": "https://raw.githubusercontent.com/symbuzzer/livebootmodule/main/update.json",
             "last_update": 1691177129000,
             "readme": "https://raw.githubusercontent.com/symbuzzer/livebootmodule/main/README.md",
-            "stars": 20,
+            "stars": 21,
             "about": {
                 "repo_source": "Googlers Magisk Repo",
                 "language": "Shell",
