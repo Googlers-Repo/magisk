@@ -69,7 +69,7 @@ Modules that are managed by **Googlers Repo**, **Der_Googler (DerGoogler)** etc 
 
 ## Request a module verification
 
-Module verification request currently aren't open.
+You can request a module verification [here](https://forms.gle/pMnx3P34oz4HTBtw8)
 
 ## Request a developer verification
 
