@@ -1413,7 +1413,7 @@
             "updateJson": "https://raw.githubusercontent.com/k3rnelpanik/FluentEmojiMagisk/main/update.json",
             "last_update": 1691803419000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/FluentEmojiMagisk/main/README.md",
-            "stars": 8,
+            "stars": 9,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
