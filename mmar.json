@@ -1577,7 +1577,7 @@
             "updateJson": "https://raw.githubusercontent.com/entr0pia/gboard_dict_3/master/update.json",
             "last_update": 1652865058000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/gboard-dict-3/master/README.md",
-            "stars": 40,
+            "stars": 41,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
