@@ -394,7 +394,7 @@
             "updateJson": "https://raw.githubusercontent.com/VR-25/acc/master/module.json",
             "last_update": 1701628989000,
             "readme": "https://raw.githubusercontent.com/VR-25/acc/dev/README.md",
-            "stars": 1326,
+            "stars": 1325,
             "about": {
                 "repo_source": "Googlers Magisk Repo",
                 "language": "Shell",
@@ -435,7 +435,7 @@
             "updateJson": null,
             "last_update": 1639484648000,
             "readme": "https://raw.githubusercontent.com/VR-25/djs/master/README.md",
-            "stars": 76,
+            "stars": 75,
             "about": {
                 "repo_source": "Googlers Magisk Repo",
                 "language": "Shell",
@@ -638,7 +638,7 @@
             "valid": true,
             "verified": false,
             "updateJson": null,
-            "last_update": 1701650599000,
+            "last_update": 1701654524000,
             "readme": "https://raw.githubusercontent.com/reiryuki/Sound-Enhancement-Sony-Xperia-10-Magisk-Module/main/README.md",
             "stars": 87,
             "about": {
