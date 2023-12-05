@@ -312,7 +312,7 @@
             "updateJson": "https://raw.githubusercontent.com/symbuzzer/systemless-hosts-KernelSU-module/main/update.json",
             "last_update": 1690045471000,
             "readme": "https://raw.githubusercontent.com/symbuzzer/systemless-hosts-KernelSU-module/main/README.md",
-            "stars": 102,
+            "stars": 103,
             "about": {
                 "repo_source": "Googlers Magisk Repo",
                 "language": "Shell",
@@ -558,7 +558,7 @@
             "updateJson": null,
             "last_update": 1644066160000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/energizedprotection/master/README.md",
-            "stars": 278,
+            "stars": 279,
             "about": {
                 "repo_source": "Googlers Magisk Repo",
                 "language": "Shell",

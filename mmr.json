@@ -921,7 +921,7 @@
             "updateJson": "https://raw.githubusercontent.com/xerta555/CloudflareDNS4Magisk-IPv6/master/Update.json",
             "last_update": 1673388770000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/CloudflareDNS4Magisk-IPv6/master/README.md",
-            "stars": 43,
+            "stars": 44,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -1249,7 +1249,7 @@
             "updateJson": null,
             "last_update": 1644066160000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/energizedprotection/master/README.md",
-            "stars": 278,
+            "stars": 279,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -3750,7 +3750,7 @@
             "updateJson": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/wifi-bonding/version.json",
             "last_update": 1668440417000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/wifi-bonding/master/README.md",
-            "stars": 443,
+            "stars": 444,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
