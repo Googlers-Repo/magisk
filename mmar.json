@@ -839,7 +839,7 @@
             "updateJson": "https://github.com/whalehub/custom-certificate-authorities/releases/latest/download/updateJson.json",
             "last_update": 1644751003000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/custom-certificate-authorities/master/README.md",
-            "stars": 40,
+            "stars": 41,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
