@@ -757,7 +757,7 @@
             "updateJson": null,
             "last_update": 1587032621000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/callrecorder-axet/master/README.md",
-            "stars": 61,
+            "stars": 62,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -880,7 +880,7 @@
             "updateJson": null,
             "last_update": 1673388734000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/CloudflareDNS4Magisk/master/README.md",
-            "stars": 103,
+            "stars": 104,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -921,7 +921,7 @@
             "updateJson": "https://raw.githubusercontent.com/xerta555/CloudflareDNS4Magisk-IPv6/master/Update.json",
             "last_update": 1673388770000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/CloudflareDNS4Magisk-IPv6/master/README.md",
-            "stars": 44,
+            "stars": 45,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -1659,7 +1659,7 @@
             "updateJson": null,
             "last_update": 1569912326000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/IPControl/master/README.md",
-            "stars": 61,
+            "stars": 62,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -2028,7 +2028,7 @@
             "updateJson": null,
             "last_update": 1563509191000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/miracast-enabler/master/README.md",
-            "stars": 19,
+            "stars": 20,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -2438,7 +2438,7 @@
             "updateJson": null,
             "last_update": 1676679789000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/OneController/master/README.md",
-            "stars": 196,
+            "stars": 197,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -2684,7 +2684,7 @@
             "updateJson": null,
             "last_update": 1585933115000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/PIXELARITY/master/README.md",
-            "stars": 17,
+            "stars": 18,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -3914,7 +3914,7 @@
             "updateJson": null,
             "last_update": 1556686471000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/xposed/master/README.md",
-            "stars": 115,
+            "stars": 116,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
