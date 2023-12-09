@@ -101,7 +101,7 @@
             "updateJson": "https://raw.githubusercontent.com/TukangM/AdGuardDNS4Magisk/main/update.json",
             "last_update": 1701597799000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/AdGuardDNS4Magisk/main/README.md",
-            "stars": 12,
+            "stars": 13,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
