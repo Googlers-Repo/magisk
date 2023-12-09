@@ -634,7 +634,7 @@
             "updateJson": null,
             "last_update": 1618613114000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/benchkit/master/README.md",
-            "stars": 63,
+            "stars": 64,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -1905,7 +1905,7 @@
             "updateJson": null,
             "last_update": 1612778235000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/magisk-drm-disabler/master/README.md",
-            "stars": 48,
+            "stars": 49,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
