@@ -33,7 +33,8 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null,
-                "require": null
+                "require": null,
+                "developerNote": null
             },
             "fox": {
                 "minApi": null,
@@ -105,7 +106,8 @@
                 "require": [
                     "mkshrc",
                     "node_on_android"
-                ]
+                ],
+                "developerNote": null
             },
             "fox": {
                 "minApi": null,
@@ -148,7 +150,8 @@
                 "categories": null,
                 "require": [
                     "mkshrc"
-                ]
+                ],
+                "developerNote": null
             },
             "fox": {
                 "minApi": null,
@@ -173,7 +176,7 @@
             "valid": true,
             "verified": true,
             "updateJson": null,
-            "last_update": 1701602941000,
+            "last_update": 1702203398000,
             "readme": "https://raw.githubusercontent.com/Googlers-Repo/mmrl_install_tools/master/README.md",
             "stars": 7,
             "about": {
@@ -203,7 +206,11 @@
                     "System",
                     "Configurable"
                 ],
-                "require": null
+                "require": null,
+                "developerNote": {
+                    "severity": "info",
+                    "note": "First installation? Then please install GitHub release first."
+                }
             },
             "fox": {
                 "minApi": 26,
@@ -244,7 +251,8 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null,
-                "require": null
+                "require": null,
+                "developerNote": null
             },
             "fox": {
                 "minApi": 2000,
@@ -285,7 +293,8 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null,
-                "require": null
+                "require": null,
+                "developerNote": null
             },
             "fox": {
                 "minApi": null,
@@ -326,7 +335,8 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null,
-                "require": null
+                "require": null,
+                "developerNote": null
             },
             "fox": {
                 "minApi": null,
@@ -367,7 +377,8 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null,
-                "require": null
+                "require": null,
+                "developerNote": null
             },
             "fox": {
                 "minApi": null,
@@ -408,7 +419,8 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null,
-                "require": null
+                "require": null,
+                "developerNote": null
             },
             "fox": {
                 "minApi": null,
@@ -449,7 +461,8 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null,
-                "require": null
+                "require": null,
+                "developerNote": null
             },
             "fox": {
                 "minApi": null,
@@ -476,7 +489,7 @@
             "updateJson": null,
             "last_update": 1699281243000,
             "readme": "https://raw.githubusercontent.com/cuynu/gphotos-unlimited-zygisk/master/README.md",
-            "stars": 145,
+            "stars": 146,
             "about": {
                 "repo_source": "Googlers Magisk Repo",
                 "language": "C++",
@@ -490,7 +503,8 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null,
-                "require": null
+                "require": null,
+                "developerNote": null
             },
             "fox": {
                 "minApi": null,
@@ -531,7 +545,8 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null,
-                "require": null
+                "require": null,
+                "developerNote": null
             },
             "fox": {
                 "minApi": null,
@@ -572,7 +587,8 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null,
-                "require": null
+                "require": null,
+                "developerNote": null
             },
             "fox": {
                 "minApi": null,
@@ -613,7 +629,8 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null,
-                "require": null
+                "require": null,
+                "developerNote": null
             },
             "fox": {
                 "minApi": null,
@@ -654,7 +671,8 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null,
-                "require": null
+                "require": null,
+                "developerNote": null
             },
             "fox": {
                 "minApi": null,
@@ -695,7 +713,8 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null,
-                "require": null
+                "require": null,
+                "developerNote": null
             },
             "fox": {
                 "minApi": null,
@@ -736,7 +755,8 @@
                 "logo": null,
                 "screenshots": null,
                 "categories": null,
-                "require": null
+                "require": null,
+                "developerNote": null
             },
             "fox": {
                 "minApi": null,
