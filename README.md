@@ -36,6 +36,7 @@ Your module `last_updated` will be updated when you change something in the `mod
 - `screenshots` - url (array)
 - `categories` - please see [`useCategories.ts`](https://github.com/DerGoogler/MMRL/blob/master/Website/src/hooks/useCategories.ts) which categories are available
 - `require` - module id (array)
+- `developerNote` - see example
 
 Example
 
@@ -57,7 +58,11 @@ Example
         "Customization",
         "Miscellaneous"
     ],
-    "require": ["mkshrc", "node_on_android"]
+    "require": ["mkshrc", "node_on_android"],
+    "developerNote": {
+        "severity": "info, success, warning or error",
+        "note": "Write here your note"
+    }
 }
 ```
 
