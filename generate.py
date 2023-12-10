@@ -129,7 +129,8 @@ def make_module_json(repo: Repository):
                 "logo": get_mmrl_json(repo, "logo", None),
                 "screenshots": get_mmrl_json(repo, "screenshots", None),
                 "categories": get_mmrl_json(repo, "categories", None),
-                "require": get_mmrl_json(repo, "require", None)
+                "require": get_mmrl_json(repo, "require", None),
+                "developerNote": get_mmrl_json(repo, "developerNote", None),
             },
             "fox": {
                 "minApi": properties.get("minApi"),
