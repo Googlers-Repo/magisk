@@ -1855,6 +1855,126 @@
             }
         },
         {
+            "id": "GoogleDNS4Magisk",
+            "name": "GoogleDNS4Magisk",
+            "author": "Rom, TukangM",
+            "description": "Using the \"Google DNS\" DNS system-lessly! As simple as that and block ads and trackers.",
+            "version": "v2.7f",
+            "versionCode": 27,
+            "download": "https://github.com/Magisk-Modules-Alt-Repo/GoogleDNS4Magisk/archive/main.zip",
+            "valid": true,
+            "verified": false,
+            "updateJson": "https://raw.githubusercontent.com/TukangM/GoogleDNS4Magisk/main/update.json",
+            "last_update": 1702290333000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GoogleDNS4Magisk/main/README.md",
+            "stars": 0,
+            "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/GoogleDNS4Magisk.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/GoogleDNS4Magisk/issues"
+            },
+            "mmrl": {
+                "author": {
+                    "name": "TukangM",
+                    "avatar": "https://avatars.githubusercontent.com/u/91467886?v=4",
+                    "bio": "2nd account @SayaAEP . making better world",
+                    "followers": 4,
+                    "verified": false
+                },
+                "contributors": [
+                    {
+                        "name": "xerta555",
+                        "avatar": "https://avatars.githubusercontent.com/u/20888017?v=4",
+                        "bio": null,
+                        "followers": 81,
+                        "verified": false
+                    }
+                ],
+                "cover": "https://i.postimg.cc/gkhhPvjJ/google.png",
+                "logo": null,
+                "screenshots": null,
+                "categories": [
+                    "Hosts Files",
+                    "Privacy Enhancements",
+                    "DNS Enchantment"
+                ],
+                "require": null,
+                "developerNote": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": "https://forum.xda-developers.com/t/module-cloudflaredns4magisk.3772375/",
+                "donate": "https://www.paypal.com/paypalme/romfr",
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "GoogleDNS4Magisk-IPv6",
+            "name": "GoogleDNS4Magisk-IPv6",
+            "author": "Rom, TukangM",
+            "description": "Using the \"Google DNS\" DNS system-lessly! As simple as that and block ads and trackers.",
+            "version": "v2.7f",
+            "versionCode": 27,
+            "download": "https://github.com/Magisk-Modules-Alt-Repo/GoogleDNS4Magisk-IPv6/archive/main.zip",
+            "valid": true,
+            "verified": false,
+            "updateJson": "https://raw.githubusercontent.com/TukangM/GoogleDNS4Magisk-IPv6/main/update.json",
+            "last_update": 1702290259000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GoogleDNS4Magisk-IPv6/main/README.md",
+            "stars": 0,
+            "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/GoogleDNS4Magisk-IPv6.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/GoogleDNS4Magisk-IPv6/issues"
+            },
+            "mmrl": {
+                "author": {
+                    "name": "TukangM",
+                    "avatar": "https://avatars.githubusercontent.com/u/91467886?v=4",
+                    "bio": "2nd account @SayaAEP . making better world",
+                    "followers": 4,
+                    "verified": false
+                },
+                "contributors": [
+                    {
+                        "name": "xerta555",
+                        "avatar": "https://avatars.githubusercontent.com/u/20888017?v=4",
+                        "bio": null,
+                        "followers": 81,
+                        "verified": false
+                    }
+                ],
+                "cover": "https://i.postimg.cc/gkhhPvjJ/google.png",
+                "logo": null,
+                "screenshots": null,
+                "categories": [
+                    "Hosts Files",
+                    "Privacy Enhancements",
+                    "DNS Enchantment"
+                ],
+                "require": null,
+                "developerNote": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": "https://forum.xda-developers.com/t/module-cloudflaredns4magisk.3772375/",
+                "donate": "https://www.paypal.com/paypalme/romfr",
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
             "id": "Google_Product_Sans_Font",
             "name": "Google Product Sans Font",
             "author": "solomon_rajan",
