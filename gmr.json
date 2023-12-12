@@ -81,14 +81,14 @@
                         "name": "vhqtvn",
                         "avatar": "https://avatars.githubusercontent.com/u/8930337?v=4",
                         "bio": null,
-                        "followers": 94,
+                        "followers": 95,
                         "verified": false
                     },
                     {
                         "name": "coder",
                         "avatar": "https://avatars.githubusercontent.com/u/95932066?v=4",
                         "bio": "Coder provisions software development environments via Terraform on Linux, macOS, Windows, X86, ARM, and of course, Kubernetes.",
-                        "followers": 762,
+                        "followers": 763,
                         "verified": false
                     }
                 ],
@@ -405,7 +405,7 @@
             "updateJson": "https://raw.githubusercontent.com/VR-25/acc/master/module.json",
             "last_update": 1701628989000,
             "readme": "https://raw.githubusercontent.com/VR-25/acc/dev/README.md",
-            "stars": 1343,
+            "stars": 1344,
             "about": {
                 "repo_source": "Googlers Magisk Repo",
                 "language": "Shell",
