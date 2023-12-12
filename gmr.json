@@ -321,7 +321,7 @@
             "updateJson": "https://raw.githubusercontent.com/symbuzzer/systemless-hosts-KernelSU-module/main/update.json",
             "last_update": 1701791691000,
             "readme": "https://raw.githubusercontent.com/symbuzzer/systemless-hosts-KernelSU-module/main/README.md",
-            "stars": 109,
+            "stars": 110,
             "about": {
                 "repo_source": "Googlers Magisk Repo",
                 "language": "Shell",
@@ -405,7 +405,7 @@
             "updateJson": "https://raw.githubusercontent.com/VR-25/acc/master/module.json",
             "last_update": 1701628989000,
             "readme": "https://raw.githubusercontent.com/VR-25/acc/dev/README.md",
-            "stars": 1342,
+            "stars": 1343,
             "about": {
                 "repo_source": "Googlers Magisk Repo",
                 "language": "Shell",
@@ -447,7 +447,7 @@
             "updateJson": null,
             "last_update": 1639484648000,
             "readme": "https://raw.githubusercontent.com/VR-25/djs/master/README.md",
-            "stars": 76,
+            "stars": 77,
             "about": {
                 "repo_source": "Googlers Magisk Repo",
                 "language": "Shell",
