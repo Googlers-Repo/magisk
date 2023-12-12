@@ -2491,7 +2491,7 @@
             "updateJson": "https://github.com/huskydg/magiskhide/releases/latest/download/update_release.json",
             "last_update": 1677950994000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MagiskHide/main/README.md",
-            "stars": 19,
+            "stars": 18,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
