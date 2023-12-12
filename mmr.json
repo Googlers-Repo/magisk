@@ -3967,7 +3967,7 @@
             "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Repo/xmlpak/master/updater.json",
             "last_update": 1658425594000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/xmlpak/master/README.md",
-            "stars": 147,
+            "stars": 148,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
