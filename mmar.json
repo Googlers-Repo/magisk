@@ -349,7 +349,7 @@
             "updateJson": null,
             "last_update": 1599015487000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/backup/master/README.md",
-            "stars": 36,
+            "stars": 37,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
@@ -3309,7 +3309,7 @@
             "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_webview/master/update.json",
             "last_update": 1698480699000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_webview/master/README.md",
-            "stars": 129,
+            "stars": 128,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
@@ -3897,7 +3897,7 @@
             "updateJson": "https://tsukimio.github.io/systemui-bootloop/update.json",
             "last_update": 1643775613000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/systemui-bootloop/main/README.md",
-            "stars": 25,
+            "stars": 26,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
