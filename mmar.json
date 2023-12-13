@@ -101,7 +101,7 @@
             "valid": true,
             "verified": false,
             "updateJson": "https://raw.githubusercontent.com/TukangM/AdGuardDNS4Magisk/main/update.json",
-            "last_update": 1701597799000,
+            "last_update": 1702463603000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/AdGuardDNS4Magisk/main/README.md",
             "stars": 13,
             "about": {
@@ -111,12 +111,30 @@
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/AdGuardDNS4Magisk/issues"
             },
             "mmrl": {
-                "author": null,
-                "contributors": null,
-                "cover": null,
+                "author": {
+                    "name": "TukangM",
+                    "avatar": "https://avatars.githubusercontent.com/u/91467886?v=4",
+                    "bio": "2nd account @SayaAEP . making better world",
+                    "followers": 4,
+                    "verified": false
+                },
+                "contributors": [
+                    {
+                        "name": "xerta555",
+                        "avatar": "https://avatars.githubusercontent.com/u/20888017?v=4",
+                        "bio": null,
+                        "followers": 81,
+                        "verified": false
+                    }
+                ],
+                "cover": "https://i.postimg.cc/nhM0RMkp/adguard.png",
                 "logo": null,
                 "screenshots": null,
-                "categories": null,
+                "categories": [
+                    "Adblocking and Hosts Files",
+                    "Privacy Enhancements",
+                    "DNS Enchantment"
+                ],
                 "require": null,
                 "developerNote": null
             },
@@ -143,7 +161,7 @@
             "valid": true,
             "verified": false,
             "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/AdGuardDNS4Magisk-IPv6/main/Update.json",
-            "last_update": 1701597712000,
+            "last_update": 1702463582000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/AdGuardDNS4Magisk-IPv6/main/README.md",
             "stars": 6,
             "about": {
@@ -153,12 +171,30 @@
                 "issues": "https://github.com/Magisk-Modules-Alt-Repo/AdGuardDNS4Magisk-IPv6/issues"
             },
             "mmrl": {
-                "author": null,
-                "contributors": null,
-                "cover": null,
+                "author": {
+                    "name": "TukangM",
+                    "avatar": "https://avatars.githubusercontent.com/u/91467886?v=4",
+                    "bio": "2nd account @SayaAEP . making better world",
+                    "followers": 4,
+                    "verified": false
+                },
+                "contributors": [
+                    {
+                        "name": "xerta555",
+                        "avatar": "https://avatars.githubusercontent.com/u/20888017?v=4",
+                        "bio": null,
+                        "followers": 81,
+                        "verified": false
+                    }
+                ],
+                "cover": "https://i.postimg.cc/nhM0RMkp/adguard.png",
                 "logo": null,
                 "screenshots": null,
-                "categories": null,
+                "categories": [
+                    "Adblocking and Hosts Files",
+                    "Privacy Enhancements",
+                    "DNS Enchantment"
+                ],
                 "require": null,
                 "developerNote": null
             },
