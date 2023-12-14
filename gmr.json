@@ -377,7 +377,7 @@
             "updateJson": "https://raw.githubusercontent.com/symbuzzer/livebootmodule/main/update.json",
             "last_update": 1702580314000,
             "readme": "https://raw.githubusercontent.com/symbuzzer/livebootmodule/main/README.md",
-            "stars": 22,
+            "stars": 23,
             "about": {
                 "repo_source": "Googlers Magisk Repo",
                 "language": "Shell",
@@ -553,7 +553,7 @@
             "updateJson": null,
             "last_update": 1700431696000,
             "readme": "https://raw.githubusercontent.com/NotZeetaa/YAKT/main/README.md",
-            "stars": 136,
+            "stars": 137,
             "about": {
                 "repo_source": "Googlers Magisk Repo",
                 "language": "Shell",
