@@ -131,6 +131,8 @@ def make_module_json(repo: Repository):
                 "categories": get_mmrl_json(repo, "categories", None),
                 "require": get_mmrl_json(repo, "require", None),
                 "developerNote": get_mmrl_json(repo, "developerNote", None),
+                "supportedRoots": properties.get("supportedRoots"),
+                "minKernelSU": properties.get("minKernelSU"),
             },
             "fox": {
                 "minApi": properties.get("minApi"),
