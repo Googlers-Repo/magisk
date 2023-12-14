@@ -34,7 +34,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": 34,
@@ -76,7 +78,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -136,7 +140,9 @@
                     "DNS Enchantment"
                 ],
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -196,7 +202,9 @@
                     "DNS Enchantment"
                 ],
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -238,7 +246,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -280,7 +290,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -322,7 +334,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -364,7 +378,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -406,7 +422,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -448,7 +466,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -490,7 +510,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -532,7 +554,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -574,7 +598,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -616,7 +642,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -658,7 +686,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -700,7 +730,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -742,7 +774,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -784,7 +818,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -826,7 +862,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -868,7 +906,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -910,7 +950,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -952,7 +994,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -994,7 +1038,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -1036,7 +1082,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -1078,7 +1126,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -1120,7 +1170,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -1162,7 +1214,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -1204,7 +1258,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -1246,7 +1302,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -1288,7 +1346,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -1330,7 +1390,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -1372,7 +1434,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -1414,7 +1478,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -1456,7 +1522,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -1498,7 +1566,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -1540,7 +1610,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -1582,7 +1654,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -1624,7 +1698,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -1666,7 +1742,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -1708,7 +1786,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -1750,7 +1830,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -1792,7 +1874,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -1834,7 +1918,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -1876,7 +1962,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -1936,7 +2024,9 @@
                     "DNS Enchantment"
                 ],
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -1996,7 +2086,9 @@
                     "DNS Enchantment"
                 ],
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -2038,7 +2130,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -2080,7 +2174,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -2122,7 +2218,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -2164,7 +2262,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -2206,7 +2306,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -2248,7 +2350,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -2290,7 +2394,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -2332,7 +2438,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -2374,7 +2482,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -2416,7 +2526,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -2458,7 +2570,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -2500,7 +2614,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -2542,7 +2658,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -2584,7 +2702,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -2626,7 +2746,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -2668,7 +2790,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -2710,7 +2834,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -2752,7 +2878,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": 14,
@@ -2794,7 +2922,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -2850,7 +2980,9 @@
                     "Tools"
                 ],
                 "require": [],
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -2892,7 +3024,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -2934,7 +3068,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -2988,7 +3124,9 @@
                 "require": [
                     "mkshrc"
                 ],
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": 23,
@@ -3030,7 +3168,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -3072,7 +3212,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -3114,7 +3256,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -3156,7 +3300,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -3198,7 +3344,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -3240,7 +3388,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -3282,7 +3432,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -3324,7 +3476,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -3366,7 +3520,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -3408,7 +3564,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -3450,7 +3608,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -3492,7 +3652,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -3534,7 +3696,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -3576,7 +3740,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -3618,7 +3784,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -3660,7 +3828,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -3702,7 +3872,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -3744,7 +3916,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -3786,7 +3960,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -3828,7 +4004,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -3870,7 +4048,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -3912,7 +4092,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -3954,7 +4136,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -3996,7 +4180,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -4038,7 +4224,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -4080,7 +4268,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -4122,7 +4312,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -4164,7 +4356,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -4206,7 +4400,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -4248,7 +4444,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -4290,7 +4488,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -4332,7 +4532,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -4392,7 +4594,9 @@
                     "System"
                 ],
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -4434,7 +4638,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -4476,7 +4682,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -4518,7 +4726,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -4560,7 +4770,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,

@@ -34,7 +34,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -107,7 +109,9 @@
                     "mkshrc",
                     "node_on_android"
                 ],
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -151,7 +155,9 @@
                 "require": [
                     "mkshrc"
                 ],
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -210,7 +216,9 @@
                 "developerNote": {
                     "severity": "info",
                     "note": "First installation? Then please install GitHub release first."
-                }
+                },
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": 26,
@@ -252,7 +260,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": 2000,
@@ -294,7 +304,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -321,7 +333,7 @@
             "updateJson": "https://raw.githubusercontent.com/symbuzzer/systemless-hosts-KernelSU-module/main/update.json",
             "last_update": 1701791691000,
             "readme": "https://raw.githubusercontent.com/symbuzzer/systemless-hosts-KernelSU-module/main/README.md",
-            "stars": 113,
+            "stars": 114,
             "about": {
                 "repo_source": "Googlers Magisk Repo",
                 "language": "Shell",
@@ -336,7 +348,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -378,7 +392,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -420,7 +436,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -462,7 +480,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -504,7 +524,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -546,7 +568,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -588,7 +612,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -630,7 +656,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -672,7 +700,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -714,7 +744,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
@@ -756,7 +788,9 @@
                 "screenshots": null,
                 "categories": null,
                 "require": null,
-                "developerNote": null
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
             },
             "fox": {
                 "minApi": null,
