@@ -1911,7 +1911,7 @@
             "updateJson": null,
             "last_update": 1608463908000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/liboemcryptodisabler/master/README.md",
-            "stars": 78,
+            "stars": 79,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -3407,7 +3407,7 @@
             "updateJson": "https://gitlab.com/d4rcm4rc/MagiskSSH/-/raw/master/update.json",
             "last_update": 1691227633000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ssh/master/README.md",
-            "stars": 160,
+            "stars": 161,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
