@@ -90,7 +90,7 @@
                         "name": "coder",
                         "avatar": "https://avatars.githubusercontent.com/u/95932066?v=4",
                         "bio": "Coder provisions software development environments via Terraform on Linux, macOS, Windows, X86, ARM, and of course, Kubernetes.",
-                        "followers": 768,
+                        "followers": 769,
                         "verified": false
                     }
                 ],
@@ -333,7 +333,7 @@
             "updateJson": "https://raw.githubusercontent.com/symbuzzer/systemless-hosts-KernelSU-module/main/update.json",
             "last_update": 1701791691000,
             "readme": "https://raw.githubusercontent.com/symbuzzer/systemless-hosts-KernelSU-module/main/README.md",
-            "stars": 114,
+            "stars": 115,
             "about": {
                 "repo_source": "Googlers Magisk Repo",
                 "language": "Shell",
