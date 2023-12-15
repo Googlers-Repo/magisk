@@ -767,7 +767,7 @@
             "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/update.json",
             "last_update": 1699710957000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/README.md",
-            "stars": 783,
+            "stars": 784,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -2087,7 +2087,7 @@
             "updateJson": null,
             "last_update": 1673294532000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/README.md",
-            "stars": 1843,
+            "stars": 1844,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -2439,7 +2439,7 @@
             "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Repo/nano-ndk/master/update.json",
             "last_update": 1699585603000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/nano-ndk/master/README.md",
-            "stars": 108,
+            "stars": 109,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -2835,7 +2835,7 @@
             "updateJson": null,
             "last_update": 1570707773000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Pix3lify/master/README.md",
-            "stars": 107,
+            "stars": 108,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -3627,7 +3627,7 @@
             "updateJson": null,
             "last_update": 1571840288000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminal_systemizer/master/README.md",
-            "stars": 266,
+            "stars": 267,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
