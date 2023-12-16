@@ -3989,7 +3989,7 @@
             "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/supl-replacer/master/update.json",
             "last_update": 1679340266000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/supl-replacer/master/README.md",
-            "stars": 27,
+            "stars": 28,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
