@@ -90,7 +90,7 @@
                         "name": "coder",
                         "avatar": "https://avatars.githubusercontent.com/u/95932066?v=4",
                         "bio": "Coder provisions software development environments via Terraform on Linux, macOS, Windows, X86, ARM, and of course, Kubernetes.",
-                        "followers": 771,
+                        "followers": 772,
                         "verified": false
                     }
                 ],
@@ -509,7 +509,7 @@
             "updateJson": null,
             "last_update": 1702488431000,
             "readme": "https://raw.githubusercontent.com/cuynu/gphotos-unlimited-zygisk/master/README.md",
-            "stars": 154,
+            "stars": 155,
             "about": {
                 "repo_source": "Googlers Magisk Repo",
                 "language": "C++",
