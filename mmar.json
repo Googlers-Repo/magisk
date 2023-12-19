@@ -2775,7 +2775,7 @@
             "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Malwack/main/update.json",
             "last_update": 1699482097000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Malwack/main/README.md",
-            "stars": 47,
+            "stars": 48,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
