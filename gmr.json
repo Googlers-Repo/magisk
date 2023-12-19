@@ -90,7 +90,7 @@
                         "name": "coder",
                         "avatar": "https://avatars.githubusercontent.com/u/95932066?v=4",
                         "bio": "Coder provisions software development environments via Terraform on Linux, macOS, Windows, X86, ARM, and of course, Kubernetes.",
-                        "followers": 772,
+                        "followers": 773,
                         "verified": false
                     }
                 ],
@@ -729,7 +729,7 @@
             "updateJson": null,
             "last_update": 1698282768000,
             "readme": "https://raw.githubusercontent.com/FerryAr/lhroot/master/README.md",
-            "stars": 139,
+            "stars": 140,
             "about": {
                 "repo_source": "Googlers Magisk Repo",
                 "language": "Shell",
