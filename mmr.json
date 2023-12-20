@@ -63,7 +63,7 @@
             "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Repo/acp/master/update.json",
             "last_update": 1643646579000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/acp/master/README.md",
-            "stars": 70,
+            "stars": 71,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -4023,7 +4023,7 @@
             "updateJson": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/wifi-bonding/version.json",
             "last_update": 1668440417000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/wifi-bonding/master/README.md",
-            "stars": 445,
+            "stars": 446,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
