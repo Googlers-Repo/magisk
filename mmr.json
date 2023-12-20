@@ -855,7 +855,7 @@
             "updateJson": "https://raw.githubusercontent.com/skvalex/callrecorder/updates/magisk.json",
             "last_update": 1699533888000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/callrecorder-skvalex/master/README.md",
-            "stars": 289,
+            "stars": 290,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
