@@ -509,7 +509,7 @@
             "updateJson": null,
             "last_update": 1702488431000,
             "readme": "https://raw.githubusercontent.com/cuynu/gphotos-unlimited-zygisk/master/README.md",
-            "stars": 161,
+            "stars": 162,
             "about": {
                 "repo_source": "Googlers Magisk Repo",
                 "language": "C++",
@@ -597,7 +597,7 @@
             "updateJson": null,
             "last_update": 1644066160000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/energizedprotection/master/README.md",
-            "stars": 282,
+            "stars": 283,
             "about": {
                 "repo_source": "Googlers Magisk Repo",
                 "language": "Shell",
