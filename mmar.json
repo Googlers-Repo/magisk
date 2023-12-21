@@ -1551,7 +1551,7 @@
             "updateJson": "https://raw.githubusercontent.com/k3rnelpanik/FluentEmojiMagisk/main/update.json",
             "last_update": 1691803419000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/FluentEmojiMagisk/main/README.md",
-            "stars": 10,
+            "stars": 11,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
@@ -2863,7 +2863,7 @@
             "updateJson": null,
             "last_update": 1694329738000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MiXplorer/main/README.md",
-            "stars": 176,
+            "stars": 177,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
@@ -3769,7 +3769,7 @@
             "updateJson": null,
             "last_update": 1678093152000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/sensitive_props/master/README.md",
-            "stars": 99,
+            "stars": 100,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
