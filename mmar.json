@@ -495,7 +495,7 @@
             "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/main/update.json",
             "last_update": 1691528864000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/main/README.md",
-            "stars": 121,
+            "stars": 122,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
@@ -2203,7 +2203,7 @@
             "updateJson": null,
             "last_update": 1703043650000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HideNavBar/master/README.md",
-            "stars": 280,
+            "stars": 281,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
@@ -2643,7 +2643,7 @@
             "updateJson": "https://github.com/huskydg/magic_overlayfs/releases/latest/download/update_release.json",
             "last_update": 1686805349000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/main/README.md",
-            "stars": 48,
+            "stars": 49,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
@@ -2863,7 +2863,7 @@
             "updateJson": null,
             "last_update": 1694329738000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MiXplorer/main/README.md",
-            "stars": 177,
+            "stars": 178,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
@@ -2907,7 +2907,7 @@
             "updateJson": null,
             "last_update": 1703018934000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/mkshrc/master/README.md",
-            "stars": 31,
+            "stars": 32,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
@@ -3813,7 +3813,7 @@
             "updateJson": null,
             "last_update": 1690305811000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Simple_BootloopSaver/master/README.md",
-            "stars": 34,
+            "stars": 35,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",

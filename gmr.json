@@ -90,7 +90,7 @@
                         "name": "coder",
                         "avatar": "https://avatars.githubusercontent.com/u/95932066?v=4",
                         "bio": "Coder provisions software development environments via Terraform on Linux, macOS, Windows, X86, ARM, and of course, Kubernetes.",
-                        "followers": 776,
+                        "followers": 775,
                         "verified": false
                     }
                 ],
@@ -377,7 +377,7 @@
             "updateJson": "https://raw.githubusercontent.com/symbuzzer/livebootmodule/main/update.json",
             "last_update": 1702580314000,
             "readme": "https://raw.githubusercontent.com/symbuzzer/livebootmodule/main/README.md",
-            "stars": 23,
+            "stars": 24,
             "about": {
                 "repo_source": "Googlers Magisk Repo",
                 "language": "Shell",
@@ -553,7 +553,7 @@
             "updateJson": null,
             "last_update": 1700431696000,
             "readme": "https://raw.githubusercontent.com/NotZeetaa/YAKT/main/README.md",
-            "stars": 137,
+            "stars": 138,
             "about": {
                 "repo_source": "Googlers Magisk Repo",
                 "language": "Shell",
@@ -729,7 +729,7 @@
             "updateJson": null,
             "last_update": 1698282768000,
             "readme": "https://raw.githubusercontent.com/FerryAr/lhroot/master/README.md",
-            "stars": 140,
+            "stars": 141,
             "about": {
                 "repo_source": "Googlers Magisk Repo",
                 "language": "Shell",
