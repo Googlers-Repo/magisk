@@ -17,7 +17,7 @@
             "valid": true,
             "verified": false,
             "updateJson": null,
-            "last_update": 1698606189000,
+            "last_update": 1703239411000,
             "readme": "https://raw.githubusercontent.com/Googlers-Repo/AntiAMTS-Magisk/master/README.md",
             "stars": 4,
             "about": {
@@ -27,12 +27,30 @@
                 "issues": "https://github.com/Googlers-Repo/AntiAMTS-Magisk/issues"
             },
             "mmrl": {
-                "author": null,
-                "contributors": null,
-                "cover": null,
-                "logo": null,
+                "author": {
+                    "name": "DerGoogler",
+                    "avatar": "https://avatars.githubusercontent.com/u/54764558?v=4",
+                    "bio": "21 y/o well known Android modder and Magisk/KernelSU developer from Germany.",
+                    "followers": 86,
+                    "verified": true
+                },
+                "contributors": [
+                    {
+                        "name": "SierraDevoplers",
+                        "avatar": "https://avatars.githubusercontent.com/u/93452998?v=4",
+                        "bio": "Wir sind ein Team mit Kreativit\u00e4t",
+                        "followers": 0,
+                        "verified": true
+                    }
+                ],
+                "cover": "https://sierra-dev.de/wp-content/uploads/2022/06/AMTS-Blocker-Website-Vorlage-1.svg",
+                "logo": "https://i0.wp.com/sierra-dev.de/wp-content/uploads/2021/03/amtslogo.png?zoom=3&resize=150%2C150&ssl=1",
                 "screenshots": null,
-                "categories": null,
+                "categories": [
+                    "Security",
+                    "Adblocking and Hosts Files",
+                    "Privacy Enhancements"
+                ],
                 "require": null,
                 "developerNote": null,
                 "supportedRoots": null,
@@ -136,7 +154,7 @@
             "valid": true,
             "verified": true,
             "updateJson": null,
-            "last_update": 1697896447000,
+            "last_update": 1703238406000,
             "readme": "https://raw.githubusercontent.com/Googlers-Repo/gcc/main/README.md",
             "stars": 2,
             "about": {
@@ -146,12 +164,21 @@
                 "issues": "https://github.com/Googlers-Repo/gcc/issues"
             },
             "mmrl": {
-                "author": null,
+                "author": {
+                    "name": "DerGoogler",
+                    "avatar": "https://avatars.githubusercontent.com/u/54764558?v=4",
+                    "bio": "21 y/o well known Android modder and Magisk/KernelSU developer from Germany.",
+                    "followers": 86,
+                    "verified": true
+                },
                 "contributors": null,
                 "cover": null,
-                "logo": null,
+                "logo": "https://www.incredibuild.com/wp-content/uploads/2021/03/GCC01.png",
                 "screenshots": null,
-                "categories": null,
+                "categories": [
+                    "Coding",
+                    "Miscellaneous"
+                ],
                 "require": [
                     "mkshrc"
                 ],
