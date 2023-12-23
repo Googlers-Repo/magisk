@@ -31,7 +31,7 @@
                     "name": "DerGoogler",
                     "avatar": "https://avatars.githubusercontent.com/u/54764558?v=4",
                     "bio": "21 y/o well known Android modder and Magisk/KernelSU developer from Germany.",
-                    "followers": 86,
+                    "followers": 87,
                     "verified": true
                 },
                 "contributors": [
@@ -93,7 +93,7 @@
                     "name": "DerGoogler",
                     "avatar": "https://avatars.githubusercontent.com/u/54764558?v=4",
                     "bio": "21 y/o well known Android modder and Magisk/KernelSU developer from Germany.",
-                    "followers": 86,
+                    "followers": 87,
                     "verified": true
                 },
                 "contributors": [
@@ -168,7 +168,7 @@
                     "name": "DerGoogler",
                     "avatar": "https://avatars.githubusercontent.com/u/54764558?v=4",
                     "bio": "21 y/o well known Android modder and Magisk/KernelSU developer from Germany.",
-                    "followers": 86,
+                    "followers": 87,
                     "verified": true
                 },
                 "contributors": null,
@@ -203,13 +203,13 @@
             "name": "MMRL Install Tools",
             "author": "Der_Googler",
             "description": "Required module if you want to install modules from Explore",
-            "version": "2.1.1",
-            "versionCode": 211,
+            "version": "2.2.1",
+            "versionCode": 221,
             "download": "https://github.com/Googlers-Repo/mmrl_install_tools/archive/master.zip",
             "valid": true,
             "verified": true,
             "updateJson": null,
-            "last_update": 1702203398000,
+            "last_update": 1703333578000,
             "readme": "https://raw.githubusercontent.com/Googlers-Repo/mmrl_install_tools/master/README.md",
             "stars": 7,
             "about": {
@@ -223,7 +223,7 @@
                     "name": "DerGoogler",
                     "avatar": "https://avatars.githubusercontent.com/u/54764558?v=4",
                     "bio": "21 y/o well known Android modder and Magisk/KernelSU developer from Germany.",
-                    "followers": 86,
+                    "followers": 87,
                     "verified": true
                 },
                 "contributors": null,
@@ -536,7 +536,7 @@
             "updateJson": null,
             "last_update": 1702488431000,
             "readme": "https://raw.githubusercontent.com/cuynu/gphotos-unlimited-zygisk/master/README.md",
-            "stars": 167,
+            "stars": 168,
             "about": {
                 "repo_source": "Googlers Magisk Repo",
                 "language": "C++",
