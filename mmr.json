@@ -547,7 +547,7 @@
             "updateJson": null,
             "last_update": 1554995684000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/apt-x/master/README.md",
-            "stars": 7,
+            "stars": 8,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -1735,7 +1735,7 @@
             "updateJson": null,
             "last_update": 1661404564000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/HideNavBar/master/README.md",
-            "stars": 465,
+            "stars": 464,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
