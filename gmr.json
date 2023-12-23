@@ -209,7 +209,7 @@
             "valid": true,
             "verified": true,
             "updateJson": null,
-            "last_update": 1703333578000,
+            "last_update": 1703347114000,
             "readme": "https://raw.githubusercontent.com/Googlers-Repo/mmrl_install_tools/master/README.md",
             "stars": 7,
             "about": {
@@ -800,7 +800,7 @@
             "updateJson": "https://raw.githubusercontent.com/Vaz15k/Systemless-Ad-Blocker/master/update.json",
             "last_update": 1701398118000,
             "readme": "https://raw.githubusercontent.com/Vaz15k/Systemless-Ad-Blocker/master/README.md",
-            "stars": 2,
+            "stars": 3,
             "about": {
                 "repo_source": "Googlers Magisk Repo",
                 "language": "Shell",
