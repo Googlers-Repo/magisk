@@ -101,14 +101,14 @@
                         "name": "vhqtvn",
                         "avatar": "https://avatars.githubusercontent.com/u/8930337?v=4",
                         "bio": null,
-                        "followers": 96,
+                        "followers": 97,
                         "verified": false
                     },
                     {
                         "name": "coder",
                         "avatar": "https://avatars.githubusercontent.com/u/95932066?v=4",
                         "bio": "Coder provisions software development environments via Terraform on Linux, macOS, Windows, X86, ARM, and of course, Kubernetes.",
-                        "followers": 779,
+                        "followers": 780,
                         "verified": false
                     }
                 ],
@@ -360,7 +360,7 @@
             "updateJson": "https://raw.githubusercontent.com/symbuzzer/systemless-hosts-KernelSU-module/main/update.json",
             "last_update": 1701791691000,
             "readme": "https://raw.githubusercontent.com/symbuzzer/systemless-hosts-KernelSU-module/main/README.md",
-            "stars": 119,
+            "stars": 120,
             "about": {
                 "repo_source": "Googlers Magisk Repo",
                 "language": "Shell",
