@@ -767,7 +767,7 @@
             "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/update.json",
             "last_update": 1699710957000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/README.md",
-            "stars": 789,
+            "stars": 790,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
