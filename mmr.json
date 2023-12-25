@@ -63,7 +63,7 @@
             "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Repo/acp/master/update.json",
             "last_update": 1643646579000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/acp/master/README.md",
-            "stars": 72,
+            "stars": 73,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -767,7 +767,7 @@
             "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/update.json",
             "last_update": 1699710957000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/README.md",
-            "stars": 790,
+            "stars": 791,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
