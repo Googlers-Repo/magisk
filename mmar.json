@@ -275,7 +275,7 @@
             "updateJson": null,
             "last_update": 1693302157000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer/main/README.md",
-            "stars": 45,
+            "stars": 46,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
@@ -319,7 +319,7 @@
             "updateJson": null,
             "last_update": 1691936900000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-misc-settings/master/README.md",
-            "stars": 116,
+            "stars": 117,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
@@ -1287,7 +1287,7 @@
             "updateJson": null,
             "last_update": 1683473028000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/drc-remover/master/README.md",
-            "stars": 53,
+            "stars": 54,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
