@@ -935,7 +935,7 @@
             "updateJson": "https://github.com/whalehub/custom-certificate-authorities/releases/latest/download/updateJson.json",
             "last_update": 1644751003000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/custom-certificate-authorities/master/README.md",
-            "stars": 41,
+            "stars": 43,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
@@ -4385,7 +4385,7 @@
             "updateJson": null,
             "last_update": 1696318252000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker/master/README.md",
-            "stars": 57,
+            "stars": 58,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
