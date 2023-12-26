@@ -2643,7 +2643,7 @@
             "updateJson": "https://github.com/huskydg/magic_overlayfs/releases/latest/download/update_release.json",
             "last_update": 1686805349000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/main/README.md",
-            "stars": 50,
+            "stars": 51,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
