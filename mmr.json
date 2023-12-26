@@ -151,7 +151,7 @@
             "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/update.json",
             "last_update": 1698679366000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/README.md",
-            "stars": 353,
+            "stars": 354,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -371,7 +371,7 @@
             "updateJson": null,
             "last_update": 1633287965000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/airaudio/master/README.md",
-            "stars": 21,
+            "stars": 22,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -1031,7 +1031,7 @@
             "updateJson": null,
             "last_update": 1557655646000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/com.catchingnow.icebox/master/README.md",
-            "stars": 11,
+            "stars": 12,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -1339,7 +1339,7 @@
             "updateJson": null,
             "last_update": 1644066160000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/energizedprotection/master/README.md",
-            "stars": 282,
+            "stars": 283,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -1427,7 +1427,7 @@
             "updateJson": null,
             "last_update": 1626865690000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Fdroid-Priv/master/README.md",
-            "stars": 119,
+            "stars": 120,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -2175,7 +2175,7 @@
             "updateJson": null,
             "last_update": 1563509191000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/miracast-enabler/master/README.md",
-            "stars": 20,
+            "stars": 21,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -2351,7 +2351,7 @@
             "updateJson": null,
             "last_update": 1656286469000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/movecert/master/README.md",
-            "stars": 562,
+            "stars": 563,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -2615,7 +2615,7 @@
             "updateJson": null,
             "last_update": 1676679789000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/OneController/master/README.md",
-            "stars": 197,
+            "stars": 198,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -3715,7 +3715,7 @@
             "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Repo/twrp-keep/master/update.json",
             "last_update": 1699137305000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/twrp-keep/master/README.md",
-            "stars": 174,
+            "stars": 175,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
