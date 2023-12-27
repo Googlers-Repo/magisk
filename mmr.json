@@ -151,7 +151,7 @@
             "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/update.json",
             "last_update": 1698679366000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/README.md",
-            "stars": 353,
+            "stars": 352,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -327,7 +327,7 @@
             "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ainur_narsil/master/update.json",
             "last_update": 1689053614000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ainur_narsil/master/README.md",
-            "stars": 109,
+            "stars": 108,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -415,7 +415,7 @@
             "updateJson": "https://raw.githubusercontent.com/Zackptg5/Audio-Modification-Library/master/update.json",
             "last_update": 1689427589000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/aml/master/README.md",
-            "stars": 49,
+            "stars": 47,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -767,7 +767,7 @@
             "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/update.json",
             "last_update": 1699710957000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/README.md",
-            "stars": 791,
+            "stars": 789,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -1427,7 +1427,7 @@
             "updateJson": null,
             "last_update": 1626865690000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Fdroid-Priv/master/README.md",
-            "stars": 118,
+            "stars": 117,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -1515,7 +1515,7 @@
             "updateJson": null,
             "last_update": 1612675127000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/G-VisualMod/master/README.md",
-            "stars": 339,
+            "stars": 337,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -1559,7 +1559,7 @@
             "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Repo/GoogleDialerFramework/master/update_info.json",
             "last_update": 1666307084000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/GoogleDialerFramework/master/README.md",
-            "stars": 62,
+            "stars": 61,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -1647,7 +1647,7 @@
             "updateJson": null,
             "last_update": 1577599943000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/hidden_settings/master/README.md",
-            "stars": 31,
+            "stars": 30,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -1735,7 +1735,7 @@
             "updateJson": null,
             "last_update": 1661404564000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/HideNavBar/master/README.md",
-            "stars": 466,
+            "stars": 464,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -1823,7 +1823,7 @@
             "updateJson": null,
             "last_update": 1565052950000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/KaliNethunter/master/README.md",
-            "stars": 251,
+            "stars": 249,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -1911,7 +1911,7 @@
             "updateJson": null,
             "last_update": 1608463908000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/liboemcryptodisabler/master/README.md",
-            "stars": 83,
+            "stars": 82,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -1999,7 +1999,7 @@
             "updateJson": null,
             "last_update": 1556251162000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/logcat/master/README.md",
-            "stars": 8,
+            "stars": 7,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -2087,7 +2087,7 @@
             "updateJson": null,
             "last_update": 1673294532000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/README.md",
-            "stars": 1855,
+            "stars": 1853,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -2351,7 +2351,7 @@
             "updateJson": null,
             "last_update": 1656286469000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/movecert/master/README.md",
-            "stars": 563,
+            "stars": 562,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -2395,7 +2395,7 @@
             "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Repo/mtd-ndk/master/update.json",
             "last_update": 1699714765000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/mtd-ndk/master/README.md",
-            "stars": 47,
+            "stars": 46,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -2439,7 +2439,7 @@
             "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Repo/nano-ndk/master/update.json",
             "last_update": 1699585603000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/nano-ndk/master/README.md",
-            "stars": 110,
+            "stars": 108,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -2527,7 +2527,7 @@
             "updateJson": null,
             "last_update": 1646764356000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/NfcScreenOff/master/README.md",
-            "stars": 47,
+            "stars": 44,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -2747,7 +2747,7 @@
             "updateJson": null,
             "last_update": 1637106254000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/overlayfix/master/README.md",
-            "stars": 24,
+            "stars": 23,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -3055,7 +3055,7 @@
             "updateJson": null,
             "last_update": 1613616737000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/riru_edxposed/master/README.md",
-            "stars": 72,
+            "stars": 70,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -3451,7 +3451,7 @@
             "updateJson": null,
             "last_update": 1612729412000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Systemless_TZData/master/README.md",
-            "stars": 22,
+            "stars": 21,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -3539,7 +3539,7 @@
             "updateJson": null,
             "last_update": 1659728121000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminalmods/master/README.md",
-            "stars": 55,
+            "stars": 54,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -3715,7 +3715,7 @@
             "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Repo/twrp-keep/master/update.json",
             "last_update": 1699137305000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/twrp-keep/master/README.md",
-            "stars": 175,
+            "stars": 173,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -4023,7 +4023,7 @@
             "updateJson": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/wifi-bonding/version.json",
             "last_update": 1668440417000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/wifi-bonding/master/README.md",
-            "stars": 449,
+            "stars": 447,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -4111,7 +4111,7 @@
             "updateJson": null,
             "last_update": 1604117671000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/wirelessFirmware/master/README.md",
-            "stars": 35,
+            "stars": 34,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -4155,7 +4155,7 @@
             "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Repo/xmlpak/master/updater.json",
             "last_update": 1658425594000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/xmlpak/master/README.md",
-            "stars": 149,
+            "stars": 148,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -4287,7 +4287,7 @@
             "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Repo/zipsigner/master/update.json",
             "last_update": 1699366374000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/zipsigner/master/README.md",
-            "stars": 58,
+            "stars": 57,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
