@@ -107,7 +107,7 @@
             "updateJson": "https://raw.githubusercontent.com/TukangM/AdGuardDNS4Magisk/main/update.json",
             "last_update": 1702463603000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/AdGuardDNS4Magisk/main/README.md",
-            "stars": 15,
+            "stars": 16,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
@@ -1023,7 +1023,7 @@
             "updateJson": null,
             "last_update": 1673728563000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/DalvikHyperthreading/main/README.md",
-            "stars": 23,
+            "stars": 24,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
@@ -4517,7 +4517,7 @@
             "updateJson": null,
             "last_update": 1698433306000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/wifi-bonding-nolog/master/README.md",
-            "stars": 12,
+            "stars": 13,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
