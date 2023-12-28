@@ -275,7 +275,7 @@
             "updateJson": null,
             "last_update": 1693302157000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer/main/README.md",
-            "stars": 46,
+            "stars": 47,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
@@ -319,7 +319,7 @@
             "updateJson": null,
             "last_update": 1691936900000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-misc-settings/master/README.md",
-            "stars": 118,
+            "stars": 119,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
@@ -1287,7 +1287,7 @@
             "updateJson": null,
             "last_update": 1683473028000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/drc-remover/master/README.md",
-            "stars": 54,
+            "stars": 55,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
@@ -2625,6 +2625,50 @@
                 "needRamdisk": null,
                 "support": null,
                 "donate": "https://github.com/sponsors/AndroPlus-org?frequency=one-time",
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "magisk-tailscaled",
+            "name": "Magisk-Tailscaled",
+            "author": "anasfanani",
+            "description": "Run Tailscaled with magisk.",
+            "version": "1.56.1.2",
+            "versionCode": 1560102,
+            "download": "https://github.com/Magisk-Modules-Alt-Repo/Magisk-Tailscaled/archive/main.zip",
+            "valid": true,
+            "verified": false,
+            "updateJson": "https://raw.githubusercontent.com/anasfanani/Magisk-Tailscaled/master/update.json",
+            "last_update": 1703622813000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Magisk-Tailscaled/main/README.md",
+            "stars": 0,
+            "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/Magisk-Tailscaled.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/Magisk-Tailscaled/issues"
+            },
+            "mmrl": {
+                "author": null,
+                "contributors": null,
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null,
+                "require": null,
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
                 "config": null,
                 "changeBoot": null,
                 "mmtReborn": null
