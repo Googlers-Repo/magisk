@@ -2643,7 +2643,7 @@
             "updateJson": "https://raw.githubusercontent.com/anasfanani/Magisk-Tailscaled/master/update.json",
             "last_update": 1703622813000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Magisk-Tailscaled/main/README.md",
-            "stars": 1,
+            "stars": 2,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
@@ -2687,7 +2687,7 @@
             "updateJson": "https://github.com/huskydg/magic_overlayfs/releases/latest/download/update_release.json",
             "last_update": 1686805349000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/main/README.md",
-            "stars": 52,
+            "stars": 51,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
