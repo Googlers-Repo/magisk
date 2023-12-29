@@ -4121,7 +4121,7 @@
             "updateJson": "https://raw.githubusercontent.com/Osanosa/ThemedProject/main/update.json",
             "last_update": 1697566115000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ThemedProject/main/README.md",
-            "stars": 21,
+            "stars": 22,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
@@ -4517,7 +4517,7 @@
             "updateJson": null,
             "last_update": 1698433306000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/wifi-bonding-nolog/master/README.md",
-            "stars": 13,
+            "stars": 14,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
