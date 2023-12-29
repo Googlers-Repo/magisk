@@ -2643,7 +2643,7 @@
             "updateJson": "https://raw.githubusercontent.com/anasfanani/Magisk-Tailscaled/master/update.json",
             "last_update": 1703622813000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Magisk-Tailscaled/main/README.md",
-            "stars": 0,
+            "stars": 1,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
