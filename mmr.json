@@ -1163,7 +1163,7 @@
             "updateJson": "https://raw.githubusercontent.com/xerta555/Detach-Files/blob/master/Updater.json",
             "last_update": 1643991324000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Detach/master/README.md",
-            "stars": 232,
+            "stars": 233,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -2615,7 +2615,7 @@
             "updateJson": null,
             "last_update": 1676679789000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/OneController/master/README.md",
-            "stars": 198,
+            "stars": 199,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
