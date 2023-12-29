@@ -327,7 +327,7 @@
             "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ainur_narsil/master/update.json",
             "last_update": 1689053614000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ainur_narsil/master/README.md",
-            "stars": 108,
+            "stars": 109,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
