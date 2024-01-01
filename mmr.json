@@ -3583,7 +3583,7 @@
             "updateJson": null,
             "last_update": 1578134354000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminal_debloater/master/README.md",
-            "stars": 203,
+            "stars": 204,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -3715,7 +3715,7 @@
             "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Repo/twrp-keep/master/update.json",
             "last_update": 1699137305000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/twrp-keep/master/README.md",
-            "stars": 173,
+            "stars": 174,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
