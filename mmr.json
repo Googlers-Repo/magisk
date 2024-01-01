@@ -239,7 +239,7 @@
             "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adreno-dev/master/update.json",
             "last_update": 1699710805000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adreno-dev/master/README.md",
-            "stars": 68,
+            "stars": 69,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -2087,7 +2087,7 @@
             "updateJson": null,
             "last_update": 1673294532000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/README.md",
-            "stars": 1856,
+            "stars": 1857,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -2351,7 +2351,7 @@
             "updateJson": null,
             "last_update": 1656286469000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/movecert/master/README.md",
-            "stars": 563,
+            "stars": 562,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
