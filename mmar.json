@@ -715,7 +715,7 @@
             "updateJson": "https://raw.githubusercontent.com/Kry9toN/Clash4Magisk/master/update.json",
             "last_update": 1663803256000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Clash4Magisk/master/README.md",
-            "stars": 4,
+            "stars": 5,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
@@ -935,7 +935,7 @@
             "updateJson": "https://github.com/whalehub/custom-certificate-authorities/releases/latest/download/updateJson.json",
             "last_update": 1644751003000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/custom-certificate-authorities/master/README.md",
-            "stars": 43,
+            "stars": 44,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
