@@ -108,7 +108,7 @@
                         "name": "coder",
                         "avatar": "https://avatars.githubusercontent.com/u/95932066?v=4",
                         "bio": "Coder provisions software development environments via Terraform on Linux, macOS, Windows, X86, ARM, and of course, Kubernetes.",
-                        "followers": 791,
+                        "followers": 790,
                         "verified": false
                     }
                 ],
@@ -668,7 +668,7 @@
             "updateJson": "https://raw.githubusercontent.com/Rikj000/Magisk-Manager-for-Recovery-Mode/master/update.json",
             "last_update": 1701886216000,
             "readme": "https://raw.githubusercontent.com/Rikj000/Magisk-Manager-for-Recovery-Mode/master/README.md",
-            "stars": 216,
+            "stars": 215,
             "about": {
                 "repo_source": "Googlers Magisk Repo",
                 "language": "Shell",
