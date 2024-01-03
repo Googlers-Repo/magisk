@@ -127,7 +127,7 @@
                         "name": "xerta555",
                         "avatar": "https://avatars.githubusercontent.com/u/20888017?v=4",
                         "bio": null,
-                        "followers": 82,
+                        "followers": 83,
                         "verified": false
                     }
                 ],
@@ -189,7 +189,7 @@
                         "name": "xerta555",
                         "avatar": "https://avatars.githubusercontent.com/u/20888017?v=4",
                         "bio": null,
-                        "followers": 82,
+                        "followers": 83,
                         "verified": false
                     }
                 ],
@@ -2011,7 +2011,7 @@
                         "name": "xerta555",
                         "avatar": "https://avatars.githubusercontent.com/u/20888017?v=4",
                         "bio": null,
-                        "followers": 82,
+                        "followers": 83,
                         "verified": false
                     }
                 ],
@@ -2073,7 +2073,7 @@
                         "name": "xerta555",
                         "avatar": "https://avatars.githubusercontent.com/u/20888017?v=4",
                         "bio": null,
-                        "followers": 82,
+                        "followers": 83,
                         "verified": false
                     }
                 ],
@@ -2201,7 +2201,7 @@
             "valid": true,
             "verified": false,
             "updateJson": null,
-            "last_update": 1703043650000,
+            "last_update": 1704239466000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HideNavBar/master/README.md",
             "stars": 293,
             "about": {
@@ -2775,7 +2775,7 @@
             "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Malwack/main/update.json",
             "last_update": 1699482097000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Malwack/main/README.md",
-            "stars": 48,
+            "stars": 49,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",

@@ -1339,7 +1339,7 @@
             "updateJson": null,
             "last_update": 1644066160000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/energizedprotection/master/README.md",
-            "stars": 284,
+            "stars": 285,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -2351,7 +2351,7 @@
             "updateJson": null,
             "last_update": 1656286469000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/movecert/master/README.md",
-            "stars": 562,
+            "stars": 561,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -2439,7 +2439,7 @@
             "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Repo/nano-ndk/master/update.json",
             "last_update": 1699585603000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/nano-ndk/master/README.md",
-            "stars": 108,
+            "stars": 109,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
