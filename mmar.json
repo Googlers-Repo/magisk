@@ -2643,7 +2643,7 @@
             "updateJson": "https://raw.githubusercontent.com/anasfanani/Magisk-Tailscaled/master/update.json",
             "last_update": 1703622813000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Magisk-Tailscaled/main/README.md",
-            "stars": 4,
+            "stars": 5,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
@@ -2775,7 +2775,7 @@
             "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Malwack/main/update.json",
             "last_update": 1699482097000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Malwack/main/README.md",
-            "stars": 49,
+            "stars": 50,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
