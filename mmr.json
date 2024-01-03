@@ -3671,7 +3671,7 @@
             "updateJson": null,
             "last_update": 1560196409000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/twrp-helper/master/README.md",
-            "stars": 25,
+            "stars": 26,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -3715,7 +3715,7 @@
             "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Repo/twrp-keep/master/update.json",
             "last_update": 1699137305000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/twrp-keep/master/README.md",
-            "stars": 174,
+            "stars": 175,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
