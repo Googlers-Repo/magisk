@@ -2203,7 +2203,7 @@
             "updateJson": null,
             "last_update": 1704239466000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HideNavBar/master/README.md",
-            "stars": 293,
+            "stars": 294,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
@@ -2819,7 +2819,7 @@
             "updateJson": null,
             "last_update": 1690613826000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microG-GApps/master/README.md",
-            "stars": 68,
+            "stars": 69,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
@@ -2863,7 +2863,7 @@
             "updateJson": "https://raw.github.com/nift4/microg_installer_revived/master/update.json",
             "last_update": 1700164637000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microg_installer/master/README.md",
-            "stars": 57,
+            "stars": 58,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
@@ -2907,7 +2907,7 @@
             "updateJson": null,
             "last_update": 1694329738000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MiXplorer/main/README.md",
-            "stars": 182,
+            "stars": 183,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
@@ -2963,7 +2963,7 @@
                     "name": "DerGoogler",
                     "avatar": "https://avatars.githubusercontent.com/u/54764558?v=4",
                     "bio": "21 y/o well known Android modder and Magisk/KernelSU developer from Germany.",
-                    "followers": 88,
+                    "followers": 89,
                     "verified": true
                 },
                 "contributors": null,
@@ -3109,7 +3109,7 @@
                     "name": "DerGoogler",
                     "avatar": "https://avatars.githubusercontent.com/u/54764558?v=4",
                     "bio": "21 y/o well known Android modder and Magisk/KernelSU developer from Germany.",
-                    "followers": 88,
+                    "followers": 89,
                     "verified": true
                 },
                 "contributors": null,
@@ -4573,7 +4573,7 @@
                     "name": "DerGoogler",
                     "avatar": "https://avatars.githubusercontent.com/u/54764558?v=4",
                     "bio": "21 y/o well known Android modder and Magisk/KernelSU developer from Germany.",
-                    "followers": 88,
+                    "followers": 89,
                     "verified": true
                 },
                 "contributors": [
