@@ -448,7 +448,7 @@
             "updateJson": "https://raw.githubusercontent.com/VR-25/acc/master/module.json",
             "last_update": 1703497070000,
             "readme": "https://raw.githubusercontent.com/VR-25/acc/dev/README.md",
-            "stars": 1372,
+            "stars": 1373,
             "about": {
                 "repo_source": "Googlers Magisk Repo",
                 "language": "Shell",
@@ -536,7 +536,7 @@
             "updateJson": null,
             "last_update": 1704031946000,
             "readme": "https://raw.githubusercontent.com/cuynu/gphotos-unlimited-zygisk/master/README.md",
-            "stars": 192,
+            "stars": 193,
             "about": {
                 "repo_source": "Googlers Magisk Repo",
                 "language": "C++",
