@@ -767,7 +767,7 @@
             "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/update.json",
             "last_update": 1699710957000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/README.md",
-            "stars": 792,
+            "stars": 793,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -2351,7 +2351,7 @@
             "updateJson": null,
             "last_update": 1656286469000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/movecert/master/README.md",
-            "stars": 564,
+            "stars": 565,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -3583,7 +3583,7 @@
             "updateJson": null,
             "last_update": 1578134354000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminal_debloater/master/README.md",
-            "stars": 204,
+            "stars": 205,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
