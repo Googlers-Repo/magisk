@@ -1067,7 +1067,7 @@
             "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/data_backup/main/module.json",
             "last_update": 1686425610000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/data_backup/main/README.md",
-            "stars": 38,
+            "stars": 39,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
@@ -1285,7 +1285,7 @@
             "valid": true,
             "verified": false,
             "updateJson": null,
-            "last_update": 1683473028000,
+            "last_update": 1704616762000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/drc-remover/master/README.md",
             "stars": 56,
             "about": {
@@ -4427,7 +4427,7 @@
             "valid": true,
             "verified": false,
             "updateJson": null,
-            "last_update": 1704021292000,
+            "last_update": 1704616829000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker/master/README.md",
             "stars": 58,
             "about": {
