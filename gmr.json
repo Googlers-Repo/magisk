@@ -360,7 +360,7 @@
             "updateJson": "https://raw.githubusercontent.com/symbuzzer/systemless-hosts-KernelSU-module/main/update.json",
             "last_update": 1701791691000,
             "readme": "https://raw.githubusercontent.com/symbuzzer/systemless-hosts-KernelSU-module/main/README.md",
-            "stars": 133,
+            "stars": 134,
             "about": {
                 "repo_source": "Googlers Magisk Repo",
                 "language": "Shell",
