@@ -1163,7 +1163,7 @@
             "updateJson": "https://raw.githubusercontent.com/xerta555/Detach-Files/blob/master/Updater.json",
             "last_update": 1643991324000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/Detach/master/README.md",
-            "stars": 235,
+            "stars": 236,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -2087,7 +2087,7 @@
             "updateJson": null,
             "last_update": 1673294532000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/README.md",
-            "stars": 1858,
+            "stars": 1859,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -2351,7 +2351,7 @@
             "updateJson": null,
             "last_update": 1656286469000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/movecert/master/README.md",
-            "stars": 568,
+            "stars": 569,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
