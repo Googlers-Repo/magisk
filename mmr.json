@@ -283,7 +283,7 @@
             "updateJson": "https://raw.githubusercontent.com/Zackptg5/JamesDSPManager/master/update.json",
             "last_update": 1694469898000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ainur_jamesdsp/master/README.md",
-            "stars": 72,
+            "stars": 71,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -3803,7 +3803,7 @@
             "updateJson": null,
             "last_update": 1684942356000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ViPER4Android-FX/master/README.md",
-            "stars": 381,
+            "stars": 382,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
