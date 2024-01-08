@@ -19,7 +19,7 @@
             "updateJson": "https://raw.githubusercontent.com/VR-25/acc/master/module.json",
             "last_update": 1697485290000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/acc/master/README.md",
-            "stars": 295,
+            "stars": 296,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -3627,7 +3627,7 @@
             "updateJson": null,
             "last_update": 1571840288000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminal_systemizer/master/README.md",
-            "stars": 273,
+            "stars": 274,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
