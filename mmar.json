@@ -1067,7 +1067,7 @@
             "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/data_backup/main/module.json",
             "last_update": 1686425610000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/data_backup/main/README.md",
-            "stars": 39,
+            "stars": 38,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
@@ -3857,7 +3857,7 @@
             "updateJson": null,
             "last_update": 1690305811000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Simple_BootloopSaver/master/README.md",
-            "stars": 40,
+            "stars": 41,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
