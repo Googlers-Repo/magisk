@@ -767,7 +767,7 @@
             "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/update.json",
             "last_update": 1699710957000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/README.md",
-            "stars": 794,
+            "stars": 795,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -1515,7 +1515,7 @@
             "updateJson": null,
             "last_update": 1612675127000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/G-VisualMod/master/README.md",
-            "stars": 340,
+            "stars": 341,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
