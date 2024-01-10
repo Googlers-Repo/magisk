@@ -448,7 +448,7 @@
             "updateJson": "https://raw.githubusercontent.com/VR-25/acc/master/module.json",
             "last_update": 1704648433000,
             "readme": "https://raw.githubusercontent.com/VR-25/acc/dev/README.md",
-            "stars": 1385,
+            "stars": 1386,
             "about": {
                 "repo_source": "Googlers Magisk Repo",
                 "language": "Shell",
@@ -580,7 +580,7 @@
             "updateJson": null,
             "last_update": 1704654459000,
             "readme": "https://raw.githubusercontent.com/NotZeetaa/YAKT/main/README.md",
-            "stars": 142,
+            "stars": 143,
             "about": {
                 "repo_source": "Googlers Magisk Repo",
                 "language": "Shell",
