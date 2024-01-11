@@ -2775,7 +2775,7 @@
             "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Malwack/main/update.json",
             "last_update": 1699482097000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Malwack/main/README.md",
-            "stars": 54,
+            "stars": 55,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
@@ -3461,7 +3461,7 @@
             "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_webview/master/update.json",
             "last_update": 1698480699000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_webview/master/README.md",
-            "stars": 136,
+            "stars": 137,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
