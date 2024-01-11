@@ -943,7 +943,7 @@
             "updateJson": null,
             "last_update": 1673388734000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/CloudflareDNS4Magisk/master/README.md",
-            "stars": 106,
+            "stars": 105,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -3627,7 +3627,7 @@
             "updateJson": null,
             "last_update": 1571840288000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/terminal_systemizer/master/README.md",
-            "stars": 274,
+            "stars": 275,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -4023,7 +4023,7 @@
             "updateJson": "https://cdn.jsdelivr.net/gh/Magisk-Modules-Repo/wifi-bonding/version.json",
             "last_update": 1668440417000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/wifi-bonding/master/README.md",
-            "stars": 450,
+            "stars": 449,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
