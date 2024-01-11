@@ -151,7 +151,7 @@
             "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/update.json",
             "last_update": 1698679366000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/README.md",
-            "stars": 356,
+            "stars": 357,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -767,7 +767,7 @@
             "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/update.json",
             "last_update": 1699710957000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/README.md",
-            "stars": 795,
+            "stars": 796,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
