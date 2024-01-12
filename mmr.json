@@ -1339,7 +1339,7 @@
             "updateJson": null,
             "last_update": 1644066160000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/energizedprotection/master/README.md",
-            "stars": 288,
+            "stars": 289,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -1823,7 +1823,7 @@
             "updateJson": null,
             "last_update": 1565052950000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/KaliNethunter/master/README.md",
-            "stars": 251,
+            "stars": 249,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -2483,7 +2483,7 @@
             "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Repo/nexusmedia/master/update.json",
             "last_update": 1699710844000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/nexusmedia/master/README.md",
-            "stars": 24,
+            "stars": 23,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -4155,7 +4155,7 @@
             "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Repo/xmlpak/master/updater.json",
             "last_update": 1658425594000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/xmlpak/master/README.md",
-            "stars": 151,
+            "stars": 152,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",

@@ -31,7 +31,7 @@
                     "name": "DerGoogler",
                     "avatar": "https://avatars.githubusercontent.com/u/54764558?v=4",
                     "bio": "21 y/o well known Android modder and Magisk/KernelSU developer from Germany.",
-                    "followers": 89,
+                    "followers": 90,
                     "verified": true
                 },
                 "contributors": [
@@ -93,7 +93,7 @@
                     "name": "DerGoogler",
                     "avatar": "https://avatars.githubusercontent.com/u/54764558?v=4",
                     "bio": "21 y/o well known Android modder and Magisk/KernelSU developer from Germany.",
-                    "followers": 89,
+                    "followers": 90,
                     "verified": true
                 },
                 "contributors": [
@@ -108,7 +108,7 @@
                         "name": "coder",
                         "avatar": "https://avatars.githubusercontent.com/u/95932066?v=4",
                         "bio": "Coder provisions software development environments via Terraform on Linux, macOS, Windows, X86, ARM, and of course, Kubernetes.",
-                        "followers": 802,
+                        "followers": 803,
                         "verified": false
                     }
                 ],
@@ -168,7 +168,7 @@
                     "name": "DerGoogler",
                     "avatar": "https://avatars.githubusercontent.com/u/54764558?v=4",
                     "bio": "21 y/o well known Android modder and Magisk/KernelSU developer from Germany.",
-                    "followers": 89,
+                    "followers": 90,
                     "verified": true
                 },
                 "contributors": null,
@@ -223,7 +223,7 @@
                     "name": "DerGoogler",
                     "avatar": "https://avatars.githubusercontent.com/u/54764558?v=4",
                     "bio": "21 y/o well known Android modder and Magisk/KernelSU developer from Germany.",
-                    "followers": 89,
+                    "followers": 90,
                     "verified": true
                 },
                 "contributors": null,
@@ -624,7 +624,7 @@
             "updateJson": null,
             "last_update": 1644066160000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/energizedprotection/master/README.md",
-            "stars": 288,
+            "stars": 289,
             "about": {
                 "repo_source": "Googlers Magisk Repo",
                 "language": "Shell",
