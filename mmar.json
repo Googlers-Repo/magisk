@@ -2455,6 +2455,50 @@
             }
         },
         {
+            "id": "magisk-autoboot",
+            "name": "Magisk Autoboot",
+            "author": "anasfanani",
+            "description": "Enables the device to automatically booting after a USB/Charger connection is detected.",
+            "version": "v1.0.1",
+            "versionCode": 10001,
+            "download": "https://github.com/Magisk-Modules-Alt-Repo/magisk-autoboot/archive/main.zip",
+            "valid": true,
+            "verified": false,
+            "updateJson": "https://raw.githubusercontent.com/anasfanani/magisk-autoboot/master/update.json",
+            "last_update": 1704118593000,
+            "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk-autoboot/main/README.md",
+            "stars": 1,
+            "about": {
+                "repo_source": "Magisk Modules Alt Repo",
+                "language": "Shell",
+                "source": "https://github.com/Magisk-Modules-Alt-Repo/magisk-autoboot.git",
+                "issues": "https://github.com/Magisk-Modules-Alt-Repo/magisk-autoboot/issues"
+            },
+            "mmrl": {
+                "author": null,
+                "contributors": null,
+                "cover": null,
+                "logo": null,
+                "screenshots": null,
+                "categories": null,
+                "require": null,
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": true,
+                "mmtReborn": null
+            }
+        },
+        {
             "id": "magisk-captive-control",
             "name": "Magisk Captive Control (MCC)",
             "author": "Atrate",
