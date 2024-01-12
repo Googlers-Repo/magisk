@@ -1,1 +1,6 @@
 tmp
+modules/*/**
+!modules/*.zip
+__pycache__
+env.ps1
+test.py

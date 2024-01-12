@@ -1,11 +1,14 @@
 import os, shutil, sys, json
-from git import Repo
+import functools
+import time 
+import ini
+from git import Repo, InvalidGitRepositoryError, GitCommandError
 from random import random
 from github import Github
-import github
 from github.Repository import Repository
 from datetime import datetime
-import ini
+from pathlib import Path
+from typing import Optional
 
 # Configuration
 REPO_NAME = os.environ['REPO_NAME']
@@ -32,7 +35,7 @@ user_verified = json.load(f_user_verified)
 # Skeleton for the repository
 meta = {
     # Fetch the last repository update
-    "last_update": int(user.updated_at.timestamp() * 1000),
+    "last_update": int(time.time() * 1000),
     "name": REPO_TITLE,
     "website": REPO_WEBSITE,
     "support": REPO_SUPPORT,
@@ -40,6 +43,32 @@ meta = {
     "submitModule": REPO_SUBMIT_MODULE,
     "modules": []
 }
+
+def clone_and_zip(url: str, out: Path):
+    repo_dir = out.with_suffix("")
+    if repo_dir.exists():
+        shutil.rmtree(repo_dir)
+
+    try:
+        repo = Repo.clone_from(url, repo_dir)
+    except GitCommandError:
+        shutil.rmtree(repo_dir, ignore_errors=True)
+        raise GitCommandError(f"clone failed: {url}")
+
+    for path in repo_dir.iterdir():
+        if path.name.startswith(".git"):
+            if path.is_dir():
+                shutil.rmtree(path, ignore_errors=True)
+            if path.is_file():
+                path.unlink(missing_ok=True)
+
+            continue
+
+    try:
+        shutil.make_archive(repo_dir.as_posix(), format="zip", root_dir=repo_dir)
+        shutil.rmtree(repo_dir)
+    except FileNotFoundError:
+        raise FileNotFoundError(f"archive failed: {repo_dir.as_posix()}")
 
 def does_object_exists(repo: Repository, object_path: str) -> bool:
     try:
@@ -147,9 +176,12 @@ def make_module_json(repo: Repository):
             },
         }
 
+
+
         # Handle file to ignore the index process for the current module
         if not (properties.get("noIndex") or properties.get("gr_ignore")):
             # Append to skeleton
+            clone_and_zip(repo.html_url, Path(f"modules/{REPO_SCOPE}/{mod_id}.zip"))
             meta.get("modules").append(module)
 
 if not REPO_NAME == "":

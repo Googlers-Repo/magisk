@@ -2,8 +2,7 @@ name: Generate MMAR Modules Meta JSON
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 */2 * * *"
-    
+    - cron: "0 */6 * * *"
 
 permissions:
   contents: write
@@ -21,12 +20,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      
+
       - uses: actions/setup-python@v2
         with:
-          python-version: '3.x'
-          architecture: 'x64'
-      
+          python-version: "3.x"
+          architecture: "x64"
+
       - name: Setup Python Dependencies
         run: |
           python -m pip install --upgrade pip
@@ -34,14 +33,9 @@ jobs:
           pip install gitpython
           pip install ini-parser
 
-      # - name: Setup Apt Dependencies
-      #   run: |
-      #     sudo apt update -y && sudo apt upgrade -y
-      #     sudo apt install zip unzip jq curl hub -y
-      
       - name: Generate MMAR JSON
         run: python generate.py "${{ secrets.TOKEN }}"
-        env: 
+        env:
           REPO_NAME: Magisk-Modules-Alt-Repo
           REPO_TITLE: Magisk Modules Alt Repo
           REPO_WEBSITE: https://github.com/Magisk-Modules-Alt-Repo
@@ -67,7 +61,7 @@ jobs:
 
       - name: Generate MMR JSON
         run: python generate.py "${{ secrets.TOKEN }}"
-        env: 
+        env:
           REPO_NAME: Magisk-Modules-Repo
           REPO_TITLE: Magisk Modules Repo (Official)
           REPO_WEBSITE: https://github.com/Magisk-Modules-Repo
@@ -78,33 +72,44 @@ jobs:
           REPO_EXTRA_TRACKS: ""
           GIT_TOKEN: "${{ secrets.TOKEN }}"
 
-      # Migrates
-
-      # - name: Migrate MMAR
-      #   run: bash migrate-archives.sh
-      #   env: 
-      #     REPO_SCOPE: mmar
-
-      # - name: Migrate GMR
-      #   run: bash migrate-archives.sh
-      #   env:
-      #     REPO_SCOPE: gmr
-
-      # - name: Migrate MMR
-      #   run: bash migrate-archives.sh
-      #   env: 
-      #     REPO_SCOPE: mmr
-
-      # Git
-          
       - name: Setup Git
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
+  #   - name: Commit Changes
+  #     run: |
+  #       git add .
+  #       git commit -m "Update mirrors" || true
+  #       git push || true
 
-      - name: Commit Changes
-        run: |
-          git add .
-          git commit -m "Update mirrors" || true
-          git push || true
-          
+  build:
+    runs-on: ubuntu-latest
+    needs: generate
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref }}
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v3
+
+      - name: Build with Jekyll
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./
+          destination: ./_site
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v2
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v2
