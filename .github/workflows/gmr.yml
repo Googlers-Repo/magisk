@@ -22,7 +22,7 @@ jobs:
         run: pip install -r generate/requirements.txt
 
       - name: Generate
-        run: python -m generate/generate
+        run: python generate/generate.py
         env:
           NAME: Googlers-Repo
           TITLE: Googlers Magisk Repo

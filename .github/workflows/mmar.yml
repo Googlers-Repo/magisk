@@ -22,7 +22,7 @@ jobs:
         run: pip install -r generate/requirements.txt
 
       - name: Generate
-        run: python generate.py "${{ secrets.TOKEN }}"
+        run: python generate/generate.py
         env:
           NAME: Magisk-Modules-Alt-Repo
           TITLE: Magisk Modules Alt Repo
@@ -30,19 +30,6 @@ jobs:
           SUPPORT: https://github.com/Magisk-Modules-Alt-Repo/json/issues
           SUBMIT_MODULE: https://github.com/Magisk-Modules-Alt-Repo/submission
           SCOPE: mmar
-
-#      - name: Generate MMR JSON
-#        run: python generate.py "${{ secrets.TOKEN }}"
-#        env:
-#          REPO_NAME: Magisk-Modules-Repo
-#          REPO_TITLE: Magisk Modules Repo (Official)
-#          REPO_WEBSITE: https://github.com/Magisk-Modules-Repo
-#          REPO_SUPPORT: ""
-#          REPO_DONATE: ""
-#          REPO_SUBMIT_MODULE: ""
-#          REPO_SCOPE: mmr
-#          REPO_EXTRA_TRACKS: ""
-#          GIT_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
 
       - name: Setup Git
         run: |
