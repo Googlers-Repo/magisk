@@ -1,5 +1,5 @@
 {
-    "last_update": 1705119193281,
+    "last_update": 1705126397154,
     "name": "Magisk Modules Alt Repo",
     "website": "https://github.com/Magisk-Modules-Alt-Repo",
     "support": "https://github.com/Magisk-Modules-Alt-Repo/json/issues",
@@ -759,7 +759,7 @@
             "updateJson": "https://raw.githubusercontent.com/xerta555/CloudflareDNS4Magisk/master/update.json",
             "last_update": 1673388959000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/CloudflareDNS4Magisk/master/README.md",
-            "stars": 5,
+            "stars": 6,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
