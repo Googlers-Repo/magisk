@@ -1,9 +1,9 @@
 {
-    "last_update": 1705140634449,
+    "last_update": 1705148649482,
     "name": "Magisk Modules Alt Repo",
     "website": "https://github.com/Magisk-Modules-Alt-Repo",
     "support": "https://github.com/Magisk-Modules-Alt-Repo/json/issues",
-    "donate": "",
+    "donate": null,
     "submitModule": "https://github.com/Magisk-Modules-Alt-Repo/submission",
     "modules": [
         {
@@ -495,7 +495,7 @@
             "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/main/update.json",
             "last_update": 1691528864000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/main/README.md",
-            "stars": 127,
+            "stars": 130,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
@@ -2203,7 +2203,7 @@
             "updateJson": null,
             "last_update": 1704239466000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HideNavBar/master/README.md",
-            "stars": 299,
+            "stars": 300,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
@@ -2819,7 +2819,7 @@
             "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Malwack/main/update.json",
             "last_update": 1699482097000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Malwack/main/README.md",
-            "stars": 55,
+            "stars": 56,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
@@ -4473,7 +4473,7 @@
             "updateJson": null,
             "last_update": 1704616829000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker/master/README.md",
-            "stars": 58,
+            "stars": 59,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
