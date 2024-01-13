@@ -1,5 +1,5 @@
 {
-    "last_update": 1705126978435,
+    "last_update": 1705134259397,
     "name": "Magisk Modules Repo (Official)",
     "website": "https://github.com/Magisk-Modules-Repo",
     "support": "",
@@ -2351,7 +2351,7 @@
             "updateJson": null,
             "last_update": 1656286469000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/movecert/master/README.md",
-            "stars": 575,
+            "stars": 576,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
