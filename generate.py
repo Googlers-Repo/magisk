@@ -46,27 +46,27 @@ meta = {
 
 def clone_and_zip(url: str, out: Path):
     repo_dir = out.with_suffix("")
-    if repo_dir.exists():
-        shutil.rmtree(repo_dir)
+    #if repo_dir.exists():
+        #shutil.rmtree(repo_dir)
 
     try:
         repo = Repo.clone_from(url, repo_dir)
     except GitCommandError:
-        shutil.rmtree(repo_dir, ignore_errors=True)
+       # shutil.rmtree(repo_dir, ignore_errors=True)
         raise GitCommandError(f"clone failed: {url}")
 
-    for path in repo_dir.iterdir():
-        if path.name.startswith(".git"):
-            if path.is_dir():
-                shutil.rmtree(path, ignore_errors=True)
-            if path.is_file():
-                path.unlink(missing_ok=True)
+  #  for path in repo_dir.iterdir():
+#        if path.name.startswith(".git"):
+#            if path.is_dir():
+#                shutil.rmtree(path, ignore_errors=True)
+#            if path.is_file():
+#                path.unlink(missing_ok=True)
 
             continue
 
     try:
         shutil.make_archive(repo_dir.as_posix(), format="zip", root_dir=repo_dir)
-        shutil.rmtree(repo_dir)
+        #shutil.rmtree(repo_dir)
     except FileNotFoundError:
         raise FileNotFoundError(f"archive failed: {repo_dir.as_posix()}")
 
