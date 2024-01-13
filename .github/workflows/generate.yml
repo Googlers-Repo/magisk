@@ -2,7 +2,7 @@ name: Generate MMAR Modules Meta JSON
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 */2 * * *"
 
 permissions:
   contents: write
@@ -33,18 +33,18 @@ jobs:
           pip install gitpython
           pip install ini-parser
 
-#      - name: Generate MMAR JSON
-#        run: python generate.py "${{ secrets.TOKEN }}"
-#        env:
-#          REPO_NAME: Magisk-Modules-Alt-Repo
- #         REPO_TITLE: Magisk Modules Alt Repo
- #         REPO_WEBSITE: https://github.com/Magisk-Modules-Alt-Repo
-    #      REPO_SUPPORT: https://github.com/Magisk-Modules-Alt-Repo/json/issues
-    #      REPO_DONATE: ""
-  #        REPO_SUBMIT_MODULE: https://github.com/Magisk-Modules-Alt-Repo/submission
- #         REPO_SCOPE: mmar
-  #        REPO_EXTRA_TRACKS: ""
- #         GIT_TOKEN: "${{ secrets.TOKEN }}"
+      - name: Generate MMAR JSON
+        run: python generate.py "${{ secrets.TOKEN }}"
+        env:
+          REPO_NAME: Magisk-Modules-Alt-Repo
+          REPO_TITLE: Magisk Modules Alt Repo
+          REPO_WEBSITE: https://github.com/Magisk-Modules-Alt-Repo
+          REPO_SUPPORT: https://github.com/Magisk-Modules-Alt-Repo/json/issues
+          REPO_DONATE: ""
+          REPO_SUBMIT_MODULE: https://github.com/Magisk-Modules-Alt-Repo/submission
+          REPO_SCOPE: mmar
+          REPO_EXTRA_TRACKS: ""
+          GIT_TOKEN: "${{ secrets.TOKEN }}"
 
       - name: Generate GMR JSON
         run: python generate.py "${{ secrets.TOKEN }}"
@@ -56,23 +56,22 @@ jobs:
           REPO_DONATE: ""
           REPO_SUBMIT_MODULE: ""
           REPO_SCOPE: gmr
-          REPO_EXTRA_TRACKS: ""
-          # REPO_EXTRA_TRACKS: gmr-tracks
+          REPO_EXTRA_TRACKS: gmr-tracks
           
           GIT_TOKEN: "${{ secrets.TOKEN }}"
 
- #     - name: Generate MMR JSON
- #       run: python generate.py "${{ secrets.TOKEN }}"
- #       env:
- #         REPO_NAME: Magisk-Modules-Repo
-  #        REPO_TITLE: Magisk Modules Repo (Official)
-#          REPO_WEBSITE: https://github.com/Magisk-Modules-Repo
-#          REPO_SUPPORT: ""
-#          REPO_DONATE: ""
-#          REPO_SUBMIT_MODULE: ""
-#          REPO_SCOPE: mmr
-#          REPO_EXTRA_TRACKS: ""
-#          GIT_TOKEN: "${{ secrets.TOKEN }}"
+      - name: Generate MMR JSON
+        run: python generate.py "${{ secrets.TOKEN }}"
+        env:
+          REPO_NAME: Magisk-Modules-Repo
+          REPO_TITLE: Magisk Modules Repo (Official)
+          REPO_WEBSITE: https://github.com/Magisk-Modules-Repo
+          REPO_SUPPORT: ""
+          REPO_DONATE: ""
+          REPO_SUBMIT_MODULE: ""
+          REPO_SCOPE: mmr
+          REPO_EXTRA_TRACKS: ""
+          GIT_TOKEN: "${{ secrets.TOKEN }}"
 
       - name: Setup Git
         run: |
