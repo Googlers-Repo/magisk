@@ -1,5 +1,5 @@
 {
-    "last_update": 1705134128438,
+    "last_update": 1705141181606,
     "name": "Googlers Magisk Repo",
     "website": "https://github.com/Googlers-Repo",
     "support": "https://github.com/Googlers-Repo/json/issues",
@@ -31,7 +31,7 @@
                     "name": "DerGoogler",
                     "avatar": "https://avatars.githubusercontent.com/u/54764558?v=4",
                     "bio": "21 y/o well known Android modder and Magisk/KernelSU developer from Germany.",
-                    "followers": 91,
+                    "followers": 92,
                     "verified": true
                 },
                 "contributors": [
@@ -81,7 +81,7 @@
             "updateJson": null,
             "last_update": 1705103442000,
             "readme": "https://raw.githubusercontent.com/Googlers-Repo/mmrl_install_tools/master/README.md",
-            "stars": 10,
+            "stars": 11,
             "about": {
                 "repo_source": "Googlers Magisk Repo",
                 "language": "Shell",
@@ -93,7 +93,7 @@
                     "name": "DerGoogler",
                     "avatar": "https://avatars.githubusercontent.com/u/54764558?v=4",
                     "bio": "21 y/o well known Android modder and Magisk/KernelSU developer from Germany.",
-                    "followers": 91,
+                    "followers": 92,
                     "verified": true
                 },
                 "contributors": null,
@@ -186,7 +186,7 @@
             "updateJson": "https://raw.githubusercontent.com/symbuzzer/systemless-hosts-KernelSU-module/main/update.json",
             "last_update": 1701791691000,
             "readme": "https://raw.githubusercontent.com/symbuzzer/systemless-hosts-KernelSU-module/main/README.md",
-            "stars": 137,
+            "stars": 138,
             "about": {
                 "repo_source": "Googlers Magisk Repo",
                 "language": "Shell",
@@ -272,7 +272,7 @@
             "valid": true,
             "verified": true,
             "updateJson": "https://raw.githubusercontent.com/VR-25/acc/master/module.json",
-            "last_update": 1704648433000,
+            "last_update": 1705138740000,
             "readme": "https://raw.githubusercontent.com/VR-25/acc/dev/README.md",
             "stars": 1387,
             "about": {
