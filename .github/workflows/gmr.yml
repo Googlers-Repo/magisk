@@ -30,6 +30,7 @@ jobs:
           SUPPORT: https://github.com/Googlers-Repo/json/issues
           SCOPE: gmr
           EXTRA_TRACKS: metadata/gmr-tracks
+          TOKEN: "${{ secrets.TOKEN }}"
 
       - name: Setup Git
         run: |

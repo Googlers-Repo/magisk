@@ -30,6 +30,7 @@ jobs:
           SUPPORT: https://github.com/Magisk-Modules-Alt-Repo/json/issues
           SUBMIT_MODULE: https://github.com/Magisk-Modules-Alt-Repo/submission
           SCOPE: mmar
+          TOKEN: "${{ secrets.TOKEN }}"
 
       - name: Setup Git
         run: |

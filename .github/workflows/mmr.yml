@@ -28,6 +28,7 @@ jobs:
           TITLE: Magisk Modules Repo (Official)
           WEBSITE: https://github.com/Magisk-Modules-Repo
           SCOPE: mmr
+          TOKEN: "${{ secrets.TOKEN }}"
 
       - name: Setup Git
         run: |

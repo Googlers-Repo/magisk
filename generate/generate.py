@@ -21,7 +21,7 @@ REPO_SCOPE = os.environ.get('SCOPE')
 REPO_EXTRA_TRACKS = os.environ.get('EXTRA_TRACKS')
 
 # Initialize the GitHub objects
-GIT_TOKEN = os.environ.get('GITHUB_TOKEN')
+GIT_TOKEN = os.environ.get('TOKEN')
 g = Github(GIT_TOKEN)
 user = g.get_user(REPO_NAME)
 repos = user.get_repos()
