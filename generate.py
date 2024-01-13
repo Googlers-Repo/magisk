@@ -176,7 +176,7 @@ def make_module_json(repo: Repository):
             },
         }
 
-        clone_and_zip(f"{repo.html_url}.git", Path(f"modules/{REPO_SCOPE}/{mod_id}.zip"))
+        # clone_and_zip(f"{repo.html_url}.git", Path(f"modules/{REPO_SCOPE}/{mod_id}.zip"))
         
         # Handle file to ignore the index process for the current module
         if not (properties.get("noIndex") or properties.get("gr_ignore")):
