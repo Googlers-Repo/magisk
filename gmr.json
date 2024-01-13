@@ -1,5 +1,5 @@
 {
-    "last_update": 1705154912242,
+    "last_update": 1705162286319,
     "name": "Googlers Magisk Repo",
     "website": "https://github.com/Googlers-Repo",
     "support": "https://github.com/Googlers-Repo/json/issues",
@@ -62,6 +62,136 @@
                 "minMagisk": null,
                 "needRamdisk": null,
                 "support": "https://github.com/DerGoogler/AntiAMTS-Magisk",
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "code_server",
+            "name": "Code Server",
+            "author": "coder, vhqtvn & Der_Googler",
+            "description": "VS Code in the browser",
+            "version": "1.0.0",
+            "versionCode": 100,
+            "download": "https://github.com/Googlers-Repo/code-server/archive/master.zip",
+            "valid": true,
+            "verified": false,
+            "updateJson": null,
+            "last_update": 1705161366000,
+            "readme": "https://raw.githubusercontent.com/Googlers-Repo/code-server/master/README.md",
+            "stars": 1,
+            "about": {
+                "repo_source": "Googlers Magisk Repo",
+                "language": "HTML",
+                "source": "https://github.com/Googlers-Repo/code-server.git",
+                "issues": "https://github.com/Googlers-Repo/code-server/issues"
+            },
+            "mmrl": {
+                "author": {
+                    "name": "DerGoogler",
+                    "avatar": "https://avatars.githubusercontent.com/u/54764558?v=4",
+                    "bio": "21 y/o well known Android modder and Magisk/KernelSU developer from Germany.",
+                    "followers": 93,
+                    "verified": true
+                },
+                "contributors": [
+                    {
+                        "name": "vhqtvn",
+                        "avatar": "https://avatars.githubusercontent.com/u/8930337?v=4",
+                        "bio": null,
+                        "followers": 100,
+                        "verified": false
+                    },
+                    {
+                        "name": "coder",
+                        "avatar": "https://avatars.githubusercontent.com/u/95932066?v=4",
+                        "bio": "Coder provisions software development environments via Terraform on Linux, macOS, Windows, X86, ARM, and of course, Kubernetes.",
+                        "followers": 803,
+                        "verified": false
+                    }
+                ],
+                "cover": "https://coder.com/og-image.png",
+                "logo": "https://avatars.githubusercontent.com/u/95932066?s=200&v=4",
+                "screenshots": [
+                    "https://raw.githubusercontent.com/coder/code-server/main/docs/assets/screenshot-1.png",
+                    "https://raw.githubusercontent.com/coder/code-server/main/docs/assets/screenshot-2.png"
+                ],
+                "categories": [
+                    "Tools",
+                    "Customization",
+                    "Miscellaneous"
+                ],
+                "require": [
+                    "mkshrc",
+                    "node_on_android"
+                ],
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
+                "donate": null,
+                "config": null,
+                "changeBoot": null,
+                "mmtReborn": null
+            }
+        },
+        {
+            "id": "gcc_on_android",
+            "name": "GCC Toolchain",
+            "author": "Der_Googler",
+            "description": "GCC Toolchain is usable to build many things, such as native modules for Node.js",
+            "version": "1.0.0",
+            "versionCode": 100,
+            "download": "https://github.com/Googlers-Repo/gcc/archive/main.zip",
+            "valid": true,
+            "verified": true,
+            "updateJson": null,
+            "last_update": 1705161334000,
+            "readme": "https://raw.githubusercontent.com/Googlers-Repo/gcc/main/README.md",
+            "stars": 2,
+            "about": {
+                "repo_source": "Googlers Magisk Repo",
+                "language": "C",
+                "source": "https://github.com/Googlers-Repo/gcc.git",
+                "issues": "https://github.com/Googlers-Repo/gcc/issues"
+            },
+            "mmrl": {
+                "author": {
+                    "name": "DerGoogler",
+                    "avatar": "https://avatars.githubusercontent.com/u/54764558?v=4",
+                    "bio": "21 y/o well known Android modder and Magisk/KernelSU developer from Germany.",
+                    "followers": 93,
+                    "verified": true
+                },
+                "contributors": null,
+                "cover": null,
+                "logo": "https://www.incredibuild.com/wp-content/uploads/2021/03/GCC01.png",
+                "screenshots": null,
+                "categories": [
+                    "Coding",
+                    "Miscellaneous"
+                ],
+                "require": [
+                    "mkshrc"
+                ],
+                "developerNote": null,
+                "supportedRoots": null,
+                "minKernelSU": null
+            },
+            "fox": {
+                "minApi": null,
+                "maxApi": null,
+                "minMagisk": null,
+                "needRamdisk": null,
+                "support": null,
                 "donate": null,
                 "config": null,
                 "changeBoot": null,
