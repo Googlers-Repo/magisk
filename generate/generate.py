@@ -27,7 +27,7 @@ user = g.get_user(REPO_NAME)
 repos = user.get_repos()
 
 REPO_VERIFIED_MODULES = os.environ.get('VERIFIED_MODULES', "metadata/verified_modules.json")
-REPO_VERIFIED_USER = os.environ.get('VERIFIED_USERS', "metadata/verified_users.json")
+REPO_VERIFIED_USERS = os.environ.get('VERIFIED_USERS', "metadata/verified_users.json")
 
 # Check if verified modules and users exists
 if REPO_VERIFIED_MODULES and os.path.isfile(REPO_VERIFIED_MODULES):
