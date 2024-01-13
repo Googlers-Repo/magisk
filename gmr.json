@@ -1,10 +1,10 @@
 {
-    "last_update": 1705141181606,
+    "last_update": 1705143247756,
     "name": "Googlers Magisk Repo",
     "website": "https://github.com/Googlers-Repo",
     "support": "https://github.com/Googlers-Repo/json/issues",
-    "donate": "",
-    "submitModule": "",
+    "donate": null,
+    "submitModule": null,
     "modules": [
         {
             "id": "amtsmagisk",
@@ -272,7 +272,7 @@
             "valid": true,
             "verified": true,
             "updateJson": "https://raw.githubusercontent.com/VR-25/acc/master/module.json",
-            "last_update": 1705138740000,
+            "last_update": 1705141965000,
             "readme": "https://raw.githubusercontent.com/VR-25/acc/dev/README.md",
             "stars": 1387,
             "about": {
