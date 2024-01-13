@@ -1,5 +1,5 @@
 {
-    "last_update": 1655496159000,
+    "last_update": 1705113292371,
     "name": "Magisk Modules Repo (Official)",
     "website": "https://github.com/Magisk-Modules-Repo",
     "support": "",
@@ -151,7 +151,7 @@
             "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/update.json",
             "last_update": 1698679366000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/README.md",
-            "stars": 357,
+            "stars": 359,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -1339,7 +1339,7 @@
             "updateJson": null,
             "last_update": 1644066160000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/energizedprotection/master/README.md",
-            "stars": 290,
+            "stars": 291,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -1515,7 +1515,7 @@
             "updateJson": null,
             "last_update": 1612675127000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/G-VisualMod/master/README.md",
-            "stars": 342,
+            "stars": 343,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -1823,7 +1823,7 @@
             "updateJson": null,
             "last_update": 1565052950000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/KaliNethunter/master/README.md",
-            "stars": 250,
+            "stars": 251,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -3055,7 +3055,7 @@
             "updateJson": null,
             "last_update": 1613616737000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/riru_edxposed/master/README.md",
-            "stars": 70,
+            "stars": 71,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -3979,7 +3979,7 @@
             "updateJson": null,
             "last_update": 1613281622000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/WDAnimationcxair/master/README.md",
-            "stars": 28,
+            "stars": 29,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",

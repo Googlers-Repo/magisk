@@ -1,5 +1,5 @@
 {
-    "last_update": 1690995729000,
+    "last_update": 1705112664465,
     "name": "Magisk Modules Alt Repo",
     "website": "https://github.com/Magisk-Modules-Alt-Repo",
     "support": "https://github.com/Magisk-Modules-Alt-Repo/json/issues",
@@ -127,7 +127,7 @@
                         "name": "xerta555",
                         "avatar": "https://avatars.githubusercontent.com/u/20888017?v=4",
                         "bio": null,
-                        "followers": 86,
+                        "followers": 87,
                         "verified": false
                     }
                 ],
@@ -189,7 +189,7 @@
                         "name": "xerta555",
                         "avatar": "https://avatars.githubusercontent.com/u/20888017?v=4",
                         "bio": null,
-                        "followers": 86,
+                        "followers": 87,
                         "verified": false
                     }
                 ],
@@ -2011,7 +2011,7 @@
                         "name": "xerta555",
                         "avatar": "https://avatars.githubusercontent.com/u/20888017?v=4",
                         "bio": null,
-                        "followers": 86,
+                        "followers": 87,
                         "verified": false
                     }
                 ],
@@ -2073,7 +2073,7 @@
                         "name": "xerta555",
                         "avatar": "https://avatars.githubusercontent.com/u/20888017?v=4",
                         "bio": null,
-                        "followers": 86,
+                        "followers": 87,
                         "verified": false
                     }
                 ],
@@ -2951,7 +2951,7 @@
             "updateJson": null,
             "last_update": 1694329738000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MiXplorer/main/README.md",
-            "stars": 188,
+            "stars": 189,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
@@ -2995,7 +2995,7 @@
             "updateJson": null,
             "last_update": 1705018302000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/mkshrc/master/README.md",
-            "stars": 38,
+            "stars": 39,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
@@ -3007,7 +3007,7 @@
                     "name": "DerGoogler",
                     "avatar": "https://avatars.githubusercontent.com/u/54764558?v=4",
                     "bio": "21 y/o well known Android modder and Magisk/KernelSU developer from Germany.",
-                    "followers": 90,
+                    "followers": 91,
                     "verified": true
                 },
                 "contributors": null,
@@ -3141,7 +3141,7 @@
             "updateJson": null,
             "last_update": 1701020945000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/node/master/README.md",
-            "stars": 38,
+            "stars": 39,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "JavaScript",
@@ -3153,7 +3153,7 @@
                     "name": "DerGoogler",
                     "avatar": "https://avatars.githubusercontent.com/u/54764558?v=4",
                     "bio": "21 y/o well known Android modder and Magisk/KernelSU developer from Germany.",
-                    "followers": 90,
+                    "followers": 91,
                     "verified": true
                 },
                 "contributors": null,
@@ -4605,7 +4605,7 @@
             "updateJson": null,
             "last_update": 1701025578000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/xhhttp/master/README.md",
-            "stars": 14,
+            "stars": 15,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
@@ -4617,7 +4617,7 @@
                     "name": "DerGoogler",
                     "avatar": "https://avatars.githubusercontent.com/u/54764558?v=4",
                     "bio": "21 y/o well known Android modder and Magisk/KernelSU developer from Germany.",
-                    "followers": 90,
+                    "followers": 91,
                     "verified": true
                 },
                 "contributors": [
