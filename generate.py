@@ -62,7 +62,7 @@ def clone_and_zip(url: str, out: Path):
 #            if path.is_file():
 #                path.unlink(missing_ok=True)
 
-            continue
+#            continue
 
     try:
         shutil.make_archive(repo_dir.as_posix(), format="zip", root_dir=repo_dir)
