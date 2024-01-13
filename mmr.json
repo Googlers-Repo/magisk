@@ -1,5 +1,5 @@
 {
-    "last_update": 1705113292371,
+    "last_update": 1705119874943,
     "name": "Magisk Modules Repo (Official)",
     "website": "https://github.com/Magisk-Modules-Repo",
     "support": "",
@@ -2087,7 +2087,7 @@
             "updateJson": null,
             "last_update": 1673294532000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/MagiskHidePropsConf/master/README.md",
-            "stars": 1863,
+            "stars": 1864,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
@@ -2351,7 +2351,7 @@
             "updateJson": null,
             "last_update": 1656286469000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/movecert/master/README.md",
-            "stars": 574,
+            "stars": 575,
             "about": {
                 "repo_source": "Magisk Modules Repo (Official)",
                 "language": "Shell",
