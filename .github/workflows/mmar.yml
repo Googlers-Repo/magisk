@@ -1,0 +1,55 @@
+name: Generate Magisk Modules Alt Repo Meta JSON
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */2 * * *"
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+          cache: "pip"
+          architecture: "x64"
+          cache-dependency-path: "**/requirements.txt"
+
+      - name: Install dependencies
+        run: pip install -r generate/requirements.txt
+
+      - name: Generate
+        run: python generate.py "${{ secrets.TOKEN }}"
+        env:
+          NAME: Magisk-Modules-Alt-Repo
+          TITLE: Magisk Modules Alt Repo
+          WEBSITE: https://github.com/Magisk-Modules-Alt-Repo
+          SUPPORT: https://github.com/Magisk-Modules-Alt-Repo/json/issues
+          SUBMIT_MODULE: https://github.com/Magisk-Modules-Alt-Repo/submission
+          SCOPE: mmar
+
+#      - name: Generate MMR JSON
+#        run: python generate.py "${{ secrets.TOKEN }}"
+#        env:
+#          REPO_NAME: Magisk-Modules-Repo
+#          REPO_TITLE: Magisk Modules Repo (Official)
+#          REPO_WEBSITE: https://github.com/Magisk-Modules-Repo
+#          REPO_SUPPORT: ""
+#          REPO_DONATE: ""
+#          REPO_SUBMIT_MODULE: ""
+#          REPO_SCOPE: mmr
+#          REPO_EXTRA_TRACKS: ""
+#          GIT_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+
+      - name: Setup Git
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+      - name: Commit Changes
+        run: |
+          git add .
+          git commit -m "Update Magisk Modules Alt Repo" || true
+          git push || true

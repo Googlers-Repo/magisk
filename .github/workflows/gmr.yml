@@ -1,0 +1,42 @@
+name: Generate Googlers Magisk Repo Meta JSON
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */2 * * *"
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+          cache: "pip"
+          architecture: "x64"
+          cache-dependency-path: "**/requirements.txt"
+
+      - name: Install dependencies
+        run: pip install -r generate/requirements.txt
+
+      - name: Generate
+        run: python -m generate/generate
+        env:
+          NAME: Googlers-Repo
+          TITLE: Googlers Magisk Repo
+          WEBSITE: https://github.com/Googlers-Repo
+          SUPPORT: https://github.com/Googlers-Repo/json/issues
+          SCOPE: gmr
+          EXTRA_TRACKS: metadata/gmr-tracks
+
+      - name: Setup Git
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+      - name: Commit Changes
+        run: |
+          git add .
+          git commit -m "Update Googlers Magisk Repo" || true
+          git push || true

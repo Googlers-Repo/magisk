@@ -11,26 +11,38 @@ from pathlib import Path
 from typing import Optional
 
 # Configuration
-REPO_NAME = os.environ['REPO_NAME']
-REPO_TITLE = os.environ['REPO_TITLE']
-REPO_WEBSITE = os.environ['REPO_WEBSITE']
-REPO_SUPPORT = os.environ['REPO_SUPPORT']
-REPO_DONATE = os.environ['REPO_DONATE']
-REPO_SUBMIT_MODULE = os.environ['REPO_SUBMIT_MODULE']
-REPO_SCOPE = os.environ['REPO_SCOPE']
-REPO_EXTRA_TRACKS = os.environ['REPO_EXTRA_TRACKS']
+REPO_NAME = os.environ.get('NAME')
+REPO_TITLE = os.environ.get('TITLE')
+REPO_WEBSITE = os.environ.get('WEBSITE')
+REPO_SUPPORT = os.environ.get('SUPPORT')
+REPO_DONATE = os.environ.get('DONATE')
+REPO_SUBMIT_MODULE = os.environ.get('SUBMIT_MODULE')
+REPO_SCOPE = os.environ.get('SCOPE')
+REPO_EXTRA_TRACKS = os.environ.get('EXTRA_TRACKS')
 
 # Initialize the GitHub objects
-GIT_TOKEN = os.environ['GIT_TOKEN']
+GIT_TOKEN = os.environ.get('GITHUB_TOKEN')
 g = Github(GIT_TOKEN)
 user = g.get_user(REPO_NAME)
 repos = user.get_repos()
 
-fverified = open('verified.json')
-verified = json.load(fverified)
+REPO_VERIFIED_MODULES = os.environ.get('VERIFIED_MODULES', "metadata/verified_modules.json")
+REPO_VERIFIED_USER = os.environ.get('VERIFIED_USERS', "metadata/verified_users.json")
 
-f_user_verified = open('user_verified.json')
-user_verified = json.load(f_user_verified)
+# Check if verified modules and users exists
+if REPO_VERIFIED_MODULES and os.path.isfile(REPO_VERIFIED_MODULES):
+    f_verified_modules = open(REPO_VERIFIED_MODULES)
+    verified_modules = json.load(f_verified_modules)
+    f_verified_modules.close()
+else:
+    verified_modules = []
+
+if REPO_VERIFIED_USERS and os.path.isfile(REPO_VERIFIED_USERS):
+    f_verified_users = open(REPO_VERIFIED_USERS)
+    verified_users = json.load(f_verified_users)
+    f_verified_users.close()
+else:
+    verified_users = []
 
 # Skeleton for the repository
 meta = {
@@ -93,7 +105,7 @@ def get_user(username: str | None):
             "avatar": _user.avatar_url,
             "bio": _user.bio,
             "followers": _user.followers,
-            "verified": _user.login in user_verified,
+            "verified": _user.login in verified_users,
         }
     else:
         return None
@@ -139,7 +151,7 @@ def make_module_json(repo: Repository):
             "download": f"https://github.com/{repo.full_name}/archive/{repo.default_branch}.zip",
             # Check if META-INF folder exists, which is required to install modules
             "valid": does_object_exists(repo, "META-INF"),
-            "verified": mod_id in verified,
+            "verified": mod_id in verified_modules,
             "updateJson": properties.get("updateJson"),
             "last_update": int(last_update_timestamp * 1000),
             "readme": f"https://raw.githubusercontent.com/{repo.full_name}/{repo.default_branch}/README.md",
@@ -183,7 +195,7 @@ def make_module_json(repo: Repository):
             # Append to skeleton
             meta.get("modules").append(module)
 
-if not REPO_NAME == "":
+if REPO_NAME:
     # Iterate over all public repositories
     for repo in repos:
         try:
@@ -191,7 +203,7 @@ if not REPO_NAME == "":
         except:
             continue
 
-if not REPO_EXTRA_TRACKS  == "":
+if REPO_EXTRA_TRACKS and os.path.isfile(f"{REPO_EXTRA_TRACKS}.json"):
     input_file = open(f"{REPO_EXTRA_TRACKS}.json")
     json_array = json.load(input_file)
 
@@ -207,5 +219,3 @@ if not REPO_EXTRA_TRACKS  == "":
 f = open(f"{REPO_SCOPE}.json", "w")
 f.write(json.dumps(meta, indent=4))
 f.close()
-fverified.close()
-f_user_verified.close()
