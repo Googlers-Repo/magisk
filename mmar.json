@@ -1,5 +1,5 @@
 {
-    "last_update": 1705235031121,
+    "last_update": 1705241509699,
     "name": "Magisk Modules Alt Repo",
     "website": "https://github.com/Magisk-Modules-Alt-Repo",
     "support": "https://github.com/Magisk-Modules-Alt-Repo/json/issues",
@@ -2951,7 +2951,7 @@
             "updateJson": null,
             "last_update": 1694329738000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MiXplorer/main/README.md",
-            "stars": 189,
+            "stars": 190,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
