@@ -1,5 +1,5 @@
 {
-    "last_update": 1705213017757,
+    "last_update": 1705220158189,
     "name": "Magisk Modules Alt Repo",
     "website": "https://github.com/Magisk-Modules-Alt-Repo",
     "support": "https://github.com/Magisk-Modules-Alt-Repo/json/issues",
@@ -2423,7 +2423,7 @@
             "updateJson": null,
             "last_update": 1652933875000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magic-flash/main/README.md",
-            "stars": 125,
+            "stars": 126,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
