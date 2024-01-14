@@ -1,5 +1,5 @@
 {
-    "last_update": 1705205770371,
+    "last_update": 1705213017757,
     "name": "Magisk Modules Alt Repo",
     "website": "https://github.com/Magisk-Modules-Alt-Repo",
     "support": "https://github.com/Magisk-Modules-Alt-Repo/json/issues",
@@ -63,7 +63,7 @@
             "updateJson": "https://raw.githubusercontent.com/VR-25/acc/master/module.json",
             "last_update": 1697485290000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/acc/master/README.md",
-            "stars": 10,
+            "stars": 11,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
@@ -2203,7 +2203,7 @@
             "updateJson": null,
             "last_update": 1704239466000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HideNavBar/master/README.md",
-            "stars": 300,
+            "stars": 299,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
@@ -4473,7 +4473,7 @@
             "updateJson": null,
             "last_update": 1704616829000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker/master/README.md",
-            "stars": 59,
+            "stars": 60,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
