@@ -1,5 +1,5 @@
 {
-    "last_update": 1705212734676,
+    "last_update": 1705219884979,
     "name": "Googlers Magisk Repo",
     "website": "https://github.com/Googlers-Repo",
     "support": "https://github.com/Googlers-Repo/json/issues",
@@ -360,7 +360,7 @@
             "updateJson": "https://raw.githubusercontent.com/symbuzzer/livebootmodule/main/update.json",
             "last_update": 1702580314000,
             "readme": "https://raw.githubusercontent.com/symbuzzer/livebootmodule/main/README.md",
-            "stars": 28,
+            "stars": 29,
             "about": {
                 "repo_source": "Googlers Magisk Repo",
                 "language": "Shell",
