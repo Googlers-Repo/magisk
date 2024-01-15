@@ -1,5 +1,5 @@
 {
-    "last_update": 1705291954521,
+    "last_update": 1705299224846,
     "name": "Googlers Magisk Repo",
     "website": "https://github.com/Googlers-Repo",
     "support": "https://github.com/Googlers-Repo/json/issues",
@@ -31,7 +31,7 @@
                     "name": "DerGoogler",
                     "avatar": "https://avatars.githubusercontent.com/u/54764558?v=4",
                     "bio": "21 y/o well known Android modder and Magisk/KernelSU developer from Germany.",
-                    "followers": 94,
+                    "followers": 95,
                     "verified": true
                 },
                 "contributors": [
@@ -93,7 +93,7 @@
                     "name": "DerGoogler",
                     "avatar": "https://avatars.githubusercontent.com/u/54764558?v=4",
                     "bio": "21 y/o well known Android modder and Magisk/KernelSU developer from Germany.",
-                    "followers": 94,
+                    "followers": 95,
                     "verified": true
                 },
                 "contributors": [
@@ -168,7 +168,7 @@
                     "name": "DerGoogler",
                     "avatar": "https://avatars.githubusercontent.com/u/54764558?v=4",
                     "bio": "21 y/o well known Android modder and Magisk/KernelSU developer from Germany.",
-                    "followers": 94,
+                    "followers": 95,
                     "verified": true
                 },
                 "contributors": null,
@@ -223,7 +223,7 @@
                     "name": "DerGoogler",
                     "avatar": "https://avatars.githubusercontent.com/u/54764558?v=4",
                     "bio": "21 y/o well known Android modder and Magisk/KernelSU developer from Germany.",
-                    "followers": 94,
+                    "followers": 95,
                     "verified": true
                 },
                 "contributors": null,
@@ -404,7 +404,7 @@
             "updateJson": "https://raw.githubusercontent.com/VR-25/acc/master/module.json",
             "last_update": 1705141965000,
             "readme": "https://raw.githubusercontent.com/VR-25/acc/dev/README.md",
-            "stars": 1390,
+            "stars": 1391,
             "about": {
                 "repo_source": "Googlers Magisk Repo",
                 "language": "Shell",
