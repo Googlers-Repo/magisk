@@ -1,5 +1,5 @@
 {
-    "last_update": 1705321607624,
+    "last_update": 1705327988878,
     "name": "Magisk Modules Alt Repo",
     "website": "https://github.com/Magisk-Modules-Alt-Repo",
     "support": "https://github.com/Magisk-Modules-Alt-Repo/json/issues",
@@ -4209,7 +4209,7 @@
             "updateJson": "https://raw.githubusercontent.com/zgfg/ToyBox-Ext/main/update.json",
             "last_update": 1691442121000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ToyBox-Ext/main/README.md",
-            "stars": 61,
+            "stars": 62,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
