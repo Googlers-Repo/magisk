@@ -1,5 +1,5 @@
 {
-    "last_update": 1705285838775,
+    "last_update": 1705292223467,
     "name": "Magisk Modules Alt Repo",
     "website": "https://github.com/Magisk-Modules-Alt-Repo",
     "support": "https://github.com/Magisk-Modules-Alt-Repo/json/issues",
@@ -2467,7 +2467,7 @@
             "updateJson": "https://raw.githubusercontent.com/anasfanani/magisk-autoboot/master/update.json",
             "last_update": 1704118593000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk-autoboot/main/README.md",
-            "stars": 1,
+            "stars": 2,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
@@ -3007,7 +3007,7 @@
                     "name": "DerGoogler",
                     "avatar": "https://avatars.githubusercontent.com/u/54764558?v=4",
                     "bio": "21 y/o well known Android modder and Magisk/KernelSU developer from Germany.",
-                    "followers": 93,
+                    "followers": 94,
                     "verified": true
                 },
                 "contributors": null,
@@ -3153,7 +3153,7 @@
                     "name": "DerGoogler",
                     "avatar": "https://avatars.githubusercontent.com/u/54764558?v=4",
                     "bio": "21 y/o well known Android modder and Magisk/KernelSU developer from Germany.",
-                    "followers": 93,
+                    "followers": 94,
                     "verified": true
                 },
                 "contributors": null,
@@ -4617,7 +4617,7 @@
                     "name": "DerGoogler",
                     "avatar": "https://avatars.githubusercontent.com/u/54764558?v=4",
                     "bio": "21 y/o well known Android modder and Magisk/KernelSU developer from Germany.",
-                    "followers": 93,
+                    "followers": 94,
                     "verified": true
                 },
                 "contributors": [
