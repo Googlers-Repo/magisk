@@ -1,5 +1,5 @@
 {
-    "last_update": 1705342616260,
+    "last_update": 1705349658633,
     "name": "Magisk Modules Alt Repo",
     "website": "https://github.com/Magisk-Modules-Alt-Repo",
     "support": "https://github.com/Magisk-Modules-Alt-Repo/json/issues",
@@ -2335,7 +2335,7 @@
             "updateJson": null,
             "last_update": 1665327252000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Luz-Nocturna_Modded/main/README.md",
-            "stars": 3,
+            "stars": 2,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
