@@ -1,5 +1,5 @@
 {
-    "last_update": 1705407491962,
+    "last_update": 1705414165798,
     "name": "Googlers Magisk Repo",
     "website": "https://github.com/Googlers-Repo",
     "support": "https://github.com/Googlers-Repo/json/issues",
@@ -108,7 +108,7 @@
                         "name": "coder",
                         "avatar": "https://avatars.githubusercontent.com/u/95932066?v=4",
                         "bio": "Coder provisions software development environments via Terraform on Linux, macOS, Windows, X86, ARM, and of course, Kubernetes.",
-                        "followers": 805,
+                        "followers": 806,
                         "verified": false
                     }
                 ],
@@ -404,7 +404,7 @@
             "updateJson": "https://raw.githubusercontent.com/VR-25/acc/master/module.json",
             "last_update": 1705141965000,
             "readme": "https://raw.githubusercontent.com/VR-25/acc/dev/README.md",
-            "stars": 1393,
+            "stars": 1392,
             "about": {
                 "repo_source": "Googlers Magisk Repo",
                 "language": "Shell",
@@ -660,13 +660,13 @@
             "name": "Sound Enhancement Sony Xperia 10",
             "author": "Rei Ryuki the Fixer",
             "description": "EQ global type soundfx ported from Sony Xperia 10 (I4113) for any Android 10 and up.",
-            "version": "v8.8",
-            "versionCode": 88,
+            "version": "v8.9",
+            "versionCode": 89,
             "download": "https://github.com/reiryuki/Sound-Enhancement-Sony-Xperia-10-Magisk-Module/archive/main.zip",
             "valid": true,
             "verified": false,
             "updateJson": null,
-            "last_update": 1705230905000,
+            "last_update": 1705411917000,
             "readme": "https://raw.githubusercontent.com/reiryuki/Sound-Enhancement-Sony-Xperia-10-Magisk-Module/main/README.md",
             "stars": 91,
             "about": {
