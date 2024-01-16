@@ -1,5 +1,5 @@
 {
-    "last_update": 1705392790402,
+    "last_update": 1705399834323,
     "name": "Googlers Magisk Repo",
     "website": "https://github.com/Googlers-Repo",
     "support": "https://github.com/Googlers-Repo/json/issues",
@@ -712,7 +712,7 @@
             "updateJson": null,
             "last_update": 1703514265000,
             "readme": "https://raw.githubusercontent.com/FerryAr/lhroot/master/README.md",
-            "stars": 140,
+            "stars": 141,
             "about": {
                 "repo_source": "Googlers Magisk Repo",
                 "language": "Shell",
