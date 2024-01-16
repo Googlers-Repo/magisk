@@ -1,5 +1,5 @@
 {
-    "last_update": 1705378607926,
+    "last_update": 1705385889818,
     "name": "Magisk Modules Alt Repo",
     "website": "https://github.com/Magisk-Modules-Alt-Repo",
     "support": "https://github.com/Magisk-Modules-Alt-Repo/json/issues",
@@ -495,7 +495,7 @@
             "updateJson": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/main/update.json",
             "last_update": 1691528864000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/main/README.md",
-            "stars": 130,
+            "stars": 131,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
