@@ -1,5 +1,5 @@
 {
-    "last_update": 1705385601585,
+    "last_update": 1705392790402,
     "name": "Googlers Magisk Repo",
     "website": "https://github.com/Googlers-Repo",
     "support": "https://github.com/Googlers-Repo/json/issues",
@@ -203,13 +203,13 @@
             "name": "MMRL Install Tools",
             "author": "Der_Googler",
             "description": "Required module if you want to install modules from Explore",
-            "version": "3.2.1",
-            "versionCode": 321,
+            "version": "4.2.2",
+            "versionCode": 422,
             "download": "https://github.com/Googlers-Repo/mmrl_install_tools/archive/master.zip",
             "valid": true,
             "verified": true,
             "updateJson": null,
-            "last_update": 1705103442000,
+            "last_update": 1705390629000,
             "readme": "https://raw.githubusercontent.com/Googlers-Repo/mmrl_install_tools/master/README.md",
             "stars": 11,
             "about": {
@@ -316,7 +316,7 @@
             "updateJson": "https://raw.githubusercontent.com/symbuzzer/systemless-hosts-KernelSU-module/main/update.json",
             "last_update": 1701791691000,
             "readme": "https://raw.githubusercontent.com/symbuzzer/systemless-hosts-KernelSU-module/main/README.md",
-            "stars": 140,
+            "stars": 139,
             "about": {
                 "repo_source": "Googlers Magisk Repo",
                 "language": "Shell",
