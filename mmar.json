@@ -1,5 +1,5 @@
 {
-    "last_update": 1705494398755,
+    "last_update": 1705500792250,
     "name": "Magisk Modules Alt Repo",
     "website": "https://github.com/Magisk-Modules-Alt-Repo",
     "support": "https://github.com/Magisk-Modules-Alt-Repo/json/issues",
@@ -275,7 +275,7 @@
             "updateJson": null,
             "last_update": 1693302157000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer/main/README.md",
-            "stars": 51,
+            "stars": 50,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
@@ -319,7 +319,7 @@
             "updateJson": null,
             "last_update": 1704021032000,
             "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-misc-settings/master/README.md",
-            "stars": 128,
+            "stars": 127,
             "about": {
                 "repo_source": "Magisk Modules Alt Repo",
                 "language": "Shell",
