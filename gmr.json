@@ -1,5 +1,5 @@
 {
-    "last_update": 1705551124136,
+    "last_update": 1705558402698,
     "name": "Googlers Magisk Repo",
     "website": "https://github.com/Googlers-Repo",
     "support": "https://github.com/Googlers-Repo/json/issues",
@@ -404,7 +404,7 @@
             "updateJson": "https://raw.githubusercontent.com/VR-25/acc/master/module.json",
             "last_update": 1705141965000,
             "readme": "https://raw.githubusercontent.com/VR-25/acc/dev/README.md",
-            "stars": 1394,
+            "stars": 1395,
             "about": {
                 "repo_source": "Googlers Magisk Repo",
                 "language": "Shell",
