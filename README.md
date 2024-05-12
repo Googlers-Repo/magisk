@@ -1,5 +1,8 @@
 [MMRL]: https://github.com/DerGoogler/MMRL
 
+> [!CAUTION]
+> # This repo format isn't supported in MMRL anymore. Avoid any usage in future.
+
 # Googlers Magisk Repo
 
 These are for [MMRL][MMRL]. Modules that don't include a `META-INF` folder will be removed from the API. These modules mostly not installable or causes problems to the end-user.
